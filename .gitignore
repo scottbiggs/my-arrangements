@@ -3,3 +3,4 @@
 *.mp4
 *.mpg
 .DS_Store
+.mscbackup/

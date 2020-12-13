@@ -88,6 +88,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
@@ -139,6 +140,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="68"/>
           <synti>Fluid</synti>
@@ -192,6 +194,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="71"/>
           <synti>Fluid</synti>
@@ -244,6 +247,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="70"/>
           <synti>Fluid</synti>
@@ -276,6 +280,19 @@
             <linkedMain/>
             <text>Allegro</text>
             </Tempo>
+          <Spanner type="TextLine">
+            <TextLine>
+              <endHookType>1</endHookType>
+              <beginText>Opt.</beginText>
+              <beginTextPlace>auto</beginTextPlace>
+              <linkedMain/>
+              </TextLine>
+            <next>
+              <location>
+                <measures>2</measures>
+                </location>
+              </next>
+            </Spanner>
           <Rest>
             <linkedMain/>
             <durationType>measure</durationType>
@@ -294,6 +311,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="TextLine">
+            <prev>
+              <location>
+                <measures>-2</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -1054,6 +1078,7 @@
             </Rest>
           <BarLine>
             <subtype>end</subtype>
+            <span>1</span>
             <linkedMain/>
             </BarLine>
           <Spanner type="Volta">
@@ -1078,6 +1103,19 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Spanner type="TextLine">
+            <TextLine>
+              <endHookType>1</endHookType>
+              <beginText>Optional</beginText>
+              <beginTextPlace>auto</beginTextPlace>
+              <linkedMain/>
+              </TextLine>
+            <next>
+              <location>
+                <measures>2</measures>
+                </location>
+              </next>
+            </Spanner>
           <Rest>
             <linkedMain/>
             <durationType>measure</durationType>
@@ -1197,6 +1235,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="TextLine">
+            <prev>
+              <location>
+                <measures>-2</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -2327,6 +2372,7 @@
             </Rest>
           <BarLine>
             <subtype>end</subtype>
+            <span>1</span>
             <linkedMain/>
             </BarLine>
           </voice>
@@ -2344,6 +2390,19 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Spanner type="TextLine">
+            <TextLine>
+              <endHookType>1</endHookType>
+              <beginText>Optional</beginText>
+              <beginTextPlace>auto</beginTextPlace>
+              <linkedMain/>
+              </TextLine>
+            <next>
+              <location>
+                <measures>2</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -2580,6 +2639,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="TextLine">
+            <prev>
+              <location>
+                <measures>-2</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -3949,6 +4015,19 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Spanner type="TextLine">
+            <TextLine>
+              <endHookType>1</endHookType>
+              <beginText>Optional</beginText>
+              <beginTextPlace>auto</beginTextPlace>
+              <linkedMain/>
+              </TextLine>
+            <next>
+              <location>
+                <measures>2</measures>
+                </location>
+              </next>
+            </Spanner>
           <Rest>
             <linkedMain/>
             <durationType>measure</durationType>
@@ -3967,6 +4046,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="TextLine">
+            <prev>
+              <location>
+                <measures>-2</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -5120,6 +5206,7 @@
             <gateTime>100</gateTime>
             </Articulation>
           <Channel>
+            <controller ctrl="0" value="0"/>
             <controller ctrl="32" value="17"/>
             <program value="73"/>
             <synti>Fluid</synti>
@@ -5161,6 +5248,20 @@
                 </linked>
               <text>Allegro</text>
               </Tempo>
+            <Spanner type="TextLine">
+              <TextLine>
+                <endHookType>1</endHookType>
+                <beginText>Opt.</beginText>
+                <beginTextPlace>auto</beginTextPlace>
+                <linked>
+                  </linked>
+                </TextLine>
+              <next>
+                <location>
+                  <measures>2</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Rest>
               <linked>
                 </linked>
@@ -5174,7 +5275,7 @@
           <voice>
             <TimeSig>
               <linked>
-                <indexDiff>-3</indexDiff>
+                <indexDiff>-4</indexDiff>
                 </linked>
               <sigN>4</sigN>
               <sigD>4</sigD>
@@ -5182,7 +5283,7 @@
             <Tempo>
               <tempo>2.4</tempo>
               <linked>
-                <indexDiff>-3</indexDiff>
+                <indexDiff>-4</indexDiff>
                 </linked>
               <text>Allegro</text>
               </Tempo>
@@ -5204,6 +5305,13 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="TextLine">
+              <prev>
+                <location>
+                  <measures>-2</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -6117,7 +6225,6 @@
               </Rest>
             <BarLine>
               <subtype>end</subtype>
-              <span>3</span>
               <linked>
                 </linked>
               </BarLine>
@@ -6195,6 +6302,7 @@
             <gateTime>100</gateTime>
             </Articulation>
           <Channel>
+            <controller ctrl="0" value="0"/>
             <controller ctrl="32" value="17"/>
             <program value="68"/>
             <synti>Fluid</synti>
@@ -6246,6 +6354,21 @@
                 </linked>
               <text>Allegro</text>
               </Tempo>
+            <Spanner type="TextLine">
+              <TextLine>
+                <endHookType>1</endHookType>
+                <beginText>Optional</beginText>
+                <beginTextPlace>auto</beginTextPlace>
+                <linked>
+                  <indexDiff>2</indexDiff>
+                  </linked>
+                </TextLine>
+              <next>
+                <location>
+                  <measures>2</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Rest>
               <linked>
                 <indexDiff>2</indexDiff>
@@ -6385,6 +6508,13 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="TextLine">
+              <prev>
+                <location>
+                  <measures>-2</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -7784,7 +7914,6 @@
               </Rest>
             <BarLine>
               <subtype>end</subtype>
-              <span>2</span>
               <linked>
                 </linked>
               </BarLine>
@@ -7864,6 +7993,7 @@
             <gateTime>100</gateTime>
             </Articulation>
           <Channel>
+            <controller ctrl="0" value="0"/>
             <controller ctrl="32" value="17"/>
             <program value="71"/>
             <synti>Fluid</synti>
@@ -7915,6 +8045,21 @@
                 </linked>
               <text>Allegro</text>
               </Tempo>
+            <Spanner type="TextLine">
+              <TextLine>
+                <endHookType>1</endHookType>
+                <beginText>Optional</beginText>
+                <beginTextPlace>auto</beginTextPlace>
+                <linked>
+                  <indexDiff>2</indexDiff>
+                  </linked>
+                </TextLine>
+              <next>
+                <location>
+                  <measures>2</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 <indexDiff>2</indexDiff>
@@ -8190,6 +8335,13 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="TextLine">
+              <prev>
+                <location>
+                  <measures>-2</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -9891,6 +10043,7 @@
             <gateTime>100</gateTime>
             </Articulation>
           <Channel>
+            <controller ctrl="0" value="0"/>
             <controller ctrl="32" value="17"/>
             <program value="70"/>
             <synti>Fluid</synti>
@@ -9942,6 +10095,21 @@
                 </linked>
               <text>Allegro</text>
               </Tempo>
+            <Spanner type="TextLine">
+              <TextLine>
+                <endHookType>1</endHookType>
+                <beginText>Optional</beginText>
+                <beginTextPlace>auto</beginTextPlace>
+                <linked>
+                  <indexDiff>2</indexDiff>
+                  </linked>
+                </TextLine>
+              <next>
+                <location>
+                  <measures>2</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Rest>
               <linked>
                 <indexDiff>2</indexDiff>
@@ -9956,6 +10124,7 @@
           <voice>
             <TimeSig>
               <linked>
+                <indexDiff>-1</indexDiff>
                 </linked>
               <sigN>4</sigN>
               <sigD>4</sigD>
@@ -9988,6 +10157,13 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="TextLine">
+              <prev>
+                <location>
+                  <measures>-2</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>

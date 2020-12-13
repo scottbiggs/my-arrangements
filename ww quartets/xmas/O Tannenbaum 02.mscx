@@ -1914,6 +1914,16 @@
           <Chord>
             <linkedMain/>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>31/80</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>62</pitch>
@@ -1993,6 +2003,13 @@
           <Chord>
             <linkedMain/>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-31/80</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>91</pitch>
@@ -3489,6 +3506,16 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/6</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -3507,6 +3534,13 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/6</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>69</pitch>
@@ -6131,6 +6165,10 @@
             <linkedMain/>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>41</pitch>
@@ -6150,6 +6188,10 @@
             <linkedMain/>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>43</pitch>
@@ -6173,6 +6215,10 @@
             <linkedMain/>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>45</pitch>
@@ -6194,6 +6240,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>38</pitch>
@@ -6203,6 +6253,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -6220,6 +6274,10 @@
             <linkedMain/>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>43</pitch>
@@ -6256,6 +6314,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>36</pitch>
@@ -6270,6 +6332,10 @@
             <linkedMain/>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>41</pitch>
@@ -6288,6 +6354,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>45</pitch>
@@ -6297,6 +6367,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>43</pitch>
@@ -6309,17 +6383,29 @@
         <voice>
           <Chord>
             <linkedMain/>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>43</pitch>
@@ -6342,16 +6428,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                <linkedMain/>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/4</fractions>
-                  </location>
-                </next>
-              </Spanner>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>45</pitch>
@@ -6368,15 +6448,22 @@
               <text>3</text>
               </Number>
             </Tuplet>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
-              <prev>
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
                 <location>
-                  <fractions>-1/4</fractions>
+                  <fractions>1/12</fractions>
                   </location>
-                </prev>
+                </next>
               </Spanner>
             <Note>
               <linkedMain/>
@@ -6387,15 +6474,13 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
-            <Note>
-              <linkedMain/>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/12</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -6409,6 +6494,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>38</pitch>
@@ -6418,6 +6507,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -6434,16 +6527,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                <linkedMain/>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/4</fractions>
-                  </location>
-                </next>
-              </Spanner>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>43</pitch>
@@ -6460,22 +6547,10 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Chord>
+          <Rest>
             <linkedMain/>
             <durationType>quarter</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/4</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <Note>
-              <linkedMain/>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
+            </Rest>
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -6488,13 +6563,21 @@
           <endTuplet/>
           <Chord>
             <linkedMain/>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>36</pitch>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -6503,6 +6586,10 @@
             <linkedMain/>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>41</pitch>
@@ -6521,6 +6608,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>45</pitch>
@@ -6530,6 +6621,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>43</pitch>
@@ -6544,6 +6639,10 @@
             <linkedMain/>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>41</pitch>
@@ -6562,6 +6661,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -6574,6 +6677,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -6590,16 +6697,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                <linkedMain/>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/4</fractions>
-                  </location>
-                </next>
-              </Spanner>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>43</pitch>
@@ -6616,22 +6717,10 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Chord>
+          <Rest>
             <linkedMain/>
             <durationType>quarter</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/4</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <Note>
-              <linkedMain/>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
+            </Rest>
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -6645,6 +6734,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>45</pitch>
@@ -6654,6 +6747,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -6670,16 +6767,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                <linkedMain/>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/4</fractions>
-                  </location>
-                </next>
-              </Spanner>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>43</pitch>
@@ -6696,22 +6787,10 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Chord>
+          <Rest>
             <linkedMain/>
             <durationType>quarter</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/4</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <Note>
-              <linkedMain/>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
+            </Rest>
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -6724,13 +6803,21 @@
           <endTuplet/>
           <Chord>
             <linkedMain/>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>36</pitch>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -6738,6 +6825,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>45</pitch>
@@ -6747,6 +6838,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>38</pitch>
@@ -6756,6 +6851,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>43</pitch>
@@ -6765,6 +6864,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>36</pitch>
@@ -6779,6 +6882,10 @@
             <linkedMain/>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>41</pitch>
@@ -6796,13 +6903,21 @@
             </Chord>
           <Chord>
             <linkedMain/>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>43</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -6811,6 +6926,10 @@
             <linkedMain/>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>45</pitch>
@@ -6829,6 +6948,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>38</pitch>
@@ -6838,6 +6961,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -6854,6 +6981,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>43</pitch>
@@ -6863,6 +6994,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -6876,6 +7011,10 @@
             <linkedMain/>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>48</pitch>
@@ -6899,6 +7038,10 @@
             <linkedMain/>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>41</pitch>
@@ -6969,16 +7112,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                <linkedMain/>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/4</fractions>
-                  </location>
-                </next>
-              </Spanner>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>43</pitch>
@@ -6995,22 +7132,10 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Chord>
+          <Rest>
             <linkedMain/>
             <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/4</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <Note>
-              <linkedMain/>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
+            </Rest>
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -7037,6 +7162,10 @@
             <linkedMain/>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>36</pitch>
@@ -7060,6 +7189,10 @@
             <linkedMain/>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>41</pitch>
@@ -7079,6 +7212,10 @@
             <linkedMain/>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>41</pitch>
@@ -7100,39 +7237,67 @@
         <voice>
           <Chord>
             <linkedMain/>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>43</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           <Chord>
             <linkedMain/>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>36</pitch>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Chord>
             <linkedMain/>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>41</pitch>
@@ -7154,22 +7319,38 @@
         <voice>
           <Chord>
             <linkedMain/>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>43</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           <Chord>
             <linkedMain/>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>36</pitch>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -7206,7 +7387,7 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>53</pitch>
+              <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
@@ -7233,7 +7414,7 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>53</pitch>
+              <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
@@ -7264,7 +7445,7 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>53</pitch>
+              <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
@@ -7294,7 +7475,7 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>53</pitch>
+              <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
@@ -7314,7 +7495,7 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>53</pitch>
+              <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
@@ -9447,6 +9628,17 @@
               <linked>
                 </linked>
               <durationType>16th</durationType>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    <fractions>31/80</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <Note>
                 <linked>
                   </linked>
@@ -9541,6 +9733,13 @@
               <linked>
                 </linked>
               <durationType>16th</durationType>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <fractions>-31/80</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <Note>
                 <linked>
                   </linked>
@@ -11505,6 +11704,17 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    <fractions>1/6</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <Note>
                 <linked>
                   </linked>
@@ -11527,6 +11737,13 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <fractions>-1/6</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <Note>
                 <linked>
                   </linked>
@@ -15071,6 +15288,12 @@
                 </linked>
               <dots>1</dots>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  <indexDiff>1</indexDiff>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   <indexDiff>1</indexDiff>
@@ -15095,6 +15318,11 @@
                 </linked>
               <dots>1</dots>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15122,6 +15350,11 @@
                 </linked>
               <dots>1</dots>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15147,6 +15380,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15158,6 +15396,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15177,6 +15420,11 @@
                 </linked>
               <dots>1</dots>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15221,6 +15469,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15237,6 +15490,11 @@
                 </linked>
               <dots>1</dots>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15259,6 +15517,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15270,6 +15533,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15284,7 +15552,12 @@
             <Chord>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15292,11 +15565,21 @@
                 <tpc>13</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             <Chord>
               <linked>
                 </linked>
               <dots>1</dots>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15326,17 +15609,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Spanner type="Slur">
-                <Slur>
-                  <linked>
-                    </linked>
-                  </Slur>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15355,16 +15632,25 @@
                 <text>3</text>
                 </Number>
               </Tuplet>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
             <Chord>
               <linked>
                 </linked>
               <durationType>eighth</durationType>
               <Spanner type="Slur">
-                <prev>
+                <Slur>
+                  <linked>
+                    </linked>
+                  </Slur>
+                <next>
                   <location>
-                    <fractions>-1/4</fractions>
+                    <fractions>1/12</fractions>
                     </location>
-                  </prev>
+                  </next>
                 </Spanner>
               <Note>
                 <linked>
@@ -15377,17 +15663,13 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>45</pitch>
-                <tpc>17</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <fractions>-1/12</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <Note>
                 <linked>
                   </linked>
@@ -15403,6 +15685,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15414,6 +15701,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15432,17 +15724,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Spanner type="Slur">
-                <Slur>
-                  <linked>
-                    </linked>
-                  </Slur>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15461,24 +15747,11 @@
                 <text>3</text>
                 </Number>
               </Tuplet>
-            <Chord>
+            <Rest>
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Spanner type="Slur">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>43</pitch>
-                <tpc>15</tpc>
-                </Note>
-              </Chord>
+              </Rest>
             <Chord>
               <linked>
                 </linked>
@@ -15494,7 +15767,12 @@
             <Chord>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15502,6 +15780,11 @@
                 <tpc>14</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             </voice>
           </Measure>
         <Measure>
@@ -15511,6 +15794,11 @@
                 </linked>
               <dots>1</dots>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15533,6 +15821,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15544,6 +15837,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15560,6 +15858,11 @@
                 </linked>
               <dots>1</dots>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15582,6 +15885,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15596,6 +15904,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15614,17 +15927,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Spanner type="Slur">
-                <Slur>
-                  <linked>
-                    </linked>
-                  </Slur>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15643,24 +15950,11 @@
                 <text>3</text>
                 </Number>
               </Tuplet>
-            <Chord>
+            <Rest>
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Spanner type="Slur">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>43</pitch>
-                <tpc>15</tpc>
-                </Note>
-              </Chord>
+              </Rest>
             <Chord>
               <linked>
                 </linked>
@@ -15677,6 +15971,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15688,6 +15987,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15709,17 +16013,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Spanner type="Slur">
-                <Slur>
-                  <linked>
-                    </linked>
-                  </Slur>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15738,24 +16036,11 @@
                 <text>3</text>
                 </Number>
               </Tuplet>
-            <Chord>
+            <Rest>
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Spanner type="Slur">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>43</pitch>
-                <tpc>15</tpc>
-                </Note>
-              </Chord>
+              </Rest>
             <Chord>
               <linked>
                 </linked>
@@ -15771,7 +16056,12 @@
             <Chord>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15779,6 +16069,11 @@
                 <tpc>14</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             </voice>
           </Measure>
         <Measure>
@@ -15787,6 +16082,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15798,6 +16098,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15809,6 +16114,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15820,6 +16130,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15836,6 +16151,11 @@
                 </linked>
               <dots>1</dots>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15857,7 +16177,12 @@
             <Chord>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15865,6 +16190,11 @@
                 <tpc>15</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             </voice>
           </Measure>
         <Measure>
@@ -15874,6 +16204,11 @@
                 </linked>
               <dots>1</dots>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15896,6 +16231,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15907,6 +16247,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15942,6 +16287,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15953,6 +16303,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15968,6 +16323,11 @@
                 </linked>
               <dots>1</dots>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -15996,6 +16356,11 @@
                 </linked>
               <dots>1</dots>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -16103,17 +16468,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Spanner type="Slur">
-                <Slur>
-                  <linked>
-                    </linked>
-                  </Slur>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -16132,24 +16491,11 @@
                 <text>3</text>
                 </Number>
               </Tuplet>
-            <Chord>
+            <Rest>
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Spanner type="Slur">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>43</pitch>
-                <tpc>15</tpc>
-                </Note>
-              </Chord>
+              </Rest>
             <Chord>
               <linked>
                 </linked>
@@ -16181,6 +16527,11 @@
                 </linked>
               <dots>1</dots>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -16215,6 +16566,11 @@
                 </linked>
               <dots>1</dots>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -16238,6 +16594,11 @@
                 </linked>
               <dots>1</dots>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -16263,7 +16624,12 @@
             <Chord>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -16271,10 +16637,20 @@
                 <tpc>15</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             <Chord>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -16282,6 +16658,11 @@
                 <tpc>14</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             </voice>
           </Measure>
         <Measure>
@@ -16289,7 +16670,12 @@
             <Chord>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -16297,11 +16683,21 @@
                 <tpc>13</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             <Chord>
               <linked>
                 </linked>
               <dots>1</dots>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -16327,7 +16723,12 @@
             <Chord>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -16335,10 +16736,20 @@
                 <tpc>15</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             <Chord>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -16346,6 +16757,11 @@
                 <tpc>14</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             </voice>
           </Measure>
         <Measure>
@@ -16389,7 +16805,7 @@
                       </location>
                     </next>
                   </Spanner>
-                <pitch>53</pitch>
+                <pitch>41</pitch>
                 <tpc>13</tpc>
                 </Note>
               </Chord>
@@ -16428,7 +16844,7 @@
                       </location>
                     </prev>
                   </Spanner>
-                <pitch>53</pitch>
+                <pitch>41</pitch>
                 <tpc>13</tpc>
                 </Note>
               </Chord>
@@ -16462,7 +16878,7 @@
                       </location>
                     </prev>
                   </Spanner>
-                <pitch>53</pitch>
+                <pitch>41</pitch>
                 <tpc>13</tpc>
                 </Note>
               </Chord>
@@ -16495,7 +16911,7 @@
                       </location>
                     </prev>
                   </Spanner>
-                <pitch>53</pitch>
+                <pitch>41</pitch>
                 <tpc>13</tpc>
                 </Note>
               </Chord>
@@ -16517,7 +16933,7 @@
                       </location>
                     </prev>
                   </Spanner>
-                <pitch>53</pitch>
+                <pitch>41</pitch>
                 <tpc>13</tpc>
                 </Note>
               </Chord>
