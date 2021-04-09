@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="3.01">
-  <programVersion>3.5.0</programVersion>
-  <programRevision>43c5553</programRevision>
+<museScore version="3.02">
+  <programVersion>3.6.2</programVersion>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -11,6 +11,8 @@
       <pageHeight>11</pageHeight>
       <pagePrintableWidth>7.7126</pagePrintableWidth>
       <concertPitch>1</concertPitch>
+      <usePre_3_6_defaults>1</usePre_3_6_defaults>
+      <defaultsVersion>301</defaultsVersion>
       <Spatium>1.76389</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
@@ -24,6 +26,7 @@
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle"></metaTag>
+    <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
@@ -39,7 +42,7 @@
         <barLineSpan>3</barLineSpan>
         </Staff>
       <trackName>Flute</trackName>
-      <Instrument>
+      <Instrument id="flute">
         <longName>Flute</longName>
         <trackName>Flute</trackName>
         <minPitchP>59</minPitchP>
@@ -103,7 +106,7 @@
         <barLineSpan>2</barLineSpan>
         </Staff>
       <trackName>Oboe</trackName>
-      <Instrument>
+      <Instrument id="oboe">
         <longName>Oboe</longName>
         <trackName>Oboe</trackName>
         <minPitchP>58</minPitchP>
@@ -155,7 +158,7 @@
         <barLineSpan>1</barLineSpan>
         </Staff>
       <trackName>B♭ Clarinet</trackName>
-      <Instrument>
+      <Instrument id="bb-clarinet">
         <longName>B♭ Clarinet</longName>
         <trackName>B♭ Clarinet</trackName>
         <minPitchP>50</minPitchP>
@@ -209,7 +212,7 @@
         <defaultClef>F</defaultClef>
         </Staff>
       <trackName>Bassoon</trackName>
-      <Instrument>
+      <Instrument id="bassoon">
         <longName>Bassoon</longName>
         <trackName>Bassoon</trackName>
         <minPitchP>34</minPitchP>
@@ -257,6 +260,7 @@
     <Staff id="1">
       <VBox>
         <height>10</height>
+        <boxAutoSize>0</boxAutoSize>
         <linkedMain/>
         <Text>
           <linkedMain/>
@@ -286,7 +290,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.13333</tempo>
+            <tempo>1.1333299999999999</tempo>
             <linkedMain/>
             <text>Andante non troppo</text>
             </Tempo>
@@ -13271,7 +13275,7 @@
             <linkedMain/>
             <durationType>eighth</durationType>
             <Articulation>
-              <subtype>articStaccatoBelow</subtype>
+              <subtype>articStaccatoAbove</subtype>
               <linkedMain/>
               </Articulation>
             <Note>
@@ -13284,7 +13288,7 @@
             <linkedMain/>
             <durationType>eighth</durationType>
             <Articulation>
-              <subtype>articStaccatoBelow</subtype>
+              <subtype>articStaccatoAbove</subtype>
               <linkedMain/>
               </Articulation>
             <Note>
@@ -15792,7 +15796,7 @@
           <barLineSpan>1</barLineSpan>
           </Staff>
         <trackName>Flute</trackName>
-        <Instrument>
+        <Instrument id="flute">
           <longName>Flute</longName>
           <trackName>Flute</trackName>
           <minPitchP>59</minPitchP>
@@ -15851,6 +15855,7 @@
       <Staff id="1">
         <VBox>
           <height>10</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             </linked>
           <Text>
@@ -15890,7 +15895,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.13333</tempo>
+              <tempo>1.1333299999999999</tempo>
               <linked>
                 </linked>
               <text>Andante non troppo</text>
@@ -15914,7 +15919,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.13333</tempo>
+              <tempo>1.1333299999999999</tempo>
               <linked>
                 <indexDiff>-3</indexDiff>
                 </linked>
@@ -21957,7 +21962,7 @@
           <barLineSpan>1</barLineSpan>
           </Staff>
         <trackName>Oboe</trackName>
-        <Instrument>
+        <Instrument id="oboe">
           <longName>Oboe</longName>
           <trackName>Oboe</trackName>
           <minPitchP>58</minPitchP>
@@ -22004,6 +22009,7 @@
       <Staff id="1">
         <VBox>
           <height>10</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-1</staves>
@@ -22055,7 +22061,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.13333</tempo>
+              <tempo>1.1333299999999999</tempo>
               <linked>
                 <location>
                   <staves>-1</staves>
@@ -22083,7 +22089,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.13333</tempo>
+              <tempo>1.1333299999999999</tempo>
               <linked>
                 <location>
                   <staves>-1</staves>
@@ -26529,7 +26535,7 @@
           <barLineSpan>1</barLineSpan>
           </Staff>
         <trackName>B♭ Clarinet</trackName>
-        <Instrument>
+        <Instrument id="bb-clarinet">
           <longName>B♭ Clarinet</longName>
           <trackName>B♭ Clarinet</trackName>
           <minPitchP>50</minPitchP>
@@ -26578,6 +26584,7 @@
       <Staff id="1">
         <VBox>
           <height>10</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-2</staves>
@@ -26629,7 +26636,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.13333</tempo>
+              <tempo>1.1333299999999999</tempo>
               <linked>
                 <location>
                   <staves>-2</staves>
@@ -31145,7 +31152,7 @@
           <defaultClef>F</defaultClef>
           </Staff>
         <trackName>Bassoon</trackName>
-        <Instrument>
+        <Instrument id="bassoon">
           <longName>Bassoon</longName>
           <trackName>Bassoon</trackName>
           <minPitchP>34</minPitchP>
@@ -31193,6 +31200,7 @@
       <Staff id="1">
         <VBox>
           <height>10</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-3</staves>
@@ -31244,7 +31252,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.13333</tempo>
+              <tempo>1.1333299999999999</tempo>
               <linked>
                 <location>
                   <staves>-3</staves>
@@ -31704,7 +31712,7 @@
                 </linked>
               <durationType>eighth</durationType>
               <Articulation>
-                <subtype>articStaccatoBelow</subtype>
+                <subtype>articStaccatoAbove</subtype>
                 <linked>
                   </linked>
                 </Articulation>
@@ -31720,7 +31728,7 @@
                 </linked>
               <durationType>eighth</durationType>
               <Articulation>
-                <subtype>articStaccatoBelow</subtype>
+                <subtype>articStaccatoAbove</subtype>
                 <linked>
                   </linked>
                 </Articulation>
