@@ -303,6 +303,7 @@
             </TimeSig>
           <Tempo>
             <tempo>0.93333333333333335</tempo>
+            <size>10</size>
             <text>Slowly, Freely</text>
             </Tempo>
           <Rest>
@@ -1478,6 +1479,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>60</pitch>
@@ -1486,11 +1488,36 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             <Note>
               <Accidental>
                 <subtype>accidentalFlat</subtype>
                 </Accidental>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
+              <tpc2>11</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <BeamMode>begin</BeamMode>
+            <durationType>eighth</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <pitch>61</pitch>
               <tpc>9</tpc>
               <tpc2>11</tpc2>
