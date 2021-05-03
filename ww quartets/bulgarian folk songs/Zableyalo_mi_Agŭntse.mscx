@@ -947,6 +947,9 @@
             <subtype>mf</subtype>
             <velocity>80</velocity>
             </Dynamic>
+          <StaffText>
+            <text>Solo</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -1400,6 +1403,9 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              </Articulation>
             <Note>
               <Accidental>
                 <subtype>accidentalFlat</subtype>
