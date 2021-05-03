@@ -314,6 +314,33 @@
         </Measure>
       <Measure>
         <voice>
+          <TimeSig>
+            <sigN>22</sigN>
+            <sigD>4</sigD>
+            <Groups>
+              <Node pos="8" action="16"/>
+              <Node pos="16" action="17"/>
+              <Node pos="24" action="16"/>
+              <Node pos="32" action="17"/>
+              <Node pos="40" action="16"/>
+              <Node pos="48" action="17"/>
+              <Node pos="56" action="16"/>
+              <Node pos="64" action="17"/>
+              <Node pos="72" action="16"/>
+              <Node pos="80" action="17"/>
+              <Node pos="88" action="16"/>
+              <Node pos="96" action="17"/>
+              <Node pos="104" action="16"/>
+              <Node pos="112" action="17"/>
+              <Node pos="120" action="16"/>
+              <Node pos="128" action="17"/>
+              <Node pos="136" action="16"/>
+              <Node pos="144" action="17"/>
+              <Node pos="152" action="16"/>
+              <Node pos="160" action="17"/>
+              <Node pos="168" action="16"/>
+              </Groups>
+            </TimeSig>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -411,24 +438,99 @@
               <Accidental>
                 <subtype>accidentalFlat</subtype>
                 </Accidental>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <pitch>66</pitch>
               <tpc>8</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
+          <Chord>
+            <durationType>whole</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>66</pitch>
+              <tpc>8</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>3/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="2"/>
+                <off2 x="0.517133" y="0"/>
+                </Segment>
+              </HairPin>
+            <next>
+              <location>
+                <fractions>1/2</fractions>
+                </location>
+              </next>
+            </Spanner>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-3/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <fractions>-1/2</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Rest>
             <durationType>half</durationType>
             </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -436,7 +538,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -444,7 +546,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -452,7 +554,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -460,7 +562,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -468,7 +570,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -476,7 +578,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -484,7 +586,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -492,7 +594,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -500,7 +602,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -508,7 +610,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -516,7 +618,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -524,7 +626,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -532,7 +634,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -540,7 +642,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -548,7 +650,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -556,7 +658,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -564,7 +666,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -572,7 +674,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -580,7 +682,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -588,7 +690,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -596,7 +698,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -604,7 +706,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -612,7 +714,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -620,7 +722,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -628,7 +730,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -636,7 +738,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -644,7 +746,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -652,7 +754,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -660,7 +762,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -668,7 +770,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -676,7 +778,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -684,7 +786,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -692,7 +794,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -700,7 +802,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -708,7 +810,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -716,7 +818,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -724,7 +826,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -732,7 +834,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -740,7 +842,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -748,7 +850,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -756,7 +858,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -764,7 +866,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -772,7 +874,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -780,7 +882,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -788,47 +890,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>20/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>20/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>20/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>20/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -848,8 +910,38 @@
         </Measure>
       <Measure>
         <voice>
+          <TimeSig>
+            <sigN>22</sigN>
+            <sigD>4</sigD>
+            <Groups>
+              <Node pos="8" action="16"/>
+              <Node pos="16" action="17"/>
+              <Node pos="24" action="16"/>
+              <Node pos="32" action="17"/>
+              <Node pos="40" action="16"/>
+              <Node pos="48" action="17"/>
+              <Node pos="56" action="16"/>
+              <Node pos="64" action="17"/>
+              <Node pos="72" action="16"/>
+              <Node pos="80" action="17"/>
+              <Node pos="88" action="16"/>
+              <Node pos="96" action="17"/>
+              <Node pos="104" action="16"/>
+              <Node pos="112" action="17"/>
+              <Node pos="120" action="16"/>
+              <Node pos="128" action="17"/>
+              <Node pos="136" action="16"/>
+              <Node pos="144" action="17"/>
+              <Node pos="152" action="16"/>
+              <Node pos="160" action="17"/>
+              <Node pos="168" action="16"/>
+              </Groups>
+            </TimeSig>
           <Rest>
             <durationType>half</durationType>
+            </Rest>
+          <Rest>
+            <durationType>quarter</durationType>
             </Rest>
           <Dynamic>
             <subtype>mf</subtype>
@@ -940,82 +1032,395 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Rest>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/2</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Note>
+              <Accidental>
+                <role>1</role>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <Accidental>
+                <role>1</role>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <BeamMode>begin</BeamMode>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>68</pitch>
+              <tpc>10</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/2</fractions>
+                  </location>
+                </prev>
+              </Spanner>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>10</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Note>
+              <Accidental>
+                <role>1</role>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <dots>1</dots>
+            <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>3/16</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-3/16</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <Accidental>
+                <role>1</role>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>11/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <Accidental>
+                <role>1</role>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <BeamMode>begin</BeamMode>
+            <durationType>16th</durationType>
+            <Note>
+              <Accidental>
+                <role>1</role>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>68</pitch>
+              <tpc>10</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>10</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <BeamMode>begin</BeamMode>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-11/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
             <durationType>half</durationType>
-            </Rest>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>1</subtype>
+              </HairPin>
+            <next>
+              <location>
+                <fractions>1/4</fractions>
+                </location>
+              </next>
+            </Spanner>
+          <Tuplet>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
+          <Chord>
+            <BeamMode>begin</BeamMode>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              </Note>
+            </Chord>
+          <endTuplet/>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <fractions>-1/4</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>20/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>20/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>20/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>20/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>20/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>20/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -1023,7 +1428,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1031,7 +1436,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1039,7 +1444,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1047,7 +1452,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1055,7 +1460,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1063,7 +1468,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1071,7 +1476,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1079,7 +1484,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1087,7 +1492,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1095,7 +1500,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1103,7 +1508,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1111,7 +1516,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1119,7 +1524,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1127,7 +1532,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1135,7 +1540,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1143,7 +1548,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1151,7 +1556,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1159,7 +1564,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1167,7 +1572,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1175,7 +1580,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1183,7 +1588,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1191,7 +1596,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1199,7 +1604,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1207,7 +1612,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1215,7 +1620,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1223,7 +1628,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1231,7 +1636,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1239,7 +1644,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1247,7 +1652,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1255,7 +1660,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1263,7 +1668,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1271,7 +1676,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1279,7 +1684,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1287,7 +1692,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1295,7 +1700,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1303,7 +1708,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1311,7 +1716,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1319,7 +1724,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1327,7 +1732,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1335,7 +1740,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1343,7 +1748,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1351,7 +1756,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1359,7 +1764,31 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>22/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>22/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1622,6 +2051,33 @@
         </Measure>
       <Measure>
         <voice>
+          <TimeSig>
+            <sigN>22</sigN>
+            <sigD>4</sigD>
+            <Groups>
+              <Node pos="8" action="16"/>
+              <Node pos="16" action="17"/>
+              <Node pos="24" action="16"/>
+              <Node pos="32" action="17"/>
+              <Node pos="40" action="16"/>
+              <Node pos="48" action="17"/>
+              <Node pos="56" action="16"/>
+              <Node pos="64" action="17"/>
+              <Node pos="72" action="16"/>
+              <Node pos="80" action="17"/>
+              <Node pos="88" action="16"/>
+              <Node pos="96" action="17"/>
+              <Node pos="104" action="16"/>
+              <Node pos="112" action="17"/>
+              <Node pos="120" action="16"/>
+              <Node pos="128" action="17"/>
+              <Node pos="136" action="16"/>
+              <Node pos="144" action="17"/>
+              <Node pos="152" action="16"/>
+              <Node pos="160" action="17"/>
+              <Node pos="168" action="16"/>
+              </Groups>
+            </TimeSig>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -1726,25 +2182,107 @@
               <Accidental>
                 <subtype>accidentalFlat</subtype>
                 </Accidental>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <pitch>63</pitch>
               <tpc>11</tpc>
               <tpc2>13</tpc2>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
+          <Chord>
+            <durationType>whole</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <tpc2>13</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <Accidental>
+                <role>1</role>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>3/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <tpc2>13</tpc2>
+              </Note>
+            </Chord>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="2"/>
+                <off2 x="1.5434" y="0"/>
+                </Segment>
+              </HairPin>
+            <next>
+              <location>
+                <fractions>1/2</fractions>
+                </location>
+              </next>
+            </Spanner>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-3/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <tpc2>13</tpc2>
+              </Note>
+            </Chord>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <fractions>-1/2</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Rest>
             <durationType>half</durationType>
             </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1752,7 +2290,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1760,7 +2298,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1768,7 +2306,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1776,7 +2314,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1784,7 +2322,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1792,7 +2330,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1800,7 +2338,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1808,7 +2346,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1816,7 +2354,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1824,7 +2362,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1832,7 +2370,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1840,7 +2378,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1848,7 +2386,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1856,7 +2394,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1864,7 +2402,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1872,7 +2410,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1880,7 +2418,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1888,7 +2426,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1896,7 +2434,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1904,7 +2442,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1912,7 +2450,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1920,7 +2458,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1928,7 +2466,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1936,7 +2474,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1944,7 +2482,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1952,7 +2490,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1960,7 +2498,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1968,7 +2506,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1976,7 +2514,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1984,7 +2522,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1992,7 +2530,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2000,7 +2538,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2008,7 +2546,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2016,7 +2554,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2024,7 +2562,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2032,7 +2570,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2040,7 +2578,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2048,7 +2586,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2056,7 +2594,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2064,7 +2602,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2072,7 +2610,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2080,7 +2618,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2088,7 +2626,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2096,7 +2634,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2104,47 +2642,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>20/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>20/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>20/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>20/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2338,9 +2836,152 @@
         </Measure>
       <Measure>
         <voice>
+          <TimeSig>
+            <sigN>22</sigN>
+            <sigD>4</sigD>
+            <Groups>
+              <Node pos="8" action="16"/>
+              <Node pos="16" action="17"/>
+              <Node pos="24" action="16"/>
+              <Node pos="32" action="17"/>
+              <Node pos="40" action="16"/>
+              <Node pos="48" action="17"/>
+              <Node pos="56" action="16"/>
+              <Node pos="64" action="17"/>
+              <Node pos="72" action="16"/>
+              <Node pos="80" action="17"/>
+              <Node pos="88" action="16"/>
+              <Node pos="96" action="17"/>
+              <Node pos="104" action="16"/>
+              <Node pos="112" action="17"/>
+              <Node pos="120" action="16"/>
+              <Node pos="128" action="17"/>
+              <Node pos="136" action="16"/>
+              <Node pos="144" action="17"/>
+              <Node pos="152" action="16"/>
+              <Node pos="160" action="17"/>
+              <Node pos="168" action="16"/>
+              </Groups>
+            </TimeSig>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <durationType>whole</durationType>
+            </Rest>
+          <Rest>
+            <durationType>whole</durationType>
+            </Rest>
+          <Rest>
+            <durationType>whole</durationType>
+            </Rest>
+          <Rest>
+            <durationType>half</durationType>
+            </Rest>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Dynamic>
+            <subtype>mp</subtype>
+            <velocity>64</velocity>
+            </Dynamic>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/4</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>half</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/4</fractions>
+                  </location>
+                </prev>
+              </Spanner>
+            <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              </Articulation>
+            <Note>
+              <Accidental>
+                <role>1</role>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -2348,7 +2989,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2356,7 +2997,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2364,7 +3005,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2372,7 +3013,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2380,7 +3021,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2388,7 +3029,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2396,7 +3037,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2404,7 +3045,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2412,7 +3053,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2420,7 +3061,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2428,7 +3069,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2436,7 +3077,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2444,7 +3085,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2452,7 +3093,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2460,7 +3101,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2468,7 +3109,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2476,7 +3117,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2484,7 +3125,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2492,7 +3133,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2500,7 +3141,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2508,7 +3149,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2516,7 +3157,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2524,7 +3165,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2532,7 +3173,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2540,7 +3181,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2548,7 +3189,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2556,7 +3197,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2564,7 +3205,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2572,7 +3213,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2580,7 +3221,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2588,7 +3229,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2596,7 +3237,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2604,7 +3245,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2612,7 +3253,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2620,7 +3261,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2628,7 +3269,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2636,7 +3277,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2644,7 +3285,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2652,7 +3293,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2660,7 +3301,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2668,7 +3309,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2676,7 +3317,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2684,7 +3325,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2692,7 +3333,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2700,7 +3341,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2708,39 +3349,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>20/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>20/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>20/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>20/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>20/4</duration>
+            <duration>22/4</duration>
             </Rest>
           </voice>
         </Measure>
