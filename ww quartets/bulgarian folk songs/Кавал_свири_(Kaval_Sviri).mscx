@@ -2651,13 +2651,6 @@
                 </prev>
               </Spanner>
             <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
