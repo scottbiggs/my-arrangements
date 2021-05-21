@@ -142,6 +142,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="68"/>
           <synti>Fluid</synti>
@@ -208,6 +209,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="71"/>
           <synti>Fluid</synti>
@@ -273,6 +275,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="70"/>
           <synti>Fluid</synti>
@@ -286,7 +289,7 @@
         <Text>
           <linkedMain/>
           <style>Title</style>
-          <text>Petantatonic Etude</text>
+          <text>Pedantatonic Etude</text>
           </Text>
         <Text>
           <linkedMain/>
@@ -5685,6 +5688,7 @@
             <gateTime>100</gateTime>
             </Articulation>
           <Channel>
+            <controller ctrl="0" value="0"/>
             <controller ctrl="32" value="17"/>
             <program value="68"/>
             <synti>Fluid</synti>
@@ -5700,7 +5704,7 @@
             <linked>
               </linked>
             <style>Title</style>
-            <text>Petantatonic Etude</text>
+            <text>Pedantatonic Etude</text>
             </Text>
           <Text>
             <linked>
@@ -7725,6 +7729,7 @@
             <gateTime>100</gateTime>
             </Articulation>
           <Channel>
+            <controller ctrl="0" value="0"/>
             <controller ctrl="32" value="17"/>
             <program value="71"/>
             <synti>Fluid</synti>
@@ -7746,7 +7751,7 @@
                 </location>
               </linked>
             <style>Title</style>
-            <text>Petantatonic Etude</text>
+            <text>Pedantatonic Etude</text>
             </Text>
           <Text>
             <linked>
@@ -10072,6 +10077,7 @@
             <gateTime>100</gateTime>
             </Articulation>
           <Channel>
+            <controller ctrl="0" value="0"/>
             <controller ctrl="32" value="17"/>
             <program value="70"/>
             <synti>Fluid</synti>
@@ -10093,7 +10099,7 @@
                 </location>
               </linked>
             <style>Title</style>
-            <text>Petantatonic Etude</text>
+            <text>Pedantatonic Etude</text>
             </Text>
           <Text>
             <linked>
