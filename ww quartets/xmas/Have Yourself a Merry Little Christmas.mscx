@@ -6264,10 +6264,10 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>51</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -14360,10 +14360,10 @@
                 <linked>
                   </linked>
                 <Accidental>
-                  <subtype>accidentalFlat</subtype>
+                  <subtype>accidentalSharp</subtype>
                   </Accidental>
                 <pitch>51</pitch>
-                <tpc>11</tpc>
+                <tpc>23</tpc>
                 <velocity>100</velocity>
                 <veloType>user</veloType>
                 </Note>

@@ -6541,19 +6541,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Tuplet>
-            <linkedMain/>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
           <Rest>
             <linkedMain/>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             </Rest>
           <Chord>
             <linkedMain/>
@@ -6564,7 +6554,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet/>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -6711,19 +6700,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Tuplet>
-            <linkedMain/>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
           <Rest>
             <linkedMain/>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             </Rest>
           <Chord>
             <linkedMain/>
@@ -6734,7 +6713,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet/>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -6781,19 +6759,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Tuplet>
-            <linkedMain/>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
           <Rest>
             <linkedMain/>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             </Rest>
           <Chord>
             <linkedMain/>
@@ -6804,7 +6772,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet/>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -15744,21 +15711,10 @@
                 <tpc>15</tpc>
                 </Note>
               </Chord>
-            <Tuplet>
-              <linked>
-                </linked>
-              <normalNotes>2</normalNotes>
-              <actualNotes>3</actualNotes>
-              <baseNote>eighth</baseNote>
-              <Number>
-                <style>Tuplet</style>
-                <text>3</text>
-                </Number>
-              </Tuplet>
             <Rest>
               <linked>
                 </linked>
-              <durationType>quarter</durationType>
+              <durationType>eighth</durationType>
               </Rest>
             <Chord>
               <linked>
@@ -15771,7 +15727,6 @@
                 <tpc>15</tpc>
                 </Note>
               </Chord>
-            <endTuplet/>
             <Chord>
               <linked>
                 </linked>
@@ -15947,21 +15902,10 @@
                 <tpc>15</tpc>
                 </Note>
               </Chord>
-            <Tuplet>
-              <linked>
-                </linked>
-              <normalNotes>2</normalNotes>
-              <actualNotes>3</actualNotes>
-              <baseNote>eighth</baseNote>
-              <Number>
-                <style>Tuplet</style>
-                <text>3</text>
-                </Number>
-              </Tuplet>
             <Rest>
               <linked>
                 </linked>
-              <durationType>quarter</durationType>
+              <durationType>eighth</durationType>
               </Rest>
             <Chord>
               <linked>
@@ -15974,7 +15918,6 @@
                 <tpc>16</tpc>
                 </Note>
               </Chord>
-            <endTuplet/>
             <Chord>
               <linked>
                 </linked>
@@ -16033,21 +15976,10 @@
                 <tpc>15</tpc>
                 </Note>
               </Chord>
-            <Tuplet>
-              <linked>
-                </linked>
-              <normalNotes>2</normalNotes>
-              <actualNotes>3</actualNotes>
-              <baseNote>eighth</baseNote>
-              <Number>
-                <style>Tuplet</style>
-                <text>3</text>
-                </Number>
-              </Tuplet>
             <Rest>
               <linked>
                 </linked>
-              <durationType>quarter</durationType>
+              <durationType>eighth</durationType>
               </Rest>
             <Chord>
               <linked>
@@ -16060,7 +15992,6 @@
                 <tpc>15</tpc>
                 </Note>
               </Chord>
-            <endTuplet/>
             <Chord>
               <linked>
                 </linked>
