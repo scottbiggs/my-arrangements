@@ -8420,8 +8420,8 @@
               </Articulation>
             <Note>
               <linkedMain/>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
+              <pitch>51</pitch>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           </voice>
@@ -9016,7 +9016,7 @@
         <voice>
           <Chord>
             <linkedMain/>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Spanner type="Slur">
               <prev>
                 <location>
@@ -9038,10 +9038,6 @@
           <Rest>
             <linkedMain/>
             <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
             </Rest>
           <Rest>
             <linkedMain/>
@@ -20858,8 +20854,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>52</pitch>
-                <tpc>18</tpc>
+                <pitch>51</pitch>
+                <tpc>23</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -21607,7 +21603,7 @@
             <Chord>
               <linked>
                 </linked>
-              <durationType>eighth</durationType>
+              <durationType>quarter</durationType>
               <Spanner type="Slur">
                 <prev>
                   <location>
@@ -21632,11 +21628,6 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
               </Rest>
             <Rest>
               <linked>
