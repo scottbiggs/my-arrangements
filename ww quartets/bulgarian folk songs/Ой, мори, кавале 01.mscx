@@ -891,7 +891,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>62</pitch>
+              <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             <ChordLine>
@@ -901,7 +901,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <pitch>62</pitch>
+              <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
@@ -917,7 +917,7 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>62</pitch>
+              <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
@@ -931,7 +931,7 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>62</pitch>
+              <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
@@ -942,21 +942,21 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>64</pitch>
+              <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>65</pitch>
+              <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>65</pitch>
+              <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
@@ -972,7 +972,7 @@
               </Spanner>
             <grace32/>
             <Note>
-              <pitch>62</pitch>
+              <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
@@ -986,7 +986,7 @@
                 </prev>
               </Spanner>
             <Note>
-              <pitch>64</pitch>
+              <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
             </Chord>
@@ -997,7 +997,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>62</pitch>
+              <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
@@ -1013,7 +1013,7 @@
               </Spanner>
             <grace32/>
             <Note>
-              <pitch>62</pitch>
+              <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
@@ -1027,14 +1027,14 @@
                 </prev>
               </Spanner>
             <Note>
-              <pitch>64</pitch>
+              <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>62</pitch>
+              <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
@@ -1051,7 +1051,7 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>62</pitch>
+              <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
@@ -1080,7 +1080,7 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>62</pitch>
+              <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
@@ -1098,7 +1098,7 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>62</pitch>
+              <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
@@ -1129,7 +1129,7 @@
             <durationType>16th</durationType>
             <grace16after/>
             <Note>
-              <pitch>67</pitch>
+              <pitch>79</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
@@ -1138,7 +1138,7 @@
             <durationType>16th</durationType>
             <grace16after/>
             <Note>
-              <pitch>69</pitch>
+              <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
@@ -1154,12 +1154,19 @@
               </Spanner>
             <grace32/>
             <Note>
-              <pitch>65</pitch>
+              <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <grace>2</grace>
+                  </location>
+                </prev>
+              </Spanner>
             <Spanner type="Slur">
               <Slur>
                 </Slur>
@@ -1170,15 +1177,8 @@
                   </location>
                 </next>
               </Spanner>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <grace>2</grace>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
-              <pitch>67</pitch>
+              <pitch>79</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
@@ -1197,7 +1197,7 @@
                 </prev>
               </Spanner>
             <Note>
-              <pitch>65</pitch>
+              <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
@@ -1905,14 +1905,14 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>62</pitch>
+              <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <pitch>62</pitch>
+              <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
@@ -1928,7 +1928,7 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>62</pitch>
+              <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
@@ -1942,7 +1942,7 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>62</pitch>
+              <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
@@ -1953,28 +1953,28 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>62</pitch>
+              <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>62</pitch>
+              <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>62</pitch>
+              <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>62</pitch>
+              <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
@@ -1985,21 +1985,21 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>62</pitch>
+              <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>62</pitch>
+              <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>62</pitch>
+              <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
@@ -2016,7 +2016,7 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>62</pitch>
+              <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
@@ -2045,7 +2045,7 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>62</pitch>
+              <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
@@ -2063,7 +2063,7 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>62</pitch>
+              <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
@@ -2102,7 +2102,7 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>62</pitch>
+              <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
@@ -2121,7 +2121,7 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>62</pitch>
+              <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>

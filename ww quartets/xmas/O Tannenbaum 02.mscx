@@ -10,6 +10,8 @@
       <pageWidth>8.5</pageWidth>
       <pageHeight>11</pageHeight>
       <pagePrintableWidth>7.7126</pagePrintableWidth>
+      <swingRatio>63</swingRatio>
+      <swingUnit>eighth</swingUnit>
       <concertPitch>1</concertPitch>
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
@@ -7358,7 +7360,7 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>41</pitch>
+              <pitch>53</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
@@ -7385,7 +7387,7 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>41</pitch>
+              <pitch>53</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
@@ -7416,7 +7418,7 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>41</pitch>
+              <pitch>53</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
@@ -7446,7 +7448,7 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>41</pitch>
+              <pitch>53</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
@@ -7466,7 +7468,7 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>41</pitch>
+              <pitch>53</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
@@ -16744,7 +16746,7 @@
                       </location>
                     </next>
                   </Spanner>
-                <pitch>41</pitch>
+                <pitch>53</pitch>
                 <tpc>13</tpc>
                 </Note>
               </Chord>
@@ -16783,7 +16785,7 @@
                       </location>
                     </prev>
                   </Spanner>
-                <pitch>41</pitch>
+                <pitch>53</pitch>
                 <tpc>13</tpc>
                 </Note>
               </Chord>
@@ -16817,7 +16819,7 @@
                       </location>
                     </prev>
                   </Spanner>
-                <pitch>41</pitch>
+                <pitch>53</pitch>
                 <tpc>13</tpc>
                 </Note>
               </Chord>
@@ -16850,7 +16852,7 @@
                       </location>
                     </prev>
                   </Spanner>
-                <pitch>41</pitch>
+                <pitch>53</pitch>
                 <tpc>13</tpc>
                 </Note>
               </Chord>
@@ -16872,7 +16874,7 @@
                       </location>
                     </prev>
                   </Spanner>
-                <pitch>41</pitch>
+                <pitch>53</pitch>
                 <tpc>13</tpc>
                 </Note>
               </Chord>
