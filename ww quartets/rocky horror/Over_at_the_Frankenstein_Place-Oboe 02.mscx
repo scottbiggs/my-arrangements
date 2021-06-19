@@ -1537,6 +1537,10 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>63</pitch>
@@ -3597,6 +3601,10 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>63</pitch>
@@ -5408,6 +5416,14 @@
             <linkedMain/>
             <durationType>quarter</durationType>
             </Rest>
+          <StaffText>
+            <channelSwitch voice="0" name="arco"/>
+            <channelSwitch voice="1" name="arco"/>
+            <channelSwitch voice="2" name="arco"/>
+            <channelSwitch voice="3" name="arco"/>
+            <linkedMain/>
+            <text>Stand up</text>
+            </StaffText>
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -5828,6 +5844,14 @@
             <linkedMain/>
             <durationType>quarter</durationType>
             </Rest>
+          <StaffText>
+            <channelSwitch voice="0" name="arco"/>
+            <channelSwitch voice="1" name="arco"/>
+            <channelSwitch voice="2" name="arco"/>
+            <channelSwitch voice="3" name="arco"/>
+            <linkedMain/>
+            <text>Relax</text>
+            </StaffText>
           <Rest>
             <linkedMain/>
             <durationType>half</durationType>
@@ -8876,6 +8900,10 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>63</pitch>
@@ -12093,6 +12121,11 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -14727,6 +14760,11 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -17088,6 +17126,15 @@
                 </linked>
               <durationType>quarter</durationType>
               </Rest>
+            <StaffText>
+              <channelSwitch voice="0" name="arco"/>
+              <channelSwitch voice="1" name="arco"/>
+              <channelSwitch voice="2" name="arco"/>
+              <channelSwitch voice="3" name="arco"/>
+              <linked>
+                </linked>
+              <text>Stand up</text>
+              </StaffText>
             <Chord>
               <linked>
                 </linked>
@@ -17564,6 +17611,15 @@
                 </linked>
               <durationType>quarter</durationType>
               </Rest>
+            <StaffText>
+              <channelSwitch voice="0" name="arco"/>
+              <channelSwitch voice="1" name="arco"/>
+              <channelSwitch voice="2" name="arco"/>
+              <channelSwitch voice="3" name="arco"/>
+              <linked>
+                </linked>
+              <text>Relax</text>
+              </StaffText>
             <Rest>
               <linked>
                 </linked>
@@ -21429,6 +21485,11 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Articulation>
+                <subtype>articStaccatoAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
