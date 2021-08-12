@@ -2120,9 +2120,38 @@
       <Measure>
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <durationType>half</durationType>
             </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              <velocity>80</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              <velocity>80</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              <velocity>80</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
@@ -2130,10 +2159,53 @@
           <RehearsalMark>
             <text>E</text>
             </RehearsalMark>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>3/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              <velocity>80</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-3/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              <velocity>80</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              <velocity>80</velocity>
+              <veloType>user</veloType>
+              </Note>
+            <ChordLine>
+              <subtype>1</subtype>
+              </ChordLine>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
@@ -2146,17 +2218,41 @@
         </Measure>
       <Measure>
         <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
+          <Chord>
+            <durationType>whole</durationType>
+            <Note>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              <velocity>80</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>84</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>78</pitch>
+              <tpc>8</tpc>
+              </Note>
+            </Chord>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Rest>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -2677,10 +2773,10 @@
             <durationType>eighth</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>78</pitch>
-              <tpc>20</tpc>
+              <tpc>8</tpc>
               <velocity>80</velocity>
               <veloType>user</veloType>
               </Note>
@@ -4198,9 +4294,89 @@
       <Measure>
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <durationType>half</durationType>
             </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              <velocity>80</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              <velocity>80</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              <velocity>80</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>3/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              <velocity>80</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-3/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              <velocity>80</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <velocity>80</velocity>
+              <veloType>user</veloType>
+              </Note>
+            <ChordLine>
+              <subtype>1</subtype>
+              </ChordLine>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
@@ -4213,25 +4389,41 @@
         </Measure>
       <Measure>
         <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
+          <Chord>
+            <durationType>whole</durationType>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              <velocity>80</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>66</pitch>
+              <tpc>8</tpc>
+              </Note>
+            </Chord>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <durationType>quarter</durationType>
             </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -6312,9 +6504,95 @@
       <Measure>
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <durationType>half</durationType>
             </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
+              <velocity>80</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
+              <velocity>80</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
+              <velocity>80</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>3/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
+              <velocity>80</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-3/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
+              <velocity>80</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <tpc2>13</tpc2>
+              <velocity>80</velocity>
+              <veloType>user</veloType>
+              </Note>
+            <ChordLine>
+              <subtype>1</subtype>
+              </ChordLine>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
@@ -6327,25 +6605,44 @@
         </Measure>
       <Measure>
         <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
+          <Chord>
+            <durationType>whole</durationType>
+            <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
+              <velocity>80</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              <tpc2>22</tpc2>
+              </Note>
+            </Chord>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <durationType>quarter</durationType>
             </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
