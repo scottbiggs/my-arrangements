@@ -1231,24 +1231,15 @@
             <linkedMain/>
             <durationType>quarter</durationType>
             </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
             <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
-              </Articulation>
-            <Note>
-              <linkedMain/>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
+              <subtype>articStaccatoBelow</subtype>
               <linkedMain/>
               </Articulation>
             <Note>
@@ -1751,10 +1742,6 @@
             <linkedMain/>
             <durationType>quarter</durationType>
             </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>quarter</durationType>
-            </Rest>
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
@@ -1762,7 +1749,11 @@
             </Dynamic>
           <Chord>
             <linkedMain/>
-            <durationType>quarter</durationType>
+            <durationType>half</durationType>
+            <Articulation>
+              <subtype>articAccentAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <Spanner type="Tie">
@@ -1772,7 +1763,7 @@
                 <next>
                   <location>
                     <measures>1</measures>
-                    <fractions>-1/1</fractions>
+                    <fractions>-3/4</fractions>
                     </location>
                   </next>
                 </Spanner>
@@ -1798,7 +1789,7 @@
                 <prev>
                   <location>
                     <measures>-1</measures>
-                    <fractions>1/1</fractions>
+                    <fractions>3/4</fractions>
                     </location>
                   </prev>
                 </Spanner>
@@ -2037,15 +2028,8 @@
         <voice>
           <Rest>
             <linkedMain/>
-            <durationType>half</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>quarter</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2053,15 +2037,8 @@
         <voice>
           <Rest>
             <linkedMain/>
-            <durationType>half</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>quarter</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -3616,15 +3593,8 @@
         <voice>
           <Rest>
             <linkedMain/>
-            <durationType>half</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>quarter</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -3811,15 +3781,8 @@
         <voice>
           <Rest>
             <linkedMain/>
-            <durationType>half</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>quarter</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -4995,6 +4958,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
@@ -5567,12 +5531,14 @@
             <linkedMain/>
             <durationType>quarter</durationType>
             </Rest>
-          <Rest>
+          <Dynamic>
+            <subtype>ff</subtype>
+            <velocity>112</velocity>
             <linkedMain/>
-            <durationType>quarter</durationType>
-            </Rest>
+            </Dynamic>
           <Chord>
             <linkedMain/>
+            <dots>1</dots>
             <durationType>half</durationType>
             <Articulation>
               <subtype>articAccentAbove</subtype>
@@ -5587,7 +5553,7 @@
                 <next>
                   <location>
                     <measures>1</measures>
-                    <fractions>-3/4</fractions>
+                    <fractions>-1/2</fractions>
                     </location>
                   </next>
                 </Spanner>
@@ -5613,7 +5579,7 @@
                 <prev>
                   <location>
                     <measures>-1</measures>
-                    <fractions>3/4</fractions>
+                    <fractions>1/2</fractions>
                     </location>
                   </prev>
                 </Spanner>
@@ -5706,35 +5672,10 @@
             </Rest>
           <Chord>
             <linkedMain/>
+            <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
-              <Spanner type="Tie">
-                <Tie>
-                  <linkedMain/>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            <Note>
-              <linkedMain/>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>45</pitch>
               <tpc>17</tpc>
               </Note>
@@ -5965,15 +5906,8 @@
         <voice>
           <Rest>
             <linkedMain/>
-            <durationType>half</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>quarter</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -5981,11 +5915,7 @@
         <voice>
           <Rest>
             <linkedMain/>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>quarter</durationType>
+            <durationType>half</durationType>
             </Rest>
           <Dynamic>
             <subtype>f</subtype>
@@ -7071,6 +7001,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <TimeSig>
               <linked>
@@ -7169,10 +7102,11 @@
                 </linked>
               <durationType>quarter</durationType>
               <Articulation>
-                <subtype>articAccentStaccatoAbove</subtype>
+                <subtype>articAccentStaccatoBelow</subtype>
                 <linked>
                   </linked>
                 </Articulation>
+              <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   </linked>
@@ -7331,28 +7265,17 @@
                 </linked>
               <durationType>quarter</durationType>
               </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
             <Chord>
               <linked>
                 </linked>
               <durationType>eighth</durationType>
               <Articulation>
-                <subtype>articStaccatoAbove</subtype>
-                <linked>
-                  </linked>
-                </Articulation>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>74</pitch>
-                <tpc>16</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              <Articulation>
-                <subtype>articStaccatoAbove</subtype>
+                <subtype>articStaccatoBelow</subtype>
                 <linked>
                   </linked>
                 </Articulation>
@@ -7477,6 +7400,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <TimeSig>
               <linked>
@@ -7565,10 +7491,11 @@
                 </linked>
               <durationType>quarter</durationType>
               <Articulation>
-                <subtype>articAccentStaccatoAbove</subtype>
+                <subtype>articAccentStaccatoBelow</subtype>
                 <linked>
                   </linked>
                 </Articulation>
+              <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   </linked>
@@ -7645,11 +7572,11 @@
                 </linked>
               <durationType>quarter</durationType>
               <Articulation>
-                <subtype>articAccentStaccatoBelow</subtype>
+                <subtype>articAccentStaccatoAbove</subtype>
                 <linked>
                   </linked>
                 </Articulation>
-              <StemDirection>up</StemDirection>
+              <StemDirection>down</StemDirection>
               <Note>
                 <linked>
                   </linked>
@@ -7694,10 +7621,11 @@
                 </linked>
               <durationType>quarter</durationType>
               <Articulation>
-                <subtype>articAccentStaccatoBelow</subtype>
+                <subtype>articAccentStaccatoAbove</subtype>
                 <linked>
                   </linked>
                 </Articulation>
+              <StemDirection>down</StemDirection>
               <Note>
                 <linked>
                   </linked>
@@ -7710,11 +7638,11 @@
                 </linked>
               <durationType>quarter</durationType>
               <Articulation>
-                <subtype>articAccentStaccatoBelow</subtype>
+                <subtype>articAccentStaccatoAbove</subtype>
                 <linked>
                   </linked>
                 </Articulation>
-              <StemDirection>up</StemDirection>
+              <StemDirection>down</StemDirection>
               <Note>
                 <linked>
                   </linked>
@@ -7771,11 +7699,11 @@
                 </linked>
               <durationType>quarter</durationType>
               <Articulation>
-                <subtype>articAccentStaccatoBelow</subtype>
+                <subtype>articAccentStaccatoAbove</subtype>
                 <linked>
                   </linked>
                 </Articulation>
-              <StemDirection>up</StemDirection>
+              <StemDirection>down</StemDirection>
               <Note>
                 <linked>
                   </linked>
@@ -7836,11 +7764,11 @@
                 </linked>
               <durationType>quarter</durationType>
               <Articulation>
-                <subtype>articAccentStaccatoBelow</subtype>
+                <subtype>articAccentStaccatoAbove</subtype>
                 <linked>
                   </linked>
                 </Articulation>
-              <StemDirection>up</StemDirection>
+              <StemDirection>down</StemDirection>
               <Note>
                 <linked>
                   </linked>
@@ -7897,11 +7825,11 @@
                 </linked>
               <durationType>quarter</durationType>
               <Articulation>
-                <subtype>articAccentStaccatoBelow</subtype>
+                <subtype>articAccentStaccatoAbove</subtype>
                 <linked>
                   </linked>
                 </Articulation>
-              <StemDirection>up</StemDirection>
+              <StemDirection>down</StemDirection>
               <Note>
                 <linked>
                   </linked>
@@ -7951,11 +7879,6 @@
                 </linked>
               <durationType>quarter</durationType>
               </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>quarter</durationType>
-              </Rest>
             <Dynamic>
               <subtype>ff</subtype>
               <velocity>112</velocity>
@@ -7965,7 +7888,12 @@
             <Chord>
               <linked>
                 </linked>
-              <durationType>quarter</durationType>
+              <durationType>half</durationType>
+              <Articulation>
+                <subtype>articAccentAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -7977,7 +7905,7 @@
                   <next>
                     <location>
                       <measures>1</measures>
-                      <fractions>-1/1</fractions>
+                      <fractions>-3/4</fractions>
                       </location>
                     </next>
                   </Spanner>
@@ -7988,6 +7916,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <TimeSig>
               <linked>
@@ -8006,7 +7937,7 @@
                   <prev>
                     <location>
                       <measures>-1</measures>
-                      <fractions>1/1</fractions>
+                      <fractions>3/4</fractions>
                       </location>
                     </prev>
                   </Spanner>
@@ -8284,17 +8215,17 @@
             <Rest>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <durationType>measure</durationType>
+              <duration>4/4</duration>
               </Rest>
+            </voice>
+          </Measure>
+        <Measure len="8/4">
+          <multiMeasureRest>2</multiMeasureRest>
+          <voice>
             <Rest>
-              <linked>
-                </linked>
-              <durationType>quarter</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>quarter</durationType>
+              <durationType>measure</durationType>
+              <duration>8/4</duration>
               </Rest>
             </voice>
           </Measure>
@@ -8303,17 +8234,8 @@
             <Rest>
               <linked>
                 </linked>
-              <durationType>half</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>quarter</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>quarter</durationType>
+              <durationType>measure</durationType>
+              <duration>4/4</duration>
               </Rest>
             </voice>
           </Measure>
@@ -8679,9 +8601,6 @@
           </VBox>
         <Measure>
           <voice>
-            <KeySig>
-              <accidental>2</accidental>
-              </KeySig>
             <TimeSig>
               <linked>
                 </linked>
@@ -8929,6 +8848,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -9133,9 +9055,6 @@
             </voice>
           </Measure>
         <Measure>
-          <LayoutBreak>
-            <subtype>line</subtype>
-            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -9439,6 +9358,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <TimeSig>
               <linked>
@@ -9828,6 +9750,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -9883,6 +9808,7 @@
                 <linked>
                   </linked>
                 </Articulation>
+              <StemDirection>down</StemDirection>
               <Note>
                 <linked>
                   </linked>
@@ -9896,11 +9822,11 @@
                 </linked>
               <durationType>quarter</durationType>
               <Articulation>
-                <subtype>articAccentStaccatoBelow</subtype>
+                <subtype>articAccentStaccatoAbove</subtype>
                 <linked>
                   </linked>
                 </Articulation>
-              <StemDirection>up</StemDirection>
+              <StemDirection>down</StemDirection>
               <Note>
                 <linked>
                   </linked>
@@ -9982,10 +9908,11 @@
                 </linked>
               <durationType>quarter</durationType>
               <Articulation>
-                <subtype>articAccentStaccatoAbove</subtype>
+                <subtype>articAccentStaccatoBelow</subtype>
                 <linked>
                   </linked>
                 </Articulation>
+              <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   </linked>
@@ -10011,10 +9938,11 @@
                 </linked>
               <durationType>quarter</durationType>
               <Articulation>
-                <subtype>articAccentStaccatoBelow</subtype>
+                <subtype>articAccentStaccatoAbove</subtype>
                 <linked>
                   </linked>
                 </Articulation>
+              <StemDirection>down</StemDirection>
               <Note>
                 <linked>
                   </linked>
@@ -10028,11 +9956,11 @@
                 </linked>
               <durationType>quarter</durationType>
               <Articulation>
-                <subtype>articAccentStaccatoBelow</subtype>
+                <subtype>articAccentStaccatoAbove</subtype>
                 <linked>
                   </linked>
                 </Articulation>
-              <StemDirection>up</StemDirection>
+              <StemDirection>down</StemDirection>
               <Note>
                 <linked>
                   </linked>
@@ -10096,11 +10024,11 @@
                 </linked>
               <durationType>quarter</durationType>
               <Articulation>
-                <subtype>articAccentStaccatoBelow</subtype>
+                <subtype>articAccentStaccatoAbove</subtype>
                 <linked>
                   </linked>
                 </Articulation>
-              <StemDirection>up</StemDirection>
+              <StemDirection>down</StemDirection>
               <Note>
                 <linked>
                   </linked>
@@ -10160,11 +10088,11 @@
                 </linked>
               <durationType>quarter</durationType>
               <Articulation>
-                <subtype>articAccentStaccatoBelow</subtype>
+                <subtype>articAccentStaccatoAbove</subtype>
                 <linked>
                   </linked>
                 </Articulation>
-              <StemDirection>up</StemDirection>
+              <StemDirection>down</StemDirection>
               <Note>
                 <linked>
                   </linked>
@@ -10288,21 +10216,15 @@
             <Rest>
               <linked>
                 </linked>
-              <durationType>half</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>quarter</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>quarter</durationType>
+              <durationType>measure</durationType>
+              <duration>4/4</duration>
               </Rest>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>mp</subtype>
@@ -10517,17 +10439,8 @@
             <Rest>
               <linked>
                 </linked>
-              <durationType>half</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>quarter</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>quarter</durationType>
+              <durationType>measure</durationType>
+              <duration>4/4</duration>
               </Rest>
             </voice>
           </Measure>
@@ -11169,6 +11082,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -11421,9 +11337,6 @@
             </voice>
           </Measure>
         <Measure>
-          <LayoutBreak>
-            <subtype>line</subtype>
-            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -11879,6 +11792,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <TimeSig>
               <linked>
@@ -12052,6 +11968,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>begin</BeamMode>
               <durationType>eighth</durationType>
               <Articulation>
                 <subtype>articStaccatoAbove</subtype>
@@ -12219,10 +12136,11 @@
                 </linked>
               <durationType>quarter</durationType>
               <Articulation>
-                <subtype>articAccentStaccatoBelow</subtype>
+                <subtype>articAccentStaccatoAbove</subtype>
                 <linked>
                   </linked>
                 </Articulation>
+              <StemDirection>down</StemDirection>
               <Note>
                 <linked>
                   </linked>
@@ -12239,6 +12157,7 @@
                 <linked>
                   </linked>
                 </Articulation>
+              <StemDirection>down</StemDirection>
               <Note>
                 <linked>
                   </linked>
@@ -12266,6 +12185,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <TimeSig>
               <linked>
@@ -12337,11 +12259,11 @@
                 </linked>
               <durationType>quarter</durationType>
               <Articulation>
-                <subtype>articAccentStaccatoBelow</subtype>
+                <subtype>articAccentStaccatoAbove</subtype>
                 <linked>
                   </linked>
                 </Articulation>
-              <StemDirection>up</StemDirection>
+              <StemDirection>down</StemDirection>
               <Note>
                 <linked>
                   </linked>
@@ -12434,11 +12356,11 @@
                 </linked>
               <durationType>quarter</durationType>
               <Articulation>
-                <subtype>articAccentStaccatoBelow</subtype>
+                <subtype>articAccentStaccatoAbove</subtype>
                 <linked>
                   </linked>
                 </Articulation>
-              <StemDirection>up</StemDirection>
+              <StemDirection>down</StemDirection>
               <Note>
                 <linked>
                   </linked>
@@ -12499,11 +12421,11 @@
                 </linked>
               <durationType>quarter</durationType>
               <Articulation>
-                <subtype>articAccentStaccatoBelow</subtype>
+                <subtype>articAccentStaccatoAbove</subtype>
                 <linked>
                   </linked>
                 </Articulation>
-              <StemDirection>up</StemDirection>
+              <StemDirection>down</StemDirection>
               <Note>
                 <linked>
                   </linked>
@@ -12560,11 +12482,11 @@
                 </linked>
               <durationType>quarter</durationType>
               <Articulation>
-                <subtype>articAccentStaccatoBelow</subtype>
+                <subtype>articAccentStaccatoAbove</subtype>
                 <linked>
                   </linked>
                 </Articulation>
-              <StemDirection>up</StemDirection>
+              <StemDirection>down</StemDirection>
               <Note>
                 <linked>
                   </linked>
@@ -12625,11 +12547,11 @@
                 </linked>
               <durationType>quarter</durationType>
               <Articulation>
-                <subtype>articAccentStaccatoBelow</subtype>
+                <subtype>articAccentStaccatoAbove</subtype>
                 <linked>
                   </linked>
                 </Articulation>
-              <StemDirection>up</StemDirection>
+              <StemDirection>down</StemDirection>
               <Note>
                 <linked>
                   </linked>
@@ -12642,10 +12564,11 @@
                 </linked>
               <durationType>quarter</durationType>
               <Articulation>
-                <subtype>articAccentStaccatoBelow</subtype>
+                <subtype>articAccentStaccatoAbove</subtype>
                 <linked>
                   </linked>
                 </Articulation>
+              <StemDirection>down</StemDirection>
               <Note>
                 <linked>
                   </linked>
@@ -12670,10 +12593,11 @@
                 </linked>
               <durationType>quarter</durationType>
               <Articulation>
-                <subtype>articAccentStaccatoAbove</subtype>
+                <subtype>articAccentStaccatoBelow</subtype>
                 <linked>
                   </linked>
                 </Articulation>
+              <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   </linked>
@@ -12735,14 +12659,16 @@
                 </linked>
               <durationType>quarter</durationType>
               </Rest>
-            <Rest>
+            <Dynamic>
+              <subtype>ff</subtype>
+              <velocity>112</velocity>
               <linked>
                 </linked>
-              <durationType>quarter</durationType>
-              </Rest>
+              </Dynamic>
             <Chord>
               <linked>
                 </linked>
+              <dots>1</dots>
               <durationType>half</durationType>
               <Articulation>
                 <subtype>articAccentAbove</subtype>
@@ -12760,7 +12686,7 @@
                   <next>
                     <location>
                       <measures>1</measures>
-                      <fractions>-3/4</fractions>
+                      <fractions>-1/2</fractions>
                       </location>
                     </next>
                   </Spanner>
@@ -12771,6 +12697,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <TimeSig>
               <linked>
@@ -12789,7 +12718,7 @@
                   <prev>
                     <location>
                       <measures>-1</measures>
-                      <fractions>3/4</fractions>
+                      <fractions>1/2</fractions>
                       </location>
                     </prev>
                   </Spanner>
@@ -12900,39 +12829,11 @@
             <Chord>
               <linked>
                 </linked>
+              <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
                   </linked>
-                <Spanner type="Tie">
-                  <Tie>
-                    <linked>
-                      </linked>
-                    </Tie>
-                  <next>
-                    <location>
-                      <fractions>1/4</fractions>
-                      </location>
-                    </next>
-                  </Spanner>
-                <pitch>45</pitch>
-                <tpc>17</tpc>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              <Note>
-                <linked>
-                  </linked>
-                <Spanner type="Tie">
-                  <prev>
-                    <location>
-                      <fractions>-1/4</fractions>
-                      </location>
-                    </prev>
-                  </Spanner>
                 <pitch>45</pitch>
                 <tpc>17</tpc>
                 </Note>
@@ -13201,17 +13102,8 @@
             <Rest>
               <linked>
                 </linked>
-              <durationType>half</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>quarter</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>quarter</durationType>
+              <durationType>measure</durationType>
+              <duration>4/4</duration>
               </Rest>
             </voice>
           </Measure>
@@ -13220,12 +13112,7 @@
             <Rest>
               <linked>
                 </linked>
-              <durationType>quarter</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>quarter</durationType>
+              <durationType>half</durationType>
               </Rest>
             <Dynamic>
               <subtype>f</subtype>
