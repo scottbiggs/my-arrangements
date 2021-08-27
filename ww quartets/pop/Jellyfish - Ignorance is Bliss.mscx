@@ -299,14 +299,11 @@
     <Staff id="1">
       <VBox>
         <height>10</height>
-        <linkedMain/>
         <Text>
-          <linkedMain/>
           <style>Title</style>
           <text>Ignorance is Bliss</text>
           </Text>
         <Text>
-          <linkedMain/>
           <style>Composer</style>
           <text>Jellyfish</text>
           </Text>
@@ -600,7 +597,6 @@
             <durationType>16th</durationType>
             <Articulation>
               <subtype>articMarcatoStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>90</pitch>
@@ -611,7 +607,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articMarcatoTenutoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>90</pitch>
@@ -638,7 +633,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>71</pitch>
@@ -652,7 +646,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>71</pitch>
@@ -666,7 +659,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>71</pitch>
@@ -680,67 +672,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
-              </Articulation>
-            <Note>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
-              </Articulation>
-            <Note>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
-              </Articulation>
-            <Note>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
-              </Articulation>
-            <Note>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>71</pitch>
@@ -758,7 +689,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>71</pitch>
@@ -772,7 +702,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>71</pitch>
@@ -786,7 +715,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>71</pitch>
@@ -800,7 +728,62 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
+              </Articulation>
+            <Note>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              </Articulation>
+            <Note>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              </Articulation>
+            <Note>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              </Articulation>
+            <Note>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
               </Articulation>
             <Note>
               <pitch>71</pitch>
@@ -818,7 +801,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <Accidental>
@@ -835,7 +817,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>70</pitch>
@@ -849,7 +830,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>70</pitch>
@@ -863,7 +843,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>70</pitch>
@@ -881,7 +860,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>74</pitch>
@@ -895,7 +873,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>74</pitch>
@@ -909,7 +886,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>74</pitch>
@@ -923,7 +899,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>74</pitch>
@@ -941,7 +916,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>74</pitch>
@@ -955,7 +929,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>74</pitch>
@@ -969,7 +942,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>74</pitch>
@@ -983,7 +955,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>74</pitch>
@@ -1195,48 +1166,10 @@
             <sigN>3</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>3/4</duration>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -1515,7 +1448,6 @@
             <durationType>16th</durationType>
             <Articulation>
               <subtype>articMarcatoStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>78</pitch>
@@ -1526,7 +1458,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articMarcatoTenutoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>78</pitch>
@@ -1548,7 +1479,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>74</pitch>
@@ -1562,7 +1492,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>74</pitch>
@@ -1576,7 +1505,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>74</pitch>
@@ -1590,67 +1518,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
-              </Articulation>
-            <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
-              </Articulation>
-            <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
-              </Articulation>
-            <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
-              </Articulation>
-            <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>74</pitch>
@@ -1668,7 +1535,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>74</pitch>
@@ -1682,7 +1548,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>74</pitch>
@@ -1696,7 +1561,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>74</pitch>
@@ -1710,7 +1574,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>74</pitch>
@@ -1728,7 +1591,62 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
+              </Articulation>
+            <Note>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              </Articulation>
+            <Note>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              </Articulation>
+            <Note>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              </Articulation>
+            <Note>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
               </Articulation>
             <Note>
               <pitch>73</pitch>
@@ -1742,7 +1660,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>73</pitch>
@@ -1756,7 +1673,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>73</pitch>
@@ -1770,7 +1686,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>73</pitch>
@@ -1788,7 +1703,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>78</pitch>
@@ -1802,7 +1716,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>78</pitch>
@@ -1816,7 +1729,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>78</pitch>
@@ -1830,7 +1742,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>78</pitch>
@@ -1848,7 +1759,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>78</pitch>
@@ -1862,7 +1772,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>78</pitch>
@@ -1876,7 +1785,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>78</pitch>
@@ -1890,7 +1798,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>78</pitch>
@@ -1931,7 +1838,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>74</pitch>
@@ -1942,7 +1848,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>76</pitch>
@@ -1957,7 +1862,6 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>articTenutoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>78</pitch>
@@ -2005,7 +1909,6 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>articTenutoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>74</pitch>
@@ -2016,7 +1919,6 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>articTenutoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>81</pitch>
@@ -2027,7 +1929,6 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>articTenutoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>79</pitch>
@@ -2042,7 +1943,6 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>articTenutoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>78</pitch>
@@ -2060,7 +1960,6 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>articTenutoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>74</pitch>
@@ -2085,7 +1984,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>74</pitch>
@@ -2096,7 +1994,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>76</pitch>
@@ -2111,7 +2008,6 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>articTenutoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>78</pitch>
@@ -2122,7 +2018,6 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>articTenutoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>74</pitch>
@@ -2133,7 +2028,6 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>articTenutoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>69</pitch>
@@ -2144,7 +2038,6 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>articTenutoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>67</pitch>
@@ -2658,7 +2551,6 @@
             <durationType>16th</durationType>
             <Articulation>
               <subtype>articMarcatoStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>66</pitch>
@@ -2670,7 +2562,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articMarcatoTenutoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>66</pitch>
@@ -2696,7 +2587,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <Accidental>
@@ -2720,7 +2610,6 @@
               </Spanner>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>66</pitch>
@@ -2739,7 +2628,6 @@
               </Spanner>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>66</pitch>
@@ -2758,7 +2646,6 @@
             <durationType>16th</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>66</pitch>
@@ -2770,7 +2657,6 @@
             <durationType>16th</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>66</pitch>
@@ -2861,7 +2747,6 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>59</pitch>
@@ -2879,7 +2764,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>59</pitch>
@@ -2891,7 +2775,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>59</pitch>
@@ -3000,7 +2883,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>62</pitch>
@@ -3341,7 +3223,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articMarcatoStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>59</pitch>
@@ -3353,7 +3234,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articMarcatoStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>59</pitch>
@@ -3369,7 +3249,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articMarcatoStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>66</pitch>
@@ -3381,7 +3260,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articMarcatoStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>54</pitch>
@@ -3474,7 +3352,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>66</pitch>
@@ -3486,7 +3363,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>64</pitch>
@@ -3498,7 +3374,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>62</pitch>
@@ -3510,7 +3385,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>61</pitch>
@@ -3526,7 +3400,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>59</pitch>
@@ -3891,7 +3764,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>47</pitch>
@@ -3905,7 +3777,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>42</pitch>
@@ -3919,7 +3790,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>47</pitch>
@@ -3933,67 +3803,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
-              </Articulation>
-            <Note>
-              <pitch>42</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
-              </Articulation>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
-              </Articulation>
-            <Note>
-              <pitch>42</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
-              </Articulation>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>42</pitch>
@@ -4011,7 +3820,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>47</pitch>
@@ -4025,7 +3833,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>42</pitch>
@@ -4039,7 +3846,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>47</pitch>
@@ -4053,7 +3859,62 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
+              </Articulation>
+            <Note>
+              <pitch>42</pitch>
+              <tpc>20</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              </Articulation>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              </Articulation>
+            <Note>
+              <pitch>42</pitch>
+              <tpc>20</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              </Articulation>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
               </Articulation>
             <Note>
               <pitch>42</pitch>
@@ -4071,7 +3932,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>54</pitch>
@@ -4085,7 +3945,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>49</pitch>
@@ -4099,7 +3958,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>54</pitch>
@@ -4113,7 +3971,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>49</pitch>
@@ -4131,7 +3988,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>50</pitch>
@@ -4145,7 +4001,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>45</pitch>
@@ -4159,7 +4014,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>50</pitch>
@@ -4173,7 +4027,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>45</pitch>
@@ -4334,7 +4187,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>42</pitch>
@@ -4345,7 +4197,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>40</pitch>
@@ -4356,7 +4207,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>38</pitch>
@@ -4367,7 +4217,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>37</pitch>
@@ -4382,7 +4231,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>35</pitch>
