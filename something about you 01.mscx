@@ -583,7 +583,12 @@
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
+            <Lyrics>
+              <ticks>240</ticks>
+              <ticks_f>1/8</ticks_f>
+              <text>How</text>
+              </Lyrics>
+            <StemDirection>up</StemDirection>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -620,7 +625,7 @@
               </Note>
             </Chord>
           <Beam>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             </Beam>
           <Chord>
             <durationType>eighth</durationType>
@@ -670,9 +675,6 @@
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
-            <Lyrics>
-              <text>how</text>
-              </Lyrics>
             <Articulation>
               <subtype>articAccentAbove</subtype>
               </Articulation>
@@ -717,6 +719,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>quarter</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -852,6 +855,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>quarter</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -898,6 +902,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>quarter</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -985,6 +990,7 @@
           </voice>
         </Measure>
       <Measure>
+        <vspacerUp>13.0697</vspacerUp>
         <voice>
           <Harmony>
             <root>21</root>
@@ -1023,6 +1029,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>quarter</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -1156,6 +1163,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>quarter</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -1202,6 +1210,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>quarter</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -1318,6 +1327,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>quarter</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -1369,6 +1379,7 @@
           </voice>
         </Measure>
       <Measure>
+        <vspacerUp>12.9422</vspacerUp>
         <voice>
           <Harmony>
             <root>16</root>
@@ -1400,8 +1411,10 @@
               </Note>
             </Chord>
           <Rest>
-            <dots>1</dots>
             <durationType>quarter</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
@@ -1459,6 +1472,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>quarter</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -1507,6 +1521,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>quarter</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -1632,6 +1647,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>quarter</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -1740,6 +1756,7 @@
           </voice>
         </Measure>
       <Measure>
+        <vspacerUp>13.4521</vspacerUp>
         <voice>
           <Harmony>
             <root>19</root>
@@ -2182,6 +2199,7 @@
           </voice>
         </Measure>
       <Measure>
+        <vspacerUp>13.0697</vspacerUp>
         <voice>
           <Rest>
             <durationType>quarter</durationType>
@@ -3054,6 +3072,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>quarter</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -3258,6 +3277,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>quarter</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -3307,6 +3327,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>quarter</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -3441,6 +3462,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>quarter</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -3681,6 +3703,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>quarter</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -3819,6 +3842,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>quarter</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -3874,6 +3898,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>quarter</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -3993,6 +4018,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>quarter</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -5041,7 +5067,11 @@
           </voice>
         </Measure>
       <Measure>
+        <vspacerUp>17.5309</vspacerUp>
         <voice>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -5154,6 +5184,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>16</root>
+            <offset x="-0.127464" y="-7.38153"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -5319,6 +5353,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>18</root>
+            <offset x="-0.254928" y="-7.72603"/>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -5391,6 +5429,7 @@
           </voice>
         </Measure>
       <Measure>
+        <vspacerUp>16.2563</vspacerUp>
         <voice>
           <Rest>
             <durationType>half</durationType>
@@ -5572,6 +5611,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>14</root>
+            <offset x="-0.139806" y="-4.99618"/>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -5710,6 +5753,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>16</root>
+            <offset x="-0.0780972" y="-5.86026"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -5859,7 +5906,12 @@
           </voice>
         </Measure>
       <Measure>
+        <vspacerUp>18.2957</vspacerUp>
         <voice>
+          <Harmony>
+            <root>18</root>
+            <offset x="0" y="-5.04928"/>
+            </Harmony>
           <Chord>
             <durationType>whole</durationType>
             <Note>
@@ -6058,6 +6110,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -6151,6 +6206,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>16</root>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -6225,6 +6283,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>18</root>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -6356,7 +6417,11 @@
           </voice>
         </Measure>
       <Measure>
+        <vspacerUp>11.9225</vspacerUp>
         <voice>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -6414,6 +6479,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>16</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -6522,6 +6590,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>18</root>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -6642,8 +6713,12 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <pitch>75</pitch>
-              <tpc>23</tpc>
+              <Accidental>
+                <bracket>1</bracket>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               <small>1</small>
               </Note>
             </Chord>
@@ -6658,8 +6733,8 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <pitch>75</pitch>
-              <tpc>23</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               <small>1</small>
               </Note>
             </Chord>
@@ -6768,6 +6843,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>14</root>
+            <offset x="0" y="-3.51971"/>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -6857,6 +6936,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>16</root>
+            <offset x="0" y="-3.00986"/>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -6901,6 +6984,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>18</root>
+            <offset x="-0.127464" y="-3.13732"/>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -7002,6 +7089,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -7070,6 +7160,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>16</root>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -7114,6 +7207,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>18</root>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -7267,6 +7363,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -7367,6 +7466,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>16</root>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -7393,6 +7495,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>18</root>
+            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -7475,6 +7580,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -7590,6 +7698,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>16</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -7658,6 +7769,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>18</root>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -7677,6 +7791,10 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <StaffText>
+            <style>Expression</style>
+            <text>fade</text>
+            </StaffText>
           <Rest>
             <durationType>half</durationType>
             </Rest>
