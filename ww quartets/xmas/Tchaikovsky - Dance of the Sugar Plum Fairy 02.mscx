@@ -3410,7 +3410,7 @@
             </Tuplet>
           <Chord>
             <linkedMain/>
-            <BeamMode>mid</BeamMode>
+            <BeamMode>begin32</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -3515,7 +3515,7 @@
             </Tuplet>
           <Chord>
             <linkedMain/>
-            <BeamMode>mid</BeamMode>
+            <BeamMode>begin32</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -3621,7 +3621,7 @@
             </Tuplet>
           <Chord>
             <linkedMain/>
-            <BeamMode>mid</BeamMode>
+            <BeamMode>begin32</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -3726,7 +3726,7 @@
             </Tuplet>
           <Chord>
             <linkedMain/>
-            <BeamMode>mid</BeamMode>
+            <BeamMode>begin32</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -3832,7 +3832,7 @@
             </Tuplet>
           <Chord>
             <linkedMain/>
-            <BeamMode>mid</BeamMode>
+            <BeamMode>begin32</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -3937,7 +3937,7 @@
             </Tuplet>
           <Chord>
             <linkedMain/>
-            <BeamMode>mid</BeamMode>
+            <BeamMode>begin32</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -4046,7 +4046,7 @@
             </Tuplet>
           <Chord>
             <linkedMain/>
-            <BeamMode>mid</BeamMode>
+            <BeamMode>begin32</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -19664,7 +19664,7 @@
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>mid</BeamMode>
+              <BeamMode>begin32</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -19781,7 +19781,7 @@
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>mid</BeamMode>
+              <BeamMode>begin32</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -19902,7 +19902,7 @@
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>mid</BeamMode>
+              <BeamMode>begin32</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -20019,7 +20019,7 @@
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>mid</BeamMode>
+              <BeamMode>begin32</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -20137,7 +20137,7 @@
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>mid</BeamMode>
+              <BeamMode>begin32</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -20254,7 +20254,7 @@
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>mid</BeamMode>
+              <BeamMode>begin32</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -20378,7 +20378,7 @@
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>mid</BeamMode>
+              <BeamMode>begin32</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
