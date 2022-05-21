@@ -1082,6 +1082,9 @@
         </Measure>
       <Measure>
         <voice>
+          <RehearsalMark>
+            <text>B</text>
+            </RehearsalMark>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -1162,6 +1165,76 @@
         </Measure>
       <Measure>
         <voice>
+          <RehearsalMark>
+            <text>C</text>
+            </RehearsalMark>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <RehearsalMark>
+            <text>D</text>
+            </RehearsalMark>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -1242,6 +1315,9 @@
         </Measure>
       <Measure>
         <voice>
+          <RehearsalMark>
+            <text>E</text>
+            </RehearsalMark>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -1306,70 +1382,9 @@
         </Measure>
       <Measure>
         <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
+          <RehearsalMark>
+            <text>F</text>
+            </RehearsalMark>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -3109,6 +3124,9 @@
             </Rest>
           <Chord>
             <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              </Articulation>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -3116,6 +3134,9 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              </Articulation>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
@@ -3176,7 +3197,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
-              <subtype>articStaccatoBelow</subtype>
+              <subtype>articTenutoStaccatoBelow</subtype>
               </Articulation>
             <Note>
               <pitch>66</pitch>
