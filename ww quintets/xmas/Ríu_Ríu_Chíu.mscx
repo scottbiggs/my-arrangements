@@ -359,7 +359,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>2.1333333333333333</tempo>
+            <tempo>2.0333333333333332</tempo>
             <text>Lively</text>
             </Tempo>
           <Chord>
@@ -979,6 +979,9 @@
           <RehearsalMark>
             <text>C</text>
             </RehearsalMark>
+          <StaffText>
+            <text>Solo</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
