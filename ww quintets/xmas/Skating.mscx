@@ -663,6 +663,11 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <linkedMain/>
+            </Dynamic>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -677,6 +682,17 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>3</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -725,6 +741,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-3</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -1358,6 +1381,17 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>3</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -1406,6 +1440,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-3</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -2357,6 +2398,17 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>3</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -2405,6 +2457,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-3</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -3217,6 +3276,11 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <linkedMain/>
+            </Dynamic>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -3231,6 +3295,17 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>3</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -3279,6 +3354,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-3</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -3912,6 +3994,17 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>3</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -3960,6 +4053,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-3</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -4932,6 +5032,17 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>3</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -4980,6 +5091,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-3</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -5673,6 +5791,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>64</pitch>
@@ -5702,6 +5824,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -5731,6 +5857,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -5760,6 +5890,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -5771,6 +5905,11 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <linkedMain/>
+            </Dynamic>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -5786,6 +5925,17 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>3</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -5837,6 +5987,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-3</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -5855,6 +6012,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>64</pitch>
@@ -5884,6 +6045,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -5913,6 +6078,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -5942,6 +6111,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -6103,6 +6276,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>64</pitch>
@@ -6132,6 +6309,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -6161,6 +6342,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -6190,6 +6375,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -6216,6 +6405,17 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>3</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -6267,6 +6467,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-3</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -6285,6 +6492,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>64</pitch>
@@ -6314,6 +6525,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -6343,6 +6558,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -6372,6 +6591,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -6776,6 +6999,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>64</pitch>
@@ -6805,6 +7032,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -6834,6 +7065,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -6863,6 +7098,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -6889,6 +7128,17 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>3</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -6940,6 +7190,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-3</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -6958,6 +7215,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>64</pitch>
@@ -6987,6 +7248,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>57</pitch>
@@ -7016,6 +7281,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>59</pitch>
@@ -7045,6 +7314,10 @@
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>60</pitch>
@@ -7703,6 +7976,11 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <linkedMain/>
+            </Dynamic>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -7718,6 +7996,17 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>3</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -7769,6 +8058,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-3</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Rest>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -8325,6 +8621,17 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>3</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -8376,6 +8683,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-3</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Rest>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -9178,6 +9492,17 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>3</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -9229,6 +9554,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-3</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Rest>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -9928,13 +10260,21 @@
           <Chord>
             <linkedMain/>
             <dots>1</dots>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
               <pitch>36</pitch>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -9942,26 +10282,39 @@
           <Chord>
             <linkedMain/>
             <dots>1</dots>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
               <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Chord>
             <linkedMain/>
-            <durationType>half</durationType>
+            <dots>1</dots>
+            <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
               <pitch>43</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
           <Rest>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -9986,17 +10339,30 @@
           <Chord>
             <linkedMain/>
             <dots>1</dots>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
               <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <linkedMain/>
+            </Dynamic>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -10011,6 +10377,17 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>3</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -10059,16 +10436,31 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-3</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
               <pitch>36</pitch>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -10076,26 +10468,39 @@
           <Chord>
             <linkedMain/>
             <dots>1</dots>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
               <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Chord>
             <linkedMain/>
-            <durationType>half</durationType>
+            <dots>1</dots>
+            <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
               <pitch>43</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
           <Rest>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -10120,13 +10525,21 @@
           <Chord>
             <linkedMain/>
             <dots>1</dots>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
               <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -10199,13 +10612,21 @@
           <Chord>
             <linkedMain/>
             <dots>1</dots>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
               <pitch>36</pitch>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -10213,26 +10634,39 @@
           <Chord>
             <linkedMain/>
             <dots>1</dots>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
               <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Chord>
             <linkedMain/>
-            <durationType>half</durationType>
+            <dots>1</dots>
+            <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
               <pitch>43</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
           <Rest>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -10257,13 +10691,21 @@
           <Chord>
             <linkedMain/>
             <dots>1</dots>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
               <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -10282,6 +10724,17 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>3</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -10330,16 +10783,31 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-3</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
               <pitch>36</pitch>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -10347,26 +10815,39 @@
           <Chord>
             <linkedMain/>
             <dots>1</dots>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
               <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Chord>
             <linkedMain/>
-            <durationType>half</durationType>
+            <dots>1</dots>
+            <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
               <pitch>43</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
           <Rest>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -10391,13 +10872,21 @@
           <Chord>
             <linkedMain/>
             <dots>1</dots>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
               <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -10713,13 +11202,21 @@
           <Chord>
             <linkedMain/>
             <dots>1</dots>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
               <pitch>36</pitch>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -10727,26 +11224,39 @@
           <Chord>
             <linkedMain/>
             <dots>1</dots>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
               <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Chord>
             <linkedMain/>
-            <durationType>half</durationType>
+            <dots>1</dots>
+            <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
               <pitch>43</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
           <Rest>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -10771,13 +11281,21 @@
           <Chord>
             <linkedMain/>
             <dots>1</dots>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
               <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -10796,6 +11314,17 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <linkedMain/>
+              </HairPin>
+            <next>
+              <location>
+                <measures>3</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -10844,16 +11373,31 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-3</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
               <pitch>36</pitch>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -10861,26 +11405,39 @@
           <Chord>
             <linkedMain/>
             <dots>1</dots>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
               <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Chord>
             <linkedMain/>
-            <durationType>half</durationType>
+            <dots>1</dots>
+            <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
               <pitch>43</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
           <Rest>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -10905,13 +11462,21 @@
           <Chord>
             <linkedMain/>
             <dots>1</dots>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
               <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -11659,6 +12224,12 @@
             <subtype>line</subtype>
             </LayoutBreak>
           <voice>
+            <Dynamic>
+              <subtype>p</subtype>
+              <velocity>49</velocity>
+              <linked>
+                </linked>
+              </Dynamic>
             <Chord>
               <linked>
                 </linked>
@@ -11675,6 +12246,18 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>3</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -11729,6 +12312,13 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-3</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -12470,6 +13060,18 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>3</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -12524,6 +13126,13 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-3</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -13634,6 +14243,18 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>3</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -13688,6 +14309,13 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-3</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -14762,6 +15390,12 @@
           </Measure>
         <Measure>
           <voice>
+            <Dynamic>
+              <subtype>p</subtype>
+              <velocity>49</velocity>
+              <linked>
+                </linked>
+              </Dynamic>
             <Chord>
               <linked>
                 </linked>
@@ -14778,6 +15412,18 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>3</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -14832,6 +15478,13 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-3</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -15573,6 +16226,18 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>3</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -15627,6 +16292,13 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-3</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -16779,6 +17451,18 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>3</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -16833,6 +17517,13 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-3</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -17874,6 +18565,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -17908,6 +18604,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -17942,6 +18643,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -17976,6 +18682,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -17988,6 +18699,12 @@
           </Measure>
         <Measure>
           <voice>
+            <Dynamic>
+              <subtype>p</subtype>
+              <velocity>49</velocity>
+              <linked>
+                </linked>
+              </Dynamic>
             <Chord>
               <linked>
                 </linked>
@@ -18005,6 +18722,18 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>3</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -18062,6 +18791,13 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-3</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -18084,6 +18820,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -18118,6 +18859,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -18152,6 +18898,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -18186,6 +18937,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -18372,6 +19128,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -18406,6 +19167,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -18440,6 +19206,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -18474,6 +19245,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -18503,6 +19279,18 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>3</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -18560,6 +19348,13 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-3</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -18582,6 +19377,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -18616,6 +19416,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -18650,6 +19455,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -18684,6 +19494,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -19161,6 +19976,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -19195,6 +20015,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -19229,6 +20054,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -19263,6 +20093,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -19292,6 +20127,18 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>3</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -19349,6 +20196,13 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-3</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -19371,6 +20225,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -19405,6 +20264,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -19439,6 +20303,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -19473,6 +20342,11 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articStaccatoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -20465,6 +21339,12 @@
           </Measure>
         <Measure>
           <voice>
+            <Dynamic>
+              <subtype>p</subtype>
+              <velocity>49</velocity>
+              <linked>
+                </linked>
+              </Dynamic>
             <Chord>
               <linked>
                 </linked>
@@ -20482,6 +21362,18 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>3</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -20539,6 +21431,13 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-3</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Rest>
               <linked>
                 </linked>
@@ -21177,6 +22076,18 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>3</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -21234,6 +22145,13 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-3</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Rest>
               <linked>
                 </linked>
@@ -22168,6 +23086,18 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>3</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -22225,6 +23155,13 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-3</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Rest>
               <linked>
                 </linked>
@@ -23266,7 +24203,7 @@
               <linked>
                 </linked>
               <dots>1</dots>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -23274,6 +24211,16 @@
                 <tpc>14</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             </voice>
           </Measure>
         <Measure>
@@ -23285,7 +24232,7 @@
               <linked>
                 </linked>
               <dots>1</dots>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -23293,6 +24240,16 @@
                 <tpc>13</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             </voice>
           </Measure>
         <Measure>
@@ -23300,7 +24257,8 @@
             <Chord>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <dots>1</dots>
+              <durationType>quarter</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -23308,6 +24266,11 @@
                 <tpc>15</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
             <Rest>
               <linked>
                 </linked>
@@ -23337,7 +24300,7 @@
               <linked>
                 </linked>
               <dots>1</dots>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -23345,10 +24308,26 @@
                 <tpc>13</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             </voice>
           </Measure>
         <Measure>
           <voice>
+            <Dynamic>
+              <subtype>p</subtype>
+              <velocity>49</velocity>
+              <linked>
+                </linked>
+              </Dynamic>
             <Chord>
               <linked>
                 </linked>
@@ -23365,6 +24344,18 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>3</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -23419,11 +24410,18 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-3</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
               <dots>1</dots>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -23431,6 +24429,16 @@
                 <tpc>14</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             </voice>
           </Measure>
         <Measure>
@@ -23439,7 +24447,7 @@
               <linked>
                 </linked>
               <dots>1</dots>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -23447,6 +24455,16 @@
                 <tpc>13</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             </voice>
           </Measure>
         <Measure>
@@ -23454,7 +24472,8 @@
             <Chord>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <dots>1</dots>
+              <durationType>quarter</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -23462,6 +24481,11 @@
                 <tpc>15</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
             <Rest>
               <linked>
                 </linked>
@@ -23491,7 +24515,7 @@
               <linked>
                 </linked>
               <dots>1</dots>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -23499,6 +24523,16 @@
                 <tpc>13</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             </voice>
           </Measure>
         <Measure>
@@ -23580,7 +24614,7 @@
               <linked>
                 </linked>
               <dots>1</dots>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -23588,6 +24622,16 @@
                 <tpc>14</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             </voice>
           </Measure>
         <Measure>
@@ -23596,7 +24640,7 @@
               <linked>
                 </linked>
               <dots>1</dots>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -23604,6 +24648,16 @@
                 <tpc>13</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             </voice>
           </Measure>
         <Measure>
@@ -23611,7 +24665,8 @@
             <Chord>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <dots>1</dots>
+              <durationType>quarter</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -23619,6 +24674,11 @@
                 <tpc>15</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
             <Rest>
               <linked>
                 </linked>
@@ -23648,7 +24708,7 @@
               <linked>
                 </linked>
               <dots>1</dots>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -23656,6 +24716,16 @@
                 <tpc>13</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             </voice>
           </Measure>
         <Measure>
@@ -23676,6 +24746,18 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>3</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -23730,11 +24812,18 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-3</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
               <dots>1</dots>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -23742,6 +24831,16 @@
                 <tpc>14</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             </voice>
           </Measure>
         <Measure>
@@ -23750,7 +24849,7 @@
               <linked>
                 </linked>
               <dots>1</dots>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -23758,6 +24857,16 @@
                 <tpc>13</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             </voice>
           </Measure>
         <Measure>
@@ -23765,7 +24874,8 @@
             <Chord>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <dots>1</dots>
+              <durationType>quarter</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -23773,6 +24883,11 @@
                 <tpc>15</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
             <Rest>
               <linked>
                 </linked>
@@ -23802,7 +24917,7 @@
               <linked>
                 </linked>
               <dots>1</dots>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -23810,6 +24925,16 @@
                 <tpc>13</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             </voice>
           </Measure>
         <Measure>
@@ -24186,7 +25311,7 @@
               <linked>
                 </linked>
               <dots>1</dots>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -24194,6 +25319,16 @@
                 <tpc>14</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             </voice>
           </Measure>
         <Measure>
@@ -24202,7 +25337,7 @@
               <linked>
                 </linked>
               <dots>1</dots>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -24210,6 +25345,16 @@
                 <tpc>13</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             </voice>
           </Measure>
         <Measure>
@@ -24217,7 +25362,8 @@
             <Chord>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <dots>1</dots>
+              <durationType>quarter</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -24225,6 +25371,11 @@
                 <tpc>15</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
             <Rest>
               <linked>
                 </linked>
@@ -24254,7 +25405,7 @@
               <linked>
                 </linked>
               <dots>1</dots>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -24262,6 +25413,16 @@
                 <tpc>13</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             </voice>
           </Measure>
         <Measure>
@@ -24282,6 +25443,18 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>0</subtype>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>3</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -24336,11 +25509,18 @@
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-3</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
               <dots>1</dots>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -24348,6 +25528,16 @@
                 <tpc>14</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             </voice>
           </Measure>
         <Measure>
@@ -24356,7 +25546,7 @@
               <linked>
                 </linked>
               <dots>1</dots>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -24364,6 +25554,16 @@
                 <tpc>13</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             </voice>
           </Measure>
         <Measure>
@@ -24371,7 +25571,8 @@
             <Chord>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <dots>1</dots>
+              <durationType>quarter</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -24379,6 +25580,11 @@
                 <tpc>15</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
             <Rest>
               <linked>
                 </linked>
@@ -24408,7 +25614,7 @@
               <linked>
                 </linked>
               <dots>1</dots>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -24416,6 +25622,16 @@
                 <tpc>13</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             </voice>
           </Measure>
         <Measure>
