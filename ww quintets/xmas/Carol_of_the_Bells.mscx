@@ -10,6 +10,7 @@
       <enableVerticalSpread>1</enableVerticalSpread>
       <useStandardNoteNames>0</useStandardNoteNames>
       <concertPitch>1</concertPitch>
+      <createMultiMeasureRests>1</createMultiMeasureRests>
       <Spatium>1.75</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
@@ -2525,7 +2526,6 @@
       <Measure>
         <voice>
           <Chord>
-            <dots>1</dots>
             <durationType>half</durationType>
             <Note>
               <Spanner type="Tie">
@@ -2533,7 +2533,7 @@
                   </Tie>
                 <next>
                   <location>
-                    <measures>1</measures>
+                    <fractions>1/2</fractions>
                     </location>
                   </next>
                 </Spanner>
@@ -2541,6 +2541,33 @@
                 <prev>
                   <location>
                     <measures>-1</measures>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    <fractions>-1/2</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/2</fractions>
                     </location>
                   </prev>
                 </Spanner>
@@ -2563,6 +2590,7 @@
                 <prev>
                   <location>
                     <measures>-1</measures>
+                    <fractions>1/2</fractions>
                     </location>
                   </prev>
                 </Spanner>
@@ -4575,7 +4603,6 @@
       <Measure>
         <voice>
           <Chord>
-            <dots>1</dots>
             <durationType>half</durationType>
             <Note>
               <Spanner type="Tie">
@@ -4583,7 +4610,7 @@
                   </Tie>
                 <next>
                   <location>
-                    <measures>1</measures>
+                    <fractions>1/2</fractions>
                     </location>
                   </next>
                 </Spanner>
@@ -4591,6 +4618,33 @@
                 <prev>
                   <location>
                     <measures>-1</measures>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    <fractions>-1/2</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/2</fractions>
                     </location>
                   </prev>
                 </Spanner>
@@ -4613,6 +4667,7 @@
                 <prev>
                   <location>
                     <measures>-1</measures>
+                    <fractions>1/2</fractions>
                     </location>
                   </prev>
                 </Spanner>
@@ -6463,6 +6518,9 @@
               <tpc2>15</tpc2>
               </Note>
             </Chord>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -8093,18 +8151,8 @@
       <Measure>
         <voice>
           <Chord>
-            <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>1</measures>
-                    </location>
-                  </next>
-                </Spanner>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -8117,6 +8165,12 @@
               <tpc2>17</tpc2>
               </Note>
             </Chord>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -8128,13 +8182,6 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>50</pitch>
               <tpc>16</tpc>
               <tpc2>17</tpc2>
@@ -9609,18 +9656,8 @@
       <Measure>
         <voice>
           <Chord>
-            <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>1</measures>
-                    </location>
-                  </next>
-                </Spanner>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -9632,6 +9669,12 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -9643,13 +9686,6 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>38</pitch>
               <tpc>16</tpc>
               </Note>
