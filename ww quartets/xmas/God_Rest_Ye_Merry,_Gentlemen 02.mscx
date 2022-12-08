@@ -2024,6 +2024,15 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
+                  </location>
+                </next>
+              </Spanner>
             <acciaccatura/>
             <Note>
               <linkedMain/>
@@ -2034,6 +2043,13 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <grace>0</grace>
+                  </location>
+                </prev>
+              </Spanner>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
               <linkedMain/>
@@ -2077,6 +2093,15 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
+                  </location>
+                </next>
+              </Spanner>
             <acciaccatura/>
             <Note>
               <linkedMain/>
@@ -2087,6 +2112,13 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <grace>0</grace>
+                  </location>
+                </prev>
+              </Spanner>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
               <linkedMain/>
@@ -2315,6 +2347,15 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
+                  </location>
+                </next>
+              </Spanner>
             <acciaccatura/>
             <Note>
               <linkedMain/>
@@ -2325,6 +2366,13 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <grace>0</grace>
+                  </location>
+                </prev>
+              </Spanner>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
               <linkedMain/>
@@ -2368,6 +2416,15 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
+                  </location>
+                </next>
+              </Spanner>
             <acciaccatura/>
             <Note>
               <linkedMain/>
@@ -2378,6 +2435,13 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <grace>0</grace>
+                  </location>
+                </prev>
+              </Spanner>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
               <linkedMain/>
@@ -2523,6 +2587,19 @@
           <Chord>
             <linkedMain/>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                <SlurSegment no="0">
+                  <o4 x="1.21395" y="-0.418604"/>
+                  </SlurSegment>
+                </Slur>
+              <next>
+                <location>
+                  <grace>1</grace>
+                  </location>
+                </next>
+              </Spanner>
             <grace16/>
             <Note>
               <linkedMain/>
@@ -2533,6 +2610,13 @@
           <Chord>
             <linkedMain/>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <grace>0</grace>
+                  </location>
+                </prev>
+              </Spanner>
             <grace16/>
             <Note>
               <linkedMain/>
@@ -2582,6 +2666,15 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
+                  </location>
+                </next>
+              </Spanner>
             <acciaccatura/>
             <Note>
               <linkedMain/>
@@ -2592,6 +2685,13 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <grace>0</grace>
+                  </location>
+                </prev>
+              </Spanner>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
               <linkedMain/>
@@ -2717,6 +2817,15 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
+                  </location>
+                </next>
+              </Spanner>
             <acciaccatura/>
             <Note>
               <linkedMain/>
@@ -2737,6 +2846,13 @@
                   </location>
                 </next>
               </Spanner>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <grace>0</grace>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>84</pitch>
@@ -2898,6 +3014,36 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
+                  </location>
+                </next>
+              </Spanner>
+            <acciaccatura/>
+            <Note>
+              <linkedMain/>
+              <pitch>78</pitch>
+              <tpc>20</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <grace>0</grace>
+                  </location>
+                </prev>
+              </Spanner>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>79</pitch>
@@ -2907,6 +3053,36 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
+                  </location>
+                </next>
+              </Spanner>
+            <acciaccatura/>
+            <Note>
+              <linkedMain/>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <grace>0</grace>
+                  </location>
+                </prev>
+              </Spanner>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>81</pitch>
@@ -2955,6 +3131,10 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>86</pitch>
@@ -2964,6 +3144,10 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>88</pitch>
@@ -2979,9 +3163,35 @@
                 </Slur>
               <next>
                 <location>
+                  </location>
+                </next>
+              </Spanner>
+            <acciaccatura/>
+            <Note>
+              <linkedMain/>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
                   <fractions>1/8</fractions>
                   </location>
                 </next>
+              </Spanner>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <grace>0</grace>
+                  </location>
+                </prev>
               </Spanner>
             <Note>
               <linkedMain/>
@@ -3008,6 +3218,10 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>ornamentShortTrill</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>79</pitch>
@@ -3017,6 +3231,10 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>78</pitch>
@@ -17250,6 +17468,16 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    </location>
+                  </next>
+                </Spanner>
               <acciaccatura/>
               <Note>
                 <linked>
@@ -17262,6 +17490,13 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <grace>0</grace>
+                    </location>
+                  </prev>
+                </Spanner>
               <Articulation>
                 <subtype>articStaccatoAbove</subtype>
                 <linked>
@@ -17314,6 +17549,16 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    </location>
+                  </next>
+                </Spanner>
               <acciaccatura/>
               <Note>
                 <linked>
@@ -17326,6 +17571,13 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <grace>0</grace>
+                    </location>
+                  </prev>
+                </Spanner>
               <Articulation>
                 <subtype>articStaccatoAbove</subtype>
                 <linked>
@@ -17596,6 +17848,16 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    </location>
+                  </next>
+                </Spanner>
               <acciaccatura/>
               <Note>
                 <linked>
@@ -17608,6 +17870,13 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <grace>0</grace>
+                    </location>
+                  </prev>
+                </Spanner>
               <Articulation>
                 <subtype>articStaccatoAbove</subtype>
                 <linked>
@@ -17660,6 +17929,16 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    </location>
+                  </next>
+                </Spanner>
               <acciaccatura/>
               <Note>
                 <linked>
@@ -17672,6 +17951,13 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <grace>0</grace>
+                    </location>
+                  </prev>
+                </Spanner>
               <Articulation>
                 <subtype>articStaccatoAbove</subtype>
                 <linked>
@@ -17846,6 +18132,17 @@
               <linked>
                 </linked>
               <durationType>16th</durationType>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    <grace>1</grace>
+                    </location>
+                  </next>
+                </Spanner>
               <grace16/>
               <Note>
                 <linked>
@@ -17858,6 +18155,13 @@
               <linked>
                 </linked>
               <durationType>16th</durationType>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <grace>0</grace>
+                    </location>
+                  </prev>
+                </Spanner>
               <grace16/>
               <Note>
                 <linked>
@@ -17918,6 +18222,16 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    </location>
+                  </next>
+                </Spanner>
               <acciaccatura/>
               <Note>
                 <linked>
@@ -17930,6 +18244,13 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <grace>0</grace>
+                    </location>
+                  </prev>
+                </Spanner>
               <Articulation>
                 <subtype>articStaccatoAbove</subtype>
                 <linked>
@@ -18082,6 +18403,16 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    </location>
+                  </next>
+                </Spanner>
               <acciaccatura/>
               <Note>
                 <linked>
@@ -18105,6 +18436,13 @@
                     </location>
                   </next>
                 </Spanner>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <grace>0</grace>
+                    </location>
+                  </prev>
+                </Spanner>
               <Note>
                 <linked>
                   </linked>
@@ -18291,6 +18629,40 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    </location>
+                  </next>
+                </Spanner>
+              <acciaccatura/>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>78</pitch>
+                <tpc>20</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <grace>0</grace>
+                    </location>
+                  </prev>
+                </Spanner>
+              <Articulation>
+                <subtype>articStaccatoAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -18302,6 +18674,40 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    </location>
+                  </next>
+                </Spanner>
+              <acciaccatura/>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>79</pitch>
+                <tpc>15</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <grace>0</grace>
+                    </location>
+                  </prev>
+                </Spanner>
+              <Articulation>
+                <subtype>articStaccatoAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -18357,6 +18763,11 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Articulation>
+                <subtype>articStaccatoAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -18368,6 +18779,11 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Articulation>
+                <subtype>articStaccatoAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -18386,9 +18802,38 @@
                   </Slur>
                 <next>
                   <location>
+                    </location>
+                  </next>
+                </Spanner>
+              <acciaccatura/>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>81</pitch>
+                <tpc>17</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
                     <fractions>1/8</fractions>
                     </location>
                   </next>
+                </Spanner>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <grace>0</grace>
+                    </location>
+                  </prev>
                 </Spanner>
               <Note>
                 <linked>
@@ -18419,6 +18864,11 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Articulation>
+                <subtype>ornamentShortTrill</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -18430,6 +18880,11 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Articulation>
+                <subtype>articStaccatoAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
