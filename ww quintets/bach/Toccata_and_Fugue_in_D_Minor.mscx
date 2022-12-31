@@ -370,7 +370,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>0.8666666666666667</tempo>
+            <tempo>0.76666666666666672</tempo>
             <linkedMain/>
             <text>Adagio</text>
             </Tempo>
@@ -13539,7 +13539,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>0.8666666666666667</tempo>
+              <tempo>0.76666666666666672</tempo>
               <linked>
                 </linked>
               <text>Adagio</text>
@@ -16789,7 +16789,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>0.8666666666666667</tempo>
+              <tempo>0.76666666666666672</tempo>
               <linked>
                 <location>
                   <staves>-1</staves>
@@ -20904,7 +20904,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>0.8666666666666667</tempo>
+              <tempo>0.76666666666666672</tempo>
               <linked>
                 <location>
                   <staves>-2</staves>
@@ -24776,7 +24776,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>0.8666666666666667</tempo>
+              <tempo>0.76666666666666672</tempo>
               <linked>
                 <location>
                   <staves>-3</staves>
@@ -27019,7 +27019,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>0.8666666666666667</tempo>
+              <tempo>0.76666666666666672</tempo>
               <linked>
                 <location>
                   <staves>-4</staves>
