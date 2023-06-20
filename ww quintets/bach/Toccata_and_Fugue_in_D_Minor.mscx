@@ -340,6 +340,7 @@
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="70"/>
+          <controller ctrl="7" value="95"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -402,9 +403,11 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="52"/>
           <synti>Fluid</synti>
+          <mute>1</mute>
           </Channel>
         </Instrument>
       </Part>
@@ -415,12 +418,18 @@
         <Text>
           <linkedMain/>
           <style>Title</style>
-          <text>Toccata and Fugue in D Minor (v2)</text>
+          <text>Toccata</text>
           </Text>
         <Text>
           <linkedMain/>
           <style>Composer</style>
           <text>J.S. Bach (arr.  biggs)</text>
+          </Text>
+        <Text>
+          <linkedMain/>
+          <style>Subtitle</style>
+          <size>14</size>
+          <text>(from Toccata and Fugue in D Minor)</text>
           </Text>
         </VBox>
       <Measure>
@@ -9674,7 +9683,6 @@
       <Measure>
         <voice>
           <KeySig>
-            <linkedMain/>
             <accidental>-1</accidental>
             </KeySig>
           <TimeSig>
@@ -13516,15 +13524,15 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            <linkedMain/>
-            </Fermata>
           <StaffText>
             <linkedMain/>
             <offset x="2.12651" y="-1.48045"/>
             <text>picc, ob</text>
             </StaffText>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            <linkedMain/>
+            </Fermata>
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -13612,15 +13620,15 @@
             <linkedMain/>
             <durationType>eighth</durationType>
             </Rest>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            <linkedMain/>
-            </Fermata>
           <StaffText>
             <linkedMain/>
             <offset x="2.00837" y="-1.78427"/>
             <text>cl, hn</text>
             </StaffText>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            <linkedMain/>
+            </Fermata>
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -13697,15 +13705,15 @@
             <transposingClefType>F</transposingClefType>
             <linkedMain/>
             </Clef>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            <linkedMain/>
-            </Fermata>
           <StaffText>
             <linkedMain/>
             <offset x="1.77209" y="-1.35555"/>
             <text>hn, bsn</text>
             </StaffText>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            <linkedMain/>
+            </Fermata>
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -16816,14 +16824,11 @@
       <Measure>
         <voice>
           <StaffText>
-            <linkedMain/>
             <text>hn</text>
             </StaffText>
           <Chord>
-            <linkedMain/>
             <durationType>16th</durationType>
             <Note>
-              <linkedMain/>
               <pitch>62</pitch>
               <tpc>16</tpc>
               </Note>
@@ -18535,15 +18540,12 @@
       <Measure>
         <voice>
           <StaffText>
-            <linkedMain/>
             <text>fl</text>
             </StaffText>
           <Chord>
-            <linkedMain/>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
-              <linkedMain/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -20943,9 +20945,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/16</fractions>
-            </location>
           </voice>
         </Measure>
       <Measure>
@@ -21164,6 +21163,7 @@
             <gateTime>100</gateTime>
             </Articulation>
           <Channel>
+            <controller ctrl="0" value="0"/>
             <controller ctrl="32" value="17"/>
             <program value="52"/>
             <synti>Fluid</synti>
@@ -21179,7 +21179,7 @@
             <linked>
               </linked>
             <style>Title</style>
-            <text>Toccata and Fugue in D Minor (v2)</text>
+            <text>Toccata</text>
             </Text>
           <Text>
             <linked>
@@ -21190,6 +21190,12 @@
           <Text>
             <style>Instrument Name (Part)</style>
             <text>flute2</text>
+            </Text>
+          <Text>
+            <linked>
+              </linked>
+            <style>Subtitle</style>
+            <text>(from Toccata and Fugue in D Minor)</text>
             </Text>
           </VBox>
         <Measure>
@@ -24340,16 +24346,16 @@
               <sigN>4</sigN>
               <sigD>4</sigD>
               </TimeSig>
-            <Fermata>
-              <subtype>fermataAbove</subtype>
-              <linked>
-                </linked>
-              </Fermata>
             <StaffText>
               <linked>
                 </linked>
               <text>picc, ob</text>
               </StaffText>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Chord>
               <linked>
                 </linked>
@@ -24456,16 +24462,16 @@
                 </linked>
               <durationType>eighth</durationType>
               </Rest>
-            <Fermata>
-              <subtype>fermataAbove</subtype>
-              <linked>
-                </linked>
-              </Fermata>
             <StaffText>
               <linked>
                 </linked>
               <text>cl, hn</text>
               </StaffText>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Chord>
               <linked>
                 </linked>
@@ -24558,16 +24564,16 @@
               <linked>
                 </linked>
               </Clef>
-            <Fermata>
-              <subtype>fermataAbove</subtype>
-              <linked>
-                </linked>
-              </Fermata>
             <StaffText>
               <linked>
                 </linked>
               <text>hn, bsn</text>
               </StaffText>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Chord>
               <linked>
                 </linked>
@@ -28254,17 +28260,11 @@
         <Measure>
           <voice>
             <StaffText>
-              <linked>
-                </linked>
               <text>hn</text>
               </StaffText>
             <Chord>
-              <linked>
-                </linked>
               <durationType>16th</durationType>
               <Note>
-                <linked>
-                  </linked>
                 <pitch>62</pitch>
                 <tpc>16</tpc>
                 </Note>
@@ -30328,18 +30328,12 @@
         <Measure>
           <voice>
             <StaffText>
-              <linked>
-                </linked>
               <text>fl</text>
               </StaffText>
             <Chord>
-              <linked>
-                </linked>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
-                <linked>
-                  </linked>
                 <Accidental>
                   <subtype>accidentalSharp</subtype>
                   </Accidental>
@@ -33149,9 +33143,6 @@
                 <tpc>17</tpc>
                 </Note>
               </Chord>
-            <location>
-              <fractions>1/16</fractions>
-              </location>
             </voice>
           </Measure>
         <Measure>
@@ -33372,6 +33363,7 @@
             <gateTime>100</gateTime>
             </Articulation>
           <Channel>
+            <controller ctrl="0" value="0"/>
             <controller ctrl="32" value="17"/>
             <program value="52"/>
             <synti>Fluid</synti>
@@ -33393,7 +33385,7 @@
                 </location>
               </linked>
             <style>Title</style>
-            <text>Toccata and Fugue in D Minor (v2)</text>
+            <text>Toccata</text>
             </Text>
           <Text>
             <linked>
@@ -33407,6 +33399,15 @@
           <Text>
             <style>Instrument Name (Part)</style>
             <text>oboe</text>
+            </Text>
+          <Text>
+            <linked>
+              <location>
+                <staves>-1</staves>
+                </location>
+              </linked>
+            <style>Subtitle</style>
+            <text>(from Toccata and Fugue in D Minor)</text>
             </Text>
           </VBox>
         <Measure>
@@ -33429,7 +33430,7 @@
                 <location>
                   <staves>-1</staves>
                   </location>
-                <indexDiff>6</indexDiff>
+                <indexDiff>7</indexDiff>
                 </linked>
               <text>Adagio</text>
               </Tempo>
@@ -37433,16 +37434,16 @@
               <sigN>4</sigN>
               <sigD>4</sigD>
               </TimeSig>
-            <Fermata>
-              <subtype>fermataAbove</subtype>
-              <linked>
-                </linked>
-              </Fermata>
             <StaffText>
               <linked>
                 </linked>
               <text>picc, ob</text>
               </StaffText>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Chord>
               <linked>
                 </linked>
@@ -37549,16 +37550,16 @@
                 </linked>
               <durationType>eighth</durationType>
               </Rest>
-            <Fermata>
-              <subtype>fermataAbove</subtype>
-              <linked>
-                </linked>
-              </Fermata>
             <StaffText>
               <linked>
                 </linked>
               <text>cl, hn</text>
               </StaffText>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Chord>
               <linked>
                 </linked>
@@ -37651,16 +37652,16 @@
               <linked>
                 </linked>
               </Clef>
-            <Fermata>
-              <subtype>fermataAbove</subtype>
-              <linked>
-                </linked>
-              </Fermata>
             <StaffText>
               <linked>
                 </linked>
               <text>hn, bsn</text>
               </StaffText>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Chord>
               <linked>
                 </linked>
@@ -41347,17 +41348,11 @@
         <Measure>
           <voice>
             <StaffText>
-              <linked>
-                </linked>
               <text>hn</text>
               </StaffText>
             <Chord>
-              <linked>
-                </linked>
               <durationType>16th</durationType>
               <Note>
-                <linked>
-                  </linked>
                 <pitch>62</pitch>
                 <tpc>16</tpc>
                 </Note>
@@ -43421,18 +43416,12 @@
         <Measure>
           <voice>
             <StaffText>
-              <linked>
-                </linked>
               <text>fl</text>
               </StaffText>
             <Chord>
-              <linked>
-                </linked>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
-                <linked>
-                  </linked>
                 <Accidental>
                   <subtype>accidentalSharp</subtype>
                   </Accidental>
@@ -46244,9 +46233,6 @@
                 <tpc>17</tpc>
                 </Note>
               </Chord>
-            <location>
-              <fractions>1/16</fractions>
-              </location>
             </voice>
           </Measure>
         <Measure>
@@ -46469,6 +46455,7 @@
             <gateTime>100</gateTime>
             </Articulation>
           <Channel>
+            <controller ctrl="0" value="0"/>
             <controller ctrl="32" value="17"/>
             <program value="52"/>
             <synti>Fluid</synti>
@@ -46490,7 +46477,7 @@
                 </location>
               </linked>
             <style>Title</style>
-            <text>Toccata and Fugue in D Minor (v2)</text>
+            <text>Toccata</text>
             </Text>
           <Text>
             <linked>
@@ -46504,6 +46491,15 @@
           <Text>
             <style>Instrument Name (Part)</style>
             <text>clarinet</text>
+            </Text>
+          <Text>
+            <linked>
+              <location>
+                <staves>-2</staves>
+                </location>
+              </linked>
+            <style>Subtitle</style>
+            <text>(from Toccata and Fugue in D Minor)</text>
             </Text>
           </VBox>
         <Measure>
@@ -46526,7 +46522,7 @@
                 <location>
                   <staves>-2</staves>
                   </location>
-                <indexDiff>6</indexDiff>
+                <indexDiff>7</indexDiff>
                 </linked>
               <text>Adagio</text>
               </Tempo>
@@ -50379,16 +50375,16 @@
               <sigN>4</sigN>
               <sigD>4</sigD>
               </TimeSig>
-            <Fermata>
-              <subtype>fermataAbove</subtype>
-              <linked>
-                </linked>
-              </Fermata>
             <StaffText>
               <linked>
                 </linked>
               <text>picc, ob</text>
               </StaffText>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Chord>
               <linked>
                 </linked>
@@ -50495,16 +50491,16 @@
                 </linked>
               <durationType>eighth</durationType>
               </Rest>
-            <Fermata>
-              <subtype>fermataAbove</subtype>
-              <linked>
-                </linked>
-              </Fermata>
             <StaffText>
               <linked>
                 </linked>
               <text>cl, hn</text>
               </StaffText>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Chord>
               <linked>
                 </linked>
@@ -50597,16 +50593,16 @@
               <linked>
                 </linked>
               </Clef>
-            <Fermata>
-              <subtype>fermataAbove</subtype>
-              <linked>
-                </linked>
-              </Fermata>
             <StaffText>
               <linked>
                 </linked>
               <text>hn, bsn</text>
               </StaffText>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Chord>
               <linked>
                 </linked>
@@ -54293,17 +54289,11 @@
         <Measure>
           <voice>
             <StaffText>
-              <linked>
-                </linked>
               <text>hn</text>
               </StaffText>
             <Chord>
-              <linked>
-                </linked>
               <durationType>16th</durationType>
               <Note>
-                <linked>
-                  </linked>
                 <pitch>62</pitch>
                 <tpc>16</tpc>
                 </Note>
@@ -56367,18 +56357,12 @@
         <Measure>
           <voice>
             <StaffText>
-              <linked>
-                </linked>
               <text>fl</text>
               </StaffText>
             <Chord>
-              <linked>
-                </linked>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
-                <linked>
-                  </linked>
                 <Accidental>
                   <subtype>accidentalSharp</subtype>
                   </Accidental>
@@ -59188,9 +59172,6 @@
                 <tpc>17</tpc>
                 </Note>
               </Chord>
-            <location>
-              <fractions>1/16</fractions>
-              </location>
             </voice>
           </Measure>
         <Measure>
@@ -59413,6 +59394,7 @@
             <gateTime>100</gateTime>
             </Articulation>
           <Channel>
+            <controller ctrl="0" value="0"/>
             <controller ctrl="32" value="17"/>
             <program value="52"/>
             <synti>Fluid</synti>
@@ -59434,7 +59416,7 @@
                 </location>
               </linked>
             <style>Title</style>
-            <text>Toccata and Fugue in D Minor (v2)</text>
+            <text>Toccata</text>
             </Text>
           <Text>
             <linked>
@@ -59449,13 +59431,21 @@
             <style>Instrument Name (Part)</style>
             <text>french horn</text>
             </Text>
+          <Text>
+            <linked>
+              <location>
+                <staves>-3</staves>
+                </location>
+              </linked>
+            <style>Subtitle</style>
+            <text>(from Toccata and Fugue in D Minor)</text>
+            </Text>
           </VBox>
         <Measure>
           <voice>
             <TimeSig>
               <subtype>1</subtype>
               <linked>
-                <indexDiff>1</indexDiff>
                 </linked>
               <sigN>4</sigN>
               <sigD>4</sigD>
@@ -59466,19 +59456,19 @@
                 <location>
                   <staves>-3</staves>
                   </location>
-                <indexDiff>6</indexDiff>
+                <indexDiff>7</indexDiff>
                 </linked>
               <text>Adagio</text>
               </Tempo>
             <Fermata>
               <subtype>fermataAbove</subtype>
               <linked>
-                <indexDiff>2</indexDiff>
+                <indexDiff>1</indexDiff>
                 </linked>
               </Fermata>
             <Rest>
               <linked>
-                <indexDiff>2</indexDiff>
+                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>half</durationType>
               </Rest>
@@ -61501,16 +61491,16 @@
               <sigN>4</sigN>
               <sigD>4</sigD>
               </TimeSig>
-            <Fermata>
-              <subtype>fermataAbove</subtype>
-              <linked>
-                </linked>
-              </Fermata>
             <StaffText>
               <linked>
                 </linked>
               <text>picc, ob</text>
               </StaffText>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Chord>
               <linked>
                 </linked>
@@ -61617,16 +61607,16 @@
                 </linked>
               <durationType>eighth</durationType>
               </Rest>
-            <Fermata>
-              <subtype>fermataAbove</subtype>
-              <linked>
-                </linked>
-              </Fermata>
             <StaffText>
               <linked>
                 </linked>
               <text>cl, hn</text>
               </StaffText>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Chord>
               <linked>
                 </linked>
@@ -61719,16 +61709,16 @@
               <linked>
                 </linked>
               </Clef>
-            <Fermata>
-              <subtype>fermataAbove</subtype>
-              <linked>
-                </linked>
-              </Fermata>
             <StaffText>
               <linked>
                 </linked>
               <text>hn, bsn</text>
               </StaffText>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Chord>
               <linked>
                 </linked>
@@ -65415,17 +65405,11 @@
         <Measure>
           <voice>
             <StaffText>
-              <linked>
-                </linked>
               <text>hn</text>
               </StaffText>
             <Chord>
-              <linked>
-                </linked>
               <durationType>16th</durationType>
               <Note>
-                <linked>
-                  </linked>
                 <pitch>62</pitch>
                 <tpc>16</tpc>
                 </Note>
@@ -67489,18 +67473,12 @@
         <Measure>
           <voice>
             <StaffText>
-              <linked>
-                </linked>
               <text>fl</text>
               </StaffText>
             <Chord>
-              <linked>
-                </linked>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
-                <linked>
-                  </linked>
                 <Accidental>
                   <subtype>accidentalSharp</subtype>
                   </Accidental>
@@ -70310,9 +70288,6 @@
                 <tpc>17</tpc>
                 </Note>
               </Chord>
-            <location>
-              <fractions>1/16</fractions>
-              </location>
             </voice>
           </Measure>
         <Measure>
@@ -70534,6 +70509,7 @@
             <gateTime>100</gateTime>
             </Articulation>
           <Channel>
+            <controller ctrl="0" value="0"/>
             <controller ctrl="32" value="17"/>
             <program value="52"/>
             <synti>Fluid</synti>
@@ -70555,7 +70531,7 @@
                 </location>
               </linked>
             <style>Title</style>
-            <text>Toccata and Fugue in D Minor (v2)</text>
+            <text>Toccata</text>
             </Text>
           <Text>
             <linked>
@@ -70569,6 +70545,15 @@
           <Text>
             <style>Instrument Name (Part)</style>
             <text>bassoon</text>
+            </Text>
+          <Text>
+            <linked>
+              <location>
+                <staves>-4</staves>
+                </location>
+              </linked>
+            <style>Subtitle</style>
+            <text>(from Toccata and Fugue in D Minor)</text>
             </Text>
           </VBox>
         <Measure>
@@ -70591,7 +70576,7 @@
                 <location>
                   <staves>-4</staves>
                   </location>
-                <indexDiff>6</indexDiff>
+                <indexDiff>7</indexDiff>
                 </linked>
               <text>Adagio</text>
               </Tempo>
@@ -73115,16 +73100,16 @@
               <sigN>4</sigN>
               <sigD>4</sigD>
               </TimeSig>
-            <Fermata>
-              <subtype>fermataAbove</subtype>
-              <linked>
-                </linked>
-              </Fermata>
             <StaffText>
               <linked>
                 </linked>
               <text>picc, ob</text>
               </StaffText>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Chord>
               <linked>
                 </linked>
@@ -73231,16 +73216,16 @@
                 </linked>
               <durationType>eighth</durationType>
               </Rest>
-            <Fermata>
-              <subtype>fermataAbove</subtype>
-              <linked>
-                </linked>
-              </Fermata>
             <StaffText>
               <linked>
                 </linked>
               <text>cl, hn</text>
               </StaffText>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Chord>
               <linked>
                 </linked>
@@ -73333,16 +73318,16 @@
               <linked>
                 </linked>
               </Clef>
-            <Fermata>
-              <subtype>fermataAbove</subtype>
-              <linked>
-                </linked>
-              </Fermata>
             <StaffText>
               <linked>
                 </linked>
               <text>hn, bsn</text>
               </StaffText>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Chord>
               <linked>
                 </linked>
@@ -77029,17 +77014,11 @@
         <Measure>
           <voice>
             <StaffText>
-              <linked>
-                </linked>
               <text>hn</text>
               </StaffText>
             <Chord>
-              <linked>
-                </linked>
               <durationType>16th</durationType>
               <Note>
-                <linked>
-                  </linked>
                 <pitch>62</pitch>
                 <tpc>16</tpc>
                 </Note>
@@ -79103,18 +79082,12 @@
         <Measure>
           <voice>
             <StaffText>
-              <linked>
-                </linked>
               <text>fl</text>
               </StaffText>
             <Chord>
-              <linked>
-                </linked>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
-                <linked>
-                  </linked>
                 <Accidental>
                   <subtype>accidentalSharp</subtype>
                   </Accidental>
@@ -81924,9 +81897,6 @@
                 <tpc>17</tpc>
                 </Note>
               </Chord>
-            <location>
-              <fractions>1/16</fractions>
-              </location>
             </voice>
           </Measure>
         <Measure>
