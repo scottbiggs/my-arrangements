@@ -1782,13 +1782,10 @@ arr. biggs</text>
             </Spanner>
           <Chord>
             <linkedMain/>
-            <durationType>32nd</durationType>
+            <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
                 <linkedMain/>
-                <SlurSegment no="0">
-                  <o1 x="-1.85648" y="1.01262"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -1796,7 +1793,7 @@ arr. biggs</text>
                   </location>
                 </next>
               </Spanner>
-            <grace32after/>
+            <grace16after/>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -1808,8 +1805,8 @@ arr. biggs</text>
             </Chord>
           <Chord>
             <linkedMain/>
-            <durationType>32nd</durationType>
-            <grace32after/>
+            <durationType>16th</durationType>
+            <grace16after/>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -18910,7 +18907,7 @@ arr. biggs</text>
                     </location>
                   </next>
                 </Spanner>
-              <pitch>57</pitch>
+              <pitch>69</pitch>
               <tpc>17</tpc>
               <tpc2>14</tpc2>
               </Note>
@@ -18943,7 +18940,7 @@ arr. biggs</text>
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>57</pitch>
+              <pitch>69</pitch>
               <tpc>17</tpc>
               <tpc2>14</tpc2>
               </Note>
@@ -18953,9 +18950,9 @@ arr. biggs</text>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
-              <pitch>56</pitch>
-              <tpc>22</tpc>
-              <tpc2>19</tpc2>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -21526,6 +21523,14 @@ arr. biggs</text>
             <velocity>33</velocity>
             <linkedMain/>
             </Dynamic>
+          <StaffText>
+            <channelSwitch voice="0" name="open"/>
+            <channelSwitch voice="1" name="open"/>
+            <channelSwitch voice="2" name="open"/>
+            <channelSwitch voice="3" name="open"/>
+            <linkedMain/>
+            <text>open</text>
+            </StaffText>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -21540,14 +21545,6 @@ arr. biggs</text>
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <channelSwitch voice="0" name="open"/>
-            <channelSwitch voice="1" name="open"/>
-            <channelSwitch voice="2" name="open"/>
-            <channelSwitch voice="3" name="open"/>
-            <linkedMain/>
-            <text>open</text>
-            </StaffText>
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -22117,10 +22114,6 @@ arr. biggs</text>
               <tpc2>18</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <linkedMain/>
-            <text>Parallel 5th!</text>
-            </StaffText>
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
@@ -22178,10 +22171,6 @@ arr. biggs</text>
               <tpc2>16</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <linkedMain/>
-            <text>here too!</text>
-            </StaffText>
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
@@ -23265,6 +23254,14 @@ arr. biggs</text>
             <velocity>49</velocity>
             <linkedMain/>
             </Dynamic>
+          <StaffText>
+            <channelSwitch voice="0" name="open"/>
+            <channelSwitch voice="1" name="open"/>
+            <channelSwitch voice="2" name="open"/>
+            <channelSwitch voice="3" name="open"/>
+            <linkedMain/>
+            <text>open</text>
+            </StaffText>
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -23455,6 +23452,10 @@ arr. biggs</text>
               <tpc2>21</tpc2>
               </Note>
             </Chord>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            <linkedMain/>
+            </Fermata>
           <Rest>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -28275,6 +28276,11 @@ arr. biggs</text>
         </Measure>
       <Measure>
         <voice>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <linkedMain/>
+            </Clef>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
@@ -28943,11 +28949,6 @@ arr. biggs</text>
             <linkedMain/>
             <durationType>half</durationType>
             </Rest>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <linkedMain/>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -30616,6 +30617,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -31015,6 +31019,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -31867,6 +31874,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Spanner type="HairPin">
               <prev>
@@ -31890,11 +31900,14 @@ arr. biggs</text>
             <Chord>
               <linked>
                 </linked>
-              <durationType>32nd</durationType>
+              <durationType>16th</durationType>
               <Spanner type="Slur">
                 <Slur>
                   <linked>
                     </linked>
+                  <SlurSegment no="0">
+                    <o1 x="-1.91614" y="0.42581"/>
+                    </SlurSegment>
                   </Slur>
                 <next>
                   <location>
@@ -31902,7 +31915,7 @@ arr. biggs</text>
                     </location>
                   </next>
                 </Spanner>
-              <grace32after/>
+              <grace16after/>
               <Note>
                 <linked>
                   </linked>
@@ -31916,8 +31929,8 @@ arr. biggs</text>
             <Chord>
               <linked>
                 </linked>
-              <durationType>32nd</durationType>
-              <grace32after/>
+              <durationType>16th</durationType>
+              <grace16after/>
               <Note>
                 <linked>
                   </linked>
@@ -32295,6 +32308,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Spanner type="HairPin">
               <HairPin>
@@ -32636,6 +32652,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>f</subtype>
@@ -33036,6 +33055,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -33339,6 +33361,9 @@ arr. biggs</text>
           </Measure>
         <Measure len="8/4">
           <multiMeasureRest>2</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>page</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <durationType>measure</durationType>
@@ -33347,6 +33372,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>page</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -33756,6 +33784,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -34189,6 +34220,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -34506,6 +34540,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>f</subtype>
@@ -34853,6 +34890,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -35195,6 +35235,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Spanner type="HairPin">
               <HairPin>
@@ -35498,6 +35541,9 @@ arr. biggs</text>
           </Measure>
         <Measure len="24/4">
           <multiMeasureRest>6</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <durationType>measure</durationType>
@@ -35546,6 +35592,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -35977,6 +36026,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -36923,6 +36975,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -37335,6 +37390,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>p</subtype>
@@ -37716,6 +37774,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -38055,6 +38116,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -38443,6 +38507,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -38813,6 +38880,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>p</subtype>
@@ -39252,6 +39322,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>page</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -39627,6 +39700,9 @@ arr. biggs</text>
           </Measure>
         <Measure len="8/4">
           <multiMeasureRest>2</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <durationType>measure</durationType>
@@ -39635,6 +39711,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -39982,6 +40061,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -40937,6 +41019,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Spanner type="HairPin">
               <HairPin>
@@ -41395,6 +41480,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Spanner type="HairPin">
               <HairPin>
@@ -41805,6 +41893,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -42262,6 +42353,9 @@ arr. biggs</text>
           </Measure>
         <Measure len="8/4">
           <multiMeasureRest>2</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <durationType>measure</durationType>
@@ -42270,6 +42364,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -43755,6 +43852,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -44345,6 +44445,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>mf</subtype>
@@ -44835,6 +44938,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -45279,6 +45385,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -45844,6 +45953,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -46891,6 +47003,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>mf</subtype>
@@ -47440,6 +47555,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>mf</subtype>
@@ -47996,6 +48114,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>mf</subtype>
@@ -49100,6 +49221,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -49669,6 +49793,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -50309,6 +50436,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <RehearsalMark>
               <linked>
@@ -50864,6 +50994,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -52375,7 +52508,7 @@ arr. biggs</text>
                       </location>
                     </next>
                   </Spanner>
-                <pitch>57</pitch>
+                <pitch>69</pitch>
                 <tpc>17</tpc>
                 <tpc2>14</tpc2>
                 </Note>
@@ -52411,7 +52544,7 @@ arr. biggs</text>
                       </location>
                     </prev>
                   </Spanner>
-                <pitch>57</pitch>
+                <pitch>69</pitch>
                 <tpc>17</tpc>
                 <tpc2>14</tpc2>
                 </Note>
@@ -52423,9 +52556,9 @@ arr. biggs</text>
               <Note>
                 <linked>
                   </linked>
-                <pitch>56</pitch>
-                <tpc>22</tpc>
-                <tpc2>19</tpc2>
+                <pitch>59</pitch>
+                <tpc>19</tpc>
+                <tpc2>16</tpc2>
                 </Note>
               </Chord>
             </voice>
@@ -52940,6 +53073,9 @@ arr. biggs</text>
           </Measure>
         <Measure len="16/4">
           <multiMeasureRest>4</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <durationType>measure</durationType>
@@ -52968,6 +53104,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -53198,6 +53337,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -53515,6 +53657,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -53896,6 +54041,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -54437,6 +54585,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>p</subtype>
@@ -54882,6 +55033,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -55189,6 +55343,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>page</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -55422,6 +55579,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -55589,6 +55749,15 @@ arr. biggs</text>
               <linked>
                 </linked>
               </Dynamic>
+            <StaffText>
+              <channelSwitch voice="0" name="open"/>
+              <channelSwitch voice="1" name="open"/>
+              <channelSwitch voice="2" name="open"/>
+              <channelSwitch voice="3" name="open"/>
+              <linked>
+                </linked>
+              <text>open</text>
+              </StaffText>
             <Chord>
               <linked>
                 </linked>
@@ -55613,15 +55782,6 @@ arr. biggs</text>
                 </linked>
               <text>F</text>
               </RehearsalMark>
-            <StaffText>
-              <channelSwitch voice="0" name="open"/>
-              <channelSwitch voice="1" name="open"/>
-              <channelSwitch voice="2" name="open"/>
-              <channelSwitch voice="3" name="open"/>
-              <linked>
-                </linked>
-              <text>open</text>
-              </StaffText>
             <Chord>
               <linked>
                 </linked>
@@ -55760,6 +55920,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -56268,11 +56431,6 @@ arr. biggs</text>
                 <tpc2>18</tpc2>
                 </Note>
               </Chord>
-            <StaffText>
-              <linked>
-                </linked>
-              <text>Parallel 5th!</text>
-              </StaffText>
             <Chord>
               <linked>
                 </linked>
@@ -56336,11 +56494,6 @@ arr. biggs</text>
                 <tpc2>16</tpc2>
                 </Note>
               </Chord>
-            <StaffText>
-              <linked>
-                </linked>
-              <text>here too!</text>
-              </StaffText>
             <Chord>
               <linked>
                 </linked>
@@ -56356,6 +56509,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>p</subtype>
@@ -56900,6 +57056,9 @@ arr. biggs</text>
           </Measure>
         <Measure len="28/4">
           <multiMeasureRest>7</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <durationType>measure</durationType>
@@ -56958,6 +57117,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -57162,6 +57324,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -57500,6 +57665,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Spanner type="HairPin">
               <prev>
@@ -57610,6 +57778,15 @@ arr. biggs</text>
               <linked>
                 </linked>
               </Dynamic>
+            <StaffText>
+              <channelSwitch voice="0" name="open"/>
+              <channelSwitch voice="1" name="open"/>
+              <channelSwitch voice="2" name="open"/>
+              <channelSwitch voice="3" name="open"/>
+              <linked>
+                </linked>
+              <text>open</text>
+              </StaffText>
             <Chord>
               <linked>
                 </linked>
@@ -57836,6 +58013,11 @@ arr. biggs</text>
                 <tpc2>21</tpc2>
                 </Note>
               </Chord>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Rest>
               <linked>
                 </linked>
@@ -58210,6 +58392,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -58625,6 +58810,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -58960,6 +59148,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -59299,6 +59490,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -59836,6 +60030,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -60232,6 +60429,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -60751,6 +60951,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -61065,6 +61268,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -61481,6 +61687,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>page</subtype>
+            </LayoutBreak>
           <voice>
             <Spanner type="HairPin">
               <prev>
@@ -62167,6 +62376,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -63033,6 +63245,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Spanner type="HairPin">
               <HairPin>
@@ -63533,6 +63748,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -63708,6 +63926,12 @@ arr. biggs</text>
           </Measure>
         <Measure>
           <voice>
+            <Clef>
+              <concertClefType>F</concertClefType>
+              <transposingClefType>F</transposingClefType>
+              <linked>
+                </linked>
+              </Clef>
             <RehearsalMark>
               <linked>
                 <location>
@@ -63720,15 +63944,18 @@ arr. biggs</text>
               <subtype>p</subtype>
               <velocity>49</velocity>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               </Dynamic>
             <Chord>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>eighth</durationType>
               <Spanner type="Slur">
                 <Slur>
                   <linked>
+                    <indexDiff>1</indexDiff>
                     </linked>
                   </Slur>
                 <next>
@@ -63739,6 +63966,7 @@ arr. biggs</text>
                 </Spanner>
               <Note>
                 <linked>
+                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>57</pitch>
                 <tpc>17</tpc>
@@ -64330,6 +64558,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>sfz</subtype>
@@ -64509,12 +64740,6 @@ arr. biggs</text>
                 </linked>
               <durationType>half</durationType>
               </Rest>
-            <Clef>
-              <concertClefType>F</concertClefType>
-              <transposingClefType>F</transposingClefType>
-              <linked>
-                </linked>
-              </Clef>
             </voice>
           </Measure>
         <Measure>
@@ -64758,6 +64983,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>p</subtype>
@@ -65095,6 +65323,9 @@ arr. biggs</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
