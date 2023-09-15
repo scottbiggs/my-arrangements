@@ -3913,7 +3913,7 @@ arr. biggs</text>
                 </Slur>
               <next>
                 <location>
-                  <measures>3</measures>
+                  <measures>2</measures>
                   <fractions>3/4</fractions>
                   </location>
                 </next>
@@ -4132,6 +4132,14 @@ arr. biggs</text>
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <measures>-2</measures>
+                  <fractions>-3/4</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -4160,6 +4168,16 @@ arr. biggs</text>
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>7/8</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>92</pitch>
@@ -4232,8 +4250,7 @@ arr. biggs</text>
             <Spanner type="Slur">
               <prev>
                 <location>
-                  <measures>-3</measures>
-                  <fractions>-3/4</fractions>
+                  <fractions>-7/8</fractions>
                   </location>
                 </prev>
               </Spanner>
@@ -6960,6 +6977,16 @@ arr. biggs</text>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
+                  <measures>3</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -7238,6 +7265,13 @@ arr. biggs</text>
           <Chord>
             <linkedMain/>
             <durationType>whole</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <measures>-3</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <linkedMain/>
               <pitch>61</pitch>
@@ -22933,14 +22967,6 @@ arr. biggs</text>
             <linkedMain/>
             <durationType>quarter</durationType>
             </Rest>
-          <StaffText>
-            <channelSwitch voice="0" name="mute"/>
-            <channelSwitch voice="1" name="mute"/>
-            <channelSwitch voice="2" name="mute"/>
-            <channelSwitch voice="3" name="mute"/>
-            <linkedMain/>
-            <text>stopped</text>
-            </StaffText>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -23254,14 +23280,6 @@ arr. biggs</text>
             <velocity>49</velocity>
             <linkedMain/>
             </Dynamic>
-          <StaffText>
-            <channelSwitch voice="0" name="open"/>
-            <channelSwitch voice="1" name="open"/>
-            <channelSwitch voice="2" name="open"/>
-            <channelSwitch voice="3" name="open"/>
-            <linkedMain/>
-            <text>open</text>
-            </StaffText>
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -34446,7 +34464,7 @@ arr. biggs</text>
                   </Slur>
                 <next>
                   <location>
-                    <measures>3</measures>
+                    <measures>2</measures>
                     <fractions>3/4</fractions>
                     </location>
                   </next>
@@ -34707,6 +34725,14 @@ arr. biggs</text>
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <measures>-2</measures>
+                    <fractions>-3/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <Note>
                 <linked>
                   </linked>
@@ -34738,6 +34764,17 @@ arr. biggs</text>
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    <fractions>7/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <Note>
                 <linked>
                   </linked>
@@ -34824,8 +34861,7 @@ arr. biggs</text>
               <Spanner type="Slur">
                 <prev>
                   <location>
-                    <measures>-3</measures>
-                    <fractions>-3/4</fractions>
+                    <fractions>-7/8</fractions>
                     </location>
                   </prev>
                 </Spanner>
@@ -38194,6 +38230,17 @@ arr. biggs</text>
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    <measures>3</measures>
+                    </location>
+                  </next>
+                </Spanner>
               <Note>
                 <linked>
                   </linked>
@@ -38515,6 +38562,13 @@ arr. biggs</text>
               <linked>
                 </linked>
               <durationType>whole</durationType>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <measures>-3</measures>
+                    </location>
+                  </prev>
+                </Spanner>
               <Note>
                 <linked>
                   </linked>
@@ -57397,15 +57451,6 @@ arr. biggs</text>
                 </linked>
               <durationType>quarter</durationType>
               </Rest>
-            <StaffText>
-              <channelSwitch voice="0" name="mute"/>
-              <channelSwitch voice="1" name="mute"/>
-              <channelSwitch voice="2" name="mute"/>
-              <channelSwitch voice="3" name="mute"/>
-              <linked>
-                </linked>
-              <text>stopped</text>
-              </StaffText>
             <Chord>
               <linked>
                 </linked>
@@ -57778,15 +57823,6 @@ arr. biggs</text>
               <linked>
                 </linked>
               </Dynamic>
-            <StaffText>
-              <channelSwitch voice="0" name="open"/>
-              <channelSwitch voice="1" name="open"/>
-              <channelSwitch voice="2" name="open"/>
-              <channelSwitch voice="3" name="open"/>
-              <linked>
-                </linked>
-              <text>open</text>
-              </StaffText>
             <Chord>
               <linked>
                 </linked>
@@ -65368,8 +65404,6 @@ arr. biggs</text>
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -65421,8 +65455,6 @@ arr. biggs</text>
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -65475,8 +65507,6 @@ arr. biggs</text>
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -65528,8 +65558,6 @@ arr. biggs</text>
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -65582,8 +65610,6 @@ arr. biggs</text>
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -65640,8 +65666,6 @@ arr. biggs</text>
                 <linked>
                   </linked>
                 </Articulation>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
