@@ -179,6 +179,9 @@
               <text>Si</text>
               </Lyrics>
             <Note>
+              <Fingering>
+                <text>3</text>
+                </Fingering>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
@@ -272,6 +275,9 @@
               <text>all</text>
               </Lyrics>
             <Note>
+              <Fingering>
+                <text>5</text>
+                </Fingering>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -342,6 +348,9 @@
               <text>'round</text>
               </Lyrics>
             <Note>
+              <Fingering>
+                <text>3</text>
+                </Fingering>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -399,6 +408,9 @@
               <text>moth</text>
               </Lyrics>
             <Note>
+              <Fingering>
+                <text>2</text>
+                </Fingering>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
@@ -559,6 +571,9 @@
               <text>sleep</text>
               </Lyrics>
             <Note>
+              <Fingering>
+                <text>3</text>
+                </Fingering>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -645,6 +660,9 @@
               <text>Sleep</text>
               </Lyrics>
             <Note>
+              <Fingering>
+                <text>5</text>
+                </Fingering>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
@@ -674,6 +692,9 @@
               <text>heav</text>
               </Lyrics>
             <Note>
+              <Fingering>
+                <text>5</text>
+                </Fingering>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
@@ -733,6 +754,9 @@
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
+              <Fingering>
+                <text>5</text>
+                </Fingering>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
