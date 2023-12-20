@@ -221,6 +221,14 @@
           <midiPort>0</midiPort>
           <midiChannel>0</midiChannel>
           </Channel>
+        <Channel name="harmony">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="0"/>
+          <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>6</midiChannel>
+          </Channel>
         </Instrument>
       </Part>
     <Part>
@@ -1923,6 +1931,10 @@ arr. Biggs</text>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2078,16 +2090,16 @@ arr. Biggs</text>
             <offset x="-20.3946" y="-11.0008"/>
             <text>Variation #2</text>
             </SystemText>
-          <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
-            </Dynamic>
           <Tempo>
             <tempo>1.3333299999999999</tempo>
             <minDistance>-6.19397</minDistance>
             <offset x="0.730251" y="-1.53633"/>
             <text>Andante</text>
             </Tempo>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2348,9 +2360,17 @@ arr. Biggs</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>13</root>
+            <name>m</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2376,6 +2396,10 @@ arr. Biggs</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>12</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -2394,48 +2418,24 @@ arr. Biggs</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>11</root>
+            </Harmony>
           <Rest>
-            <durationType>eighth</durationType>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
             </Rest>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>79</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
-              </Note>
-            </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
+          <Harmony>
+            <root>10</root>
+            </Harmony>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -3896,6 +3896,10 @@ arr. Biggs</text>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -4087,6 +4091,10 @@ arr. Biggs</text>
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -4227,6 +4235,10 @@ arr. Biggs</text>
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            </Dynamic>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -4261,8 +4273,16 @@ arr. Biggs</text>
       <Measure>
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>2/4</duration>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -5559,6 +5579,10 @@ arr. Biggs</text>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -5729,8 +5753,8 @@ arr. Biggs</text>
       <Measure>
         <voice>
           <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -5993,6 +6017,10 @@ arr. Biggs</text>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -6985,6 +7013,10 @@ arr. Biggs</text>
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            </Dynamic>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -7158,17 +7190,56 @@ arr. Biggs</text>
       <Measure>
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>2/4</duration>
+            <durationType>eighth</durationType>
             </Rest>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            </Dynamic>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <tpc2>12</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>16</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <tpc2>12</tpc2>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>2/4</duration>
-            </Rest>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>15</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>15</tpc2>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
@@ -8006,6 +8077,10 @@ arr. Biggs</text>
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            </Dynamic>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -8115,6 +8190,10 @@ arr. Biggs</text>
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -8255,6 +8334,10 @@ arr. Biggs</text>
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            </Dynamic>
           <Chord>
             <durationType>half</durationType>
             <Note>
