@@ -7198,19 +7198,10 @@
       <Measure>
         <voice>
           <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>eighth</durationType>
+            <durationType>half</durationType>
             </Rest>
           <Rest>
             <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>eighth</durationType>
             </Rest>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -27586,13 +27577,8 @@ but start and end on notes as written.</text>
             <text>Clicking</text>
             </StaffText>
           <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -28262,39 +28248,16 @@ but start and end on notes as written.</text>
       <Measure>
         <voice>
           <Chord>
+            <dots>1</dots>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/2</fractions>
-                    </location>
-                  </next>
-                </Spanner>
               <pitch>43</pitch>
               <tpc>15</tpc>
               </Note>
             <ChordLine>
               <subtype>1</subtype>
               </ChordLine>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/2</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
@@ -28335,33 +28298,24 @@ but start and end on notes as written.</text>
       <Measure>
         <voice>
           <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
+            <durationType>measure</durationType>
+            <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
+            <durationType>measure</durationType>
+            <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
+            <durationType>measure</durationType>
+            <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -29124,10 +29078,7 @@ but start and end on notes as written.</text>
               </Note>
             </Chord>
           <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -29138,33 +29089,9 @@ but start and end on notes as written.</text>
             <velocity>96</velocity>
             </Dynamic>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>45</pitch>
               <tpc>17</tpc>
               </Note>
@@ -29538,33 +29465,9 @@ but start and end on notes as written.</text>
             <durationType>quarter</durationType>
             </Rest>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>45</pitch>
               <tpc>17</tpc>
               </Note>
@@ -29789,33 +29692,9 @@ but start and end on notes as written.</text>
       <Measure>
         <voice>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>45</pitch>
               <tpc>17</tpc>
               </Note>
@@ -29916,37 +29795,13 @@ but start and end on notes as written.</text>
               </Note>
             </Chord>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
               <Spanner type="Tie">
                 <prev>
                   <location>
                     <fractions>-1/8</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
                     </location>
                   </prev>
                 </Spanner>
@@ -30003,33 +29858,9 @@ but start and end on notes as written.</text>
       <Measure>
         <voice>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>45</pitch>
               <tpc>17</tpc>
               </Note>
@@ -30130,37 +29961,13 @@ but start and end on notes as written.</text>
               </Note>
             </Chord>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
               <Spanner type="Tie">
                 <prev>
                   <location>
                     <fractions>-1/8</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
                     </location>
                   </prev>
                 </Spanner>
@@ -30848,10 +30655,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           </voice>
@@ -30871,10 +30678,6 @@ but start and end on notes as written.</text>
               </Spanner>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -30891,10 +30694,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           </voice>
@@ -30914,10 +30717,6 @@ but start and end on notes as written.</text>
               </Spanner>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -30934,10 +30733,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           </voice>
@@ -30951,10 +30750,6 @@ but start and end on notes as written.</text>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -30967,10 +30762,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           </voice>
@@ -30990,10 +30785,6 @@ but start and end on notes as written.</text>
               </Spanner>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -31010,10 +30801,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           </voice>
@@ -31027,10 +30818,6 @@ but start and end on notes as written.</text>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -31043,10 +30830,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           </voice>
@@ -31057,10 +30844,6 @@ but start and end on notes as written.</text>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -31073,10 +30856,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -31099,10 +30882,6 @@ but start and end on notes as written.</text>
               </Spanner>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -31119,10 +30898,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           </voice>
@@ -31133,10 +30912,6 @@ but start and end on notes as written.</text>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -31149,10 +30924,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -31175,10 +30950,6 @@ but start and end on notes as written.</text>
               </Spanner>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -31195,10 +30966,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           </voice>
@@ -31219,10 +30990,6 @@ but start and end on notes as written.</text>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -31235,10 +31002,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -31272,10 +31039,6 @@ but start and end on notes as written.</text>
               </Spanner>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -31292,10 +31055,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           </voice>
@@ -31316,10 +31079,6 @@ but start and end on notes as written.</text>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -31332,10 +31091,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -31370,10 +31129,6 @@ but start and end on notes as written.</text>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -31386,10 +31141,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -31403,10 +31158,6 @@ but start and end on notes as written.</text>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -31419,10 +31170,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -31439,10 +31190,6 @@ but start and end on notes as written.</text>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -31455,10 +31202,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           </voice>
@@ -31479,10 +31226,6 @@ but start and end on notes as written.</text>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -31495,10 +31238,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           </voice>
@@ -31522,10 +31265,6 @@ but start and end on notes as written.</text>
               </Spanner>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -31542,10 +31281,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           </voice>
@@ -31556,10 +31295,6 @@ but start and end on notes as written.</text>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -31572,10 +31307,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -31598,10 +31333,6 @@ but start and end on notes as written.</text>
               </Spanner>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -31618,10 +31349,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           </voice>
@@ -31632,10 +31363,6 @@ but start and end on notes as written.</text>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -31648,10 +31375,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -31674,10 +31401,6 @@ but start and end on notes as written.</text>
               </Spanner>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -31694,10 +31417,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           </voice>
@@ -31712,10 +31435,6 @@ but start and end on notes as written.</text>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -31728,10 +31447,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -31754,10 +31473,6 @@ but start and end on notes as written.</text>
               </Spanner>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -31774,10 +31489,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           </voice>
@@ -31793,46 +31508,32 @@ but start and end on notes as written.</text>
       <Measure>
         <voice>
           <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -31871,10 +31572,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           </voice>
@@ -31894,10 +31595,6 @@ but start and end on notes as written.</text>
               </Spanner>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -31914,10 +31611,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           </voice>
@@ -31928,10 +31625,6 @@ but start and end on notes as written.</text>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -31944,86 +31637,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>half</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/2</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>half</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/2</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Chord>
-            <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -32046,10 +31663,6 @@ but start and end on notes as written.</text>
               </Spanner>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -32066,10 +31679,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           </voice>
@@ -32080,10 +31693,6 @@ but start and end on notes as written.</text>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -32096,119 +31705,10 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Chord>
-            <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Chord>
-            <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>half</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/2</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>half</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/2</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Chord>
-            <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -32231,10 +31731,6 @@ but start and end on notes as written.</text>
               </Spanner>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -32251,10 +31747,68 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Chord>
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Chord>
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Chord>
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           </voice>
@@ -32274,10 +31828,6 @@ but start and end on notes as written.</text>
               </Spanner>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -32294,10 +31844,117 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>49</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Chord>
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>half</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/2</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>half</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/2</fractions>
+                  </location>
+                </prev>
+              </Spanner>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>half</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/2</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>half</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/2</fractions>
+                  </location>
+                </prev>
+              </Spanner>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <BarLine>
@@ -32342,19 +31999,16 @@ but start and end on notes as written.</text>
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>56</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
@@ -32401,19 +32055,16 @@ but start and end on notes as written.</text>
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>56</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
@@ -32450,19 +32101,16 @@ but start and end on notes as written.</text>
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>56</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
@@ -32503,19 +32151,16 @@ but start and end on notes as written.</text>
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>56</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
@@ -32552,19 +32197,16 @@ but start and end on notes as written.</text>
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>56</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
@@ -32597,19 +32239,16 @@ but start and end on notes as written.</text>
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>56</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
@@ -32676,19 +32315,16 @@ but start and end on notes as written.</text>
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>56</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
@@ -32749,13 +32385,8 @@ but start and end on notes as written.</text>
       <Measure>
         <voice>
           <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -32763,7 +32394,7 @@ but start and end on notes as written.</text>
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>1/1</duration>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -32857,19 +32488,10 @@ but start and end on notes as written.</text>
       <Measure>
         <voice>
           <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>eighth</durationType>
+            <durationType>half</durationType>
             </Rest>
           <Rest>
             <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>eighth</durationType>
             </Rest>
           <Rest>
             <durationType>eighth</durationType>
@@ -38647,10 +38269,7 @@ but start and end on notes as written.</text>
               </Note>
             </Chord>
           <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             </Rest>
           <Rest>
             <durationType>eighth</durationType>
