@@ -116,6 +116,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="73"/>
           <controller ctrl="10" value="63"/>
@@ -182,6 +183,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="68"/>
           <controller ctrl="10" value="63"/>
@@ -250,6 +252,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="71"/>
           <controller ctrl="10" value="63"/>
@@ -317,6 +320,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="70"/>
           <controller ctrl="10" value="63"/>
@@ -385,6 +389,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="open">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="60"/>
           <controller ctrl="10" value="63"/>
@@ -393,6 +398,7 @@
           <midiChannel>5</midiChannel>
           </Channel>
         <Channel name="mute">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="59"/>
           <synti>Fluid</synti>
@@ -407,12 +413,12 @@
         <Text>
           <style>Title</style>
           <offset x="0" y="-0.0087489"/>
-          <text><font size="22"/>Virga Yearning</text>
+          <text><font size="22"></font>Virga Yearning</text>
           </Text>
         <Text>
           <style>Subtitle</style>
           <offset x="0" y="9.99124"/>
-          <text><font size="14"/>Spring in the Southern Desert on a Waxing Moon</text>
+          <text><font size="14"></font>Spring in the Southern Desert on a Waxing Moon</text>
           </Text>
         <Text>
           <style>Composer</style>
@@ -434,8 +440,7 @@
           <Tempo>
             <tempo>0.83333333333333337</tempo>
             <followText>1</followText>
-            <text><font size="12"/><b>
-</b><sym>metNoteQuarterUp</sym> = 50</text>
+            <text><font size="12"></font><b></b><sym>metNoteQuarterUp</sym> = 50</text>
             </Tempo>
           <Rest>
             <durationType>measure</durationType>
@@ -510,7 +515,7 @@
             </Tempo>
           <StaffText>
             <placement>below</placement>
-            <text><font size="11"/>I. Wind through Rock</text>
+            <text><font size="11"></font>I. Wind through Rock</text>
             </StaffText>
           <Rest>
             <durationType>measure</durationType>
@@ -631,6 +636,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -744,6 +750,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -916,6 +923,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -1106,6 +1114,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -1225,6 +1234,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -1308,6 +1318,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -1458,6 +1469,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -1568,6 +1580,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -1741,6 +1754,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -1928,6 +1942,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -2183,6 +2198,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -2271,6 +2287,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -2345,6 +2362,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -2419,6 +2437,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -2515,6 +2534,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -2589,6 +2609,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -2663,6 +2684,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -2748,6 +2770,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -2844,6 +2867,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -2918,6 +2942,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -2951,14 +2976,6 @@
           <Rest>
             <durationType>half</durationType>
             </Rest>
-          <location>
-            <fractions>-3/8</fractions>
-            </location>
-          <Spanner type="HairPin">
-            </Spanner>
-          <location>
-            <fractions>3/8</fractions>
-            </location>
           <Rest>
             <durationType>half</durationType>
             </Rest>
@@ -2973,8 +2990,6 @@
             <placement>below</placement>
             <text>repeat dynamics f&gt;p&lt;f</text>
             </StaffText>
-          <Spanner type="HairPin">
-            </Spanner>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -3041,6 +3056,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -3128,6 +3144,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -3215,6 +3232,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -3302,6 +3320,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -3389,6 +3408,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -3476,6 +3496,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -3563,6 +3584,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -3654,6 +3676,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -3728,6 +3751,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -3802,6 +3826,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -3876,6 +3901,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -3950,6 +3976,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -4024,6 +4051,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -4105,6 +4133,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -4179,6 +4208,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -4253,6 +4283,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -4327,6 +4358,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -4416,6 +4448,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -4503,6 +4536,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -4590,6 +4624,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -4684,6 +4719,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -4771,6 +4807,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -4858,6 +4895,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -4940,6 +4978,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -5014,6 +5053,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -5088,6 +5128,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -5169,6 +5210,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -5243,6 +5285,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -5317,6 +5360,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -5406,6 +5450,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -5493,6 +5538,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -5580,6 +5626,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -5667,6 +5714,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -5761,6 +5809,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -5848,6 +5897,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -5935,6 +5985,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -6017,6 +6068,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -6091,6 +6143,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -6165,6 +6218,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -6250,6 +6304,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -6324,6 +6379,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -6398,6 +6454,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -6487,6 +6544,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -6574,6 +6632,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -6661,6 +6720,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -6748,6 +6808,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -6842,6 +6903,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -6929,6 +6991,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -7016,6 +7079,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -7027,9 +7091,6 @@
             <visible>0</visible>
             <text>Flute</text>
             </InstrumentChange>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -7040,7 +7101,7 @@
             </Chord>
           <endTuplet/>
           <Chord>
-            <BeamMode>mid</BeamMode>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>71</pitch>
@@ -7101,6 +7162,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -7175,6 +7237,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -7249,6 +7312,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -7596,6 +7660,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="72"/>
                 <controller ctrl="10" value="63"/>
@@ -7669,36 +7734,10 @@
           </LayoutBreak>
         <voice>
           <Chord>
+            <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>81</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
-          <Chord>
-            <BeamMode>begin</BeamMode>
-            <durationType>eighth</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -7745,38 +7784,14 @@
       <Measure>
         <voice>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
               <Spanner type="Tie">
                 <prev>
                   <location>
                     <measures>-1</measures>
                     <fractions>5/8</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>81</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
                     </location>
                   </prev>
                 </Spanner>
@@ -7807,7 +7822,7 @@
       <Measure>
         <voice>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>half</durationType>
             <Spanner type="Slur">
               <prev>
                 <location>
@@ -7818,30 +7833,6 @@
               </Spanner>
             <StemDirection>up</StemDirection>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -7861,100 +7852,10 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <InstrumentChange>
-            <Instrument id="piccolo">
-              <longName>Piccolo</longName>
-              <shortName>Picc.</shortName>
-              <trackName>Piccolo</trackName>
-              <minPitchP>74</minPitchP>
-              <maxPitchP>108</maxPitchP>
-              <minPitchA>74</minPitchA>
-              <maxPitchA>105</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute.piccolo</instrumentId>
-              <concertClef>G8va</concertClef>
-              <transposingClef>G</transposingClef>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="72"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>7</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Piccolo</text>
-            </InstrumentChange>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>81</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -8181,104 +8082,14 @@
         </Measure>
       <Measure>
         <voice>
-          <InstrumentChange>
-            <Instrument id="piccolo">
-              <longName>Piccolo</longName>
-              <shortName>Picc.</shortName>
-              <trackName>Piccolo</trackName>
-              <minPitchP>74</minPitchP>
-              <maxPitchP>108</maxPitchP>
-              <minPitchA>74</minPitchA>
-              <maxPitchA>105</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute.piccolo</instrumentId>
-              <concertClef>G8va</concertClef>
-              <transposingClef>G</transposingClef>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="72"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>7</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Piccolo</text>
-            </InstrumentChange>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
             </Dynamic>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>93</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>93</pitch>
               <tpc>17</tpc>
               </Note>
@@ -8304,36 +8115,10 @@
               </Note>
             </Chord>
           <Chord>
+            <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>93</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
-          <Chord>
-            <BeamMode>begin</BeamMode>
-            <durationType>eighth</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>93</pitch>
               <tpc>17</tpc>
               </Note>
@@ -8379,37 +8164,13 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
               <Spanner type="Tie">
                 <prev>
                   <location>
                     <fractions>-1/8</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>93</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
                     </location>
                   </prev>
                 </Spanner>
@@ -8466,33 +8227,9 @@
       <Measure>
         <voice>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>93</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>93</pitch>
               <tpc>17</tpc>
               </Note>
@@ -8518,36 +8255,10 @@
               </Note>
             </Chord>
           <Chord>
+            <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>93</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
-          <Chord>
-            <BeamMode>begin</BeamMode>
-            <durationType>eighth</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>93</pitch>
               <tpc>17</tpc>
               </Note>
@@ -8596,37 +8307,13 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
               <Spanner type="Tie">
                 <prev>
                   <location>
                     <fractions>-1/8</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>93</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
                     </location>
                   </prev>
                 </Spanner>
@@ -8692,72 +8379,6 @@
         </Measure>
       <Measure>
         <voice>
-          <InstrumentChange>
-            <Instrument id="piccolo">
-              <longName>Piccolo</longName>
-              <shortName>Picc.</shortName>
-              <trackName>Piccolo</trackName>
-              <minPitchP>74</minPitchP>
-              <maxPitchP>108</maxPitchP>
-              <minPitchA>74</minPitchA>
-              <maxPitchA>105</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute.piccolo</instrumentId>
-              <concertClef>G8va</concertClef>
-              <transposingClef>G</transposingClef>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="72"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>7</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Piccolo</text>
-            </InstrumentChange>
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>80</velocity>
@@ -9193,6 +8814,7 @@
                 <gateTime>100</gateTime>
                 </Articulation>
               <Channel>
+                <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="73"/>
                 <controller ctrl="10" value="63"/>
@@ -9239,70 +8861,6 @@
             <durationType>eighth</durationType>
             </Rest>
           <endTuplet/>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -9328,70 +8886,6 @@
             <durationType>eighth</durationType>
             </Rest>
           <endTuplet/>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -9421,70 +8915,6 @@
         </Measure>
       <Measure>
         <voice>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -9506,70 +8936,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
@@ -9601,70 +8967,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
@@ -9696,70 +8998,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
@@ -10159,72 +9397,8 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>half</durationType>
             <Spanner type="Slur">
               <Slur>
                 </Slur>
@@ -10237,30 +9411,6 @@
               </Spanner>
             <StemDirection>down</StemDirection>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>89</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>89</pitch>
               <tpc>13</tpc>
               </Note>
@@ -10345,10 +9495,10 @@
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>94</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -10362,9 +9512,6 @@
               </Spanner>
             <StemDirection>down</StemDirection>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>93</pitch>
               <tpc>17</tpc>
               </Note>
@@ -10462,70 +9609,6 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Chord>
             <durationType>half</durationType>
             <Spanner type="Slur">
@@ -10540,6 +9623,10 @@
               </Spanner>
             <StemDirection>down</StemDirection>
             <Note>
+              <Accidental>
+                <role>1</role>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>89</pitch>
               <tpc>13</tpc>
               </Note>
@@ -10650,10 +9737,10 @@
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>94</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -10668,10 +9755,10 @@
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>97</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -10679,7 +9766,7 @@
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <Spanner type="Tie">
                 <Tie>
@@ -10692,7 +9779,7 @@
                   </next>
                 </Spanner>
               <pitch>92</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           </voice>
@@ -10715,7 +9802,7 @@
                   </prev>
                 </Spanner>
               <pitch>92</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -10778,70 +9865,6 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -10888,79 +9911,15 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>94</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -10970,79 +9929,15 @@
         </Measure>
       <Measure>
         <voice>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>90</pitch>
-              <tpc>20</tpc>
+              <tpc>8</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -11056,70 +9951,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Tempo>
             <tempo>1.1666666666666667</tempo>
             <followText>1</followText>
@@ -11147,70 +9978,6 @@
           <Rest>
             <durationType>half</durationType>
             </Rest>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
@@ -11229,70 +9996,6 @@
           <Rest>
             <durationType>half</durationType>
             </Rest>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
@@ -11337,79 +10040,15 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>97</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -11419,79 +10058,15 @@
         </Measure>
       <Measure>
         <voice>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>92</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -11643,70 +10218,6 @@
           <Rest>
             <durationType>half</durationType>
             </Rest>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>80</velocity>
@@ -11755,23 +10266,23 @@
             </Chord>
           <Chord>
             <durationType>half</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <measures>1</measures>
-                  <fractions>-1/2</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    <fractions>-1/2</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <pitch>90</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           </voice>
@@ -11784,21 +10295,17 @@
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <measures>-1</measures>
-                  <fractions>1/2</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <StemDirection>down</StemDirection>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    <fractions>1/2</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <pitch>90</pitch>
-              <tpc>8</tpc>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -11816,10 +10323,10 @@
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>94</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           </voice>
@@ -11849,45 +10356,22 @@
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>97</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Chord>
-            <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>92</pitch>
-              <tpc>22</tpc>
-              </Note>
-            </Chord>
-          <Chord>
+            <dots>1</dots>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>92</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           </voice>
@@ -11944,32 +10428,7 @@
               </next>
             </Spanner>
           <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>3/4</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <pitch>89</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-3/4</fractions>
-                  </location>
-                </prev>
-              </Spanner>
+            <durationType>whole</durationType>
             <StemDirection>down</StemDirection>
             <Note>
               <pitch>89</pitch>
@@ -11992,31 +10451,7 @@
               </prev>
             </Spanner>
           <Chord>
-            <durationType>half</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/2</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <pitch>91</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>half</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/2</fractions>
-                  </location>
-                </prev>
-              </Spanner>
+            <durationType>whole</durationType>
             <StemDirection>down</StemDirection>
             <Note>
               <Spanner type="Tie">
@@ -12025,7 +10460,6 @@
                 <next>
                   <location>
                     <measures>1</measures>
-                    <fractions>-1/2</fractions>
                     </location>
                   </next>
                 </Spanner>
@@ -12043,13 +10477,11 @@
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <Spanner type="Tie">
                 <prev>
                   <location>
                     <measures>-1</measures>
-                    <fractions>1/2</fractions>
                     </location>
                   </prev>
                 </Spanner>
@@ -12071,10 +10503,10 @@
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>94</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -12088,9 +10520,6 @@
               </Spanner>
             <StemDirection>down</StemDirection>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>93</pitch>
               <tpc>17</tpc>
               </Note>
@@ -12140,31 +10569,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>quarter</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/4</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <pitch>91</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/4</fractions>
-                  </location>
-                </prev>
-              </Spanner>
+            <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
               <pitch>91</pitch>
@@ -12185,70 +10590,6 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -12378,10 +10719,10 @@
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>94</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           </voice>
@@ -12400,10 +10741,6 @@
               </Spanner>
             <StemDirection>down</StemDirection>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>93</pitch>
               <tpc>17</tpc>
               </Note>
@@ -12479,96 +10816,9 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Chord>
+            <dots>1</dots>
             <durationType>half</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/2</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <pitch>89</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/2</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <StemDirection>down</StemDirection>
             <Note>
               <pitch>89</pitch>
@@ -12580,43 +10830,18 @@
       <Measure>
         <voice>
           <Chord>
-            <durationType>half</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/2</fractions>
-                  </location>
-                </next>
-              </Spanner>
+            <durationType>whole</durationType>
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
                 <subtype>accidentalFlat</subtype>
                 </Accidental>
-              <pitch>90</pitch>
-              <tpc>8</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>half</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/2</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <StemDirection>down</StemDirection>
-            <Note>
               <Spanner type="Tie">
                 <Tie>
                   </Tie>
                 <next>
                   <location>
                     <measures>1</measures>
-                    <fractions>-1/2</fractions>
                     </location>
                   </next>
                 </Spanner>
@@ -12640,13 +10865,11 @@
             </Spanner>
           <Chord>
             <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <Spanner type="Tie">
                 <prev>
                   <location>
                     <measures>-1</measures>
-                    <fractions>1/2</fractions>
                     </location>
                   </prev>
                 </Spanner>
@@ -12668,10 +10891,10 @@
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>94</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -12686,10 +10909,10 @@
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>97</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -12697,7 +10920,7 @@
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <Spanner type="Tie">
                 <Tie>
@@ -12710,7 +10933,7 @@
                   </next>
                 </Spanner>
               <pitch>92</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           </voice>
@@ -12730,7 +10953,7 @@
                   </prev>
                 </Spanner>
               <pitch>92</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -12796,16 +11019,6 @@
             </Chord>
           <Chord>
             <durationType>half</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <measures>1</measures>
-                  <fractions>-1/4</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <StemDirection>down</StemDirection>
             <Note>
               <Spanner type="Tie">
@@ -12847,14 +11060,6 @@
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <measures>-1</measures>
-                  <fractions>1/4</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Articulation>
               <subtype>articTenutoAbove</subtype>
               </Articulation>
@@ -12925,10 +11130,10 @@
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>94</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           </voice>
@@ -13005,70 +11210,6 @@
         </Measure>
       <Measure>
         <voice>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Chord>
             <durationType>whole</durationType>
             <Note>
@@ -13083,70 +11224,6 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>80</velocity>
@@ -13156,79 +11233,15 @@
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>94</pitch>
-              <tpc>24</tpc>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -13250,70 +11263,6 @@
           <Rest>
             <durationType>half</durationType>
             </Rest>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
@@ -13345,70 +11294,6 @@
         </Measure>
       <Measure>
         <voice>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
@@ -13424,70 +11309,6 @@
         </Measure>
       <Measure>
         <voice>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -13507,157 +11328,29 @@
         </Measure>
       <Measure>
         <voice>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>97</pitch>
-              <tpc>21</tpc>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
               <pitch>92</pitch>
-              <tpc>22</tpc>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           </voice>
@@ -13914,70 +11607,6 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
@@ -13996,70 +11625,6 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
@@ -14097,70 +11662,6 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -14184,70 +11685,6 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -14316,70 +11753,6 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
@@ -14449,70 +11822,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <InstrumentChange>
-            <Instrument id="flute">
-              <longName>Flute</longName>
-              <shortName>Fl.</shortName>
-              <trackName>Flute</trackName>
-              <minPitchP>59</minPitchP>
-              <maxPitchP>98</maxPitchP>
-              <minPitchA>60</minPitchA>
-              <maxPitchA>93</maxPitchA>
-              <transposeDiatonic>7</transposeDiatonic>
-              <transposeChromatic>12</transposeChromatic>
-              <instrumentId>wind.flutes.flute</instrumentId>
-              <Articulation>
-                <velocity>100</velocity>
-                <gateTime>95</gateTime>
-                </Articulation>
-              <Articulation name="staccatissimo">
-                <velocity>100</velocity>
-                <gateTime>33</gateTime>
-                </Articulation>
-              <Articulation name="staccato">
-                <velocity>100</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="portato">
-                <velocity>100</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="tenuto">
-                <velocity>100</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="marcato">
-                <velocity>120</velocity>
-                <gateTime>67</gateTime>
-                </Articulation>
-              <Articulation name="sforzato">
-                <velocity>150</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Articulation name="sforzatoStaccato">
-                <velocity>150</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoStaccato">
-                <velocity>120</velocity>
-                <gateTime>50</gateTime>
-                </Articulation>
-              <Articulation name="marcatoTenuto">
-                <velocity>120</velocity>
-                <gateTime>100</gateTime>
-                </Articulation>
-              <Channel>
-                <controller ctrl="32" value="17"/>
-                <program value="73"/>
-                <controller ctrl="10" value="63"/>
-                <synti>Fluid</synti>
-                <midiPort>0</midiPort>
-                <midiChannel>0</midiChannel>
-                </Channel>
-              </Instrument>
-            <visible>0</visible>
-            <text>Flute</text>
-            </InstrumentChange>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -15365,7 +12674,7 @@
             <velocity>80</velocity>
             </Dynamic>
           <StaffText>
-            <text><font size="9"/>Oboe and Bassoon Improvise on slide theme,
+            <text><font size="9"></font>Oboe and Bassoon Improvise on slide theme,
 but start and end on notes as written.</text>
             </StaffText>
           <Spanner type="HairPin">
@@ -20073,17 +17382,6 @@ but start and end on notes as written.</text>
             </Chord>
           <Chord>
             <durationType>half</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <measures>1</measures>
-                  <fractions>-1/2</fractions>
-                  <grace>0</grace>
-                  </location>
-                </next>
-              </Spanner>
             <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
@@ -20310,17 +17608,6 @@ but start and end on notes as written.</text>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>32nd</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <measures>1</measures>
-                  <fractions>-15/16</fractions>
-                  <grace>0</grace>
-                  </location>
-                </next>
-              </Spanner>
             <Note>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
@@ -36212,7 +33499,7 @@ but start and end on notes as written.</text>
             <sigD>4</sigD>
             </TimeSig>
           <StaffText>
-            <text><font size="9"/>Oboe and Bassoon Improvise on slide theme,
+            <text><font size="9"></font>Oboe and Bassoon Improvise on slide theme,
 but start and end on notes as written.</text>
             </StaffText>
           <Spanner type="HairPin">
