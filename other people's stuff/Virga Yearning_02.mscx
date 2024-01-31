@@ -444,11 +444,10 @@
             <linkedMain/>
             <text><sym>metNoteQuarterUp</sym> = 55</text>
             </Tempo>
-          <StaffText>
+          <SystemText>
             <linkedMain/>
-            <placement>below</placement>
-            <text><font size="11"></font>I. Wind through Rock</text>
-            </StaffText>
+            <text>I. Wind through Rock</text>
+            </SystemText>
           <Rest>
             <linkedMain/>
             <durationType>measure</durationType>
@@ -473,9 +472,19 @@
           <Spanner type="TextLine">
             <TextLine>
               <endHookType>1</endHookType>
-              <beginText>Clarinet</beginText>
+              <beginText>cl</beginText>
               <linkedMain/>
               <lineWidth>0.1488</lineWidth>
+              <Segment>
+                <subtype>1</subtype>
+                <offset x="-3.03826" y="-2.81297"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="-1"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </TextLine>
             <next>
               <location>
@@ -504,8 +513,8 @@
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               <play>0</play>
               </Note>
             </Chord>
@@ -763,6 +772,19 @@
           <subtype>page</subtype>
           </LayoutBreak>
         <voice>
+          <Spanner type="TextLine">
+            <TextLine>
+              <endHookType>1</endHookType>
+              <beginText>cl</beginText>
+              <linkedMain/>
+              <lineWidth>0.1488</lineWidth>
+              </TextLine>
+            <next>
+              <location>
+                <measures>3</measures>
+                </location>
+              </next>
+            </Spanner>
           <Rest>
             <linkedMain/>
             <durationType>measure</durationType>
@@ -772,19 +794,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="TextLine">
-            <TextLine>
-              <endHookType>1</endHookType>
-              <beginText>Clarinet</beginText>
-              <linkedMain/>
-              <lineWidth>0.1488</lineWidth>
-              </TextLine>
-            <next>
-              <location>
-                <measures>2</measures>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -898,7 +907,7 @@
           <Spanner type="TextLine">
             <prev>
               <location>
-                <measures>-2</measures>
+                <measures>-3</measures>
                 </location>
               </prev>
             </Spanner>
@@ -1599,16 +1608,15 @@
             <linkedMain/>
             <text><sym>metNoteQuarterUp</sym> = 80</text>
             </Tempo>
-          <StaffText>
-            <linkedMain/>
-            <placement>below</placement>
-            <text>II. Virga and Rainbow</text>
-            </StaffText>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
             <linkedMain/>
             </Dynamic>
+          <SystemText>
+            <linkedMain/>
+            <text>II. Virga and Rainbow</text>
+            </SystemText>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
@@ -3533,13 +3541,12 @@
             </TimeSig>
           <StaffText>
             <linkedMain/>
-            <placement>below</placement>
-            <text>III. Canyon Refractions</text>
-            </StaffText>
-          <StaffText>
-            <linkedMain/>
             <text><b>To Piccolo</b></text>
             </StaffText>
+          <SystemText>
+            <linkedMain/>
+            <text>III. Canyon Refractions</text>
+            </SystemText>
           <Rest>
             <linkedMain/>
             <durationType>measure</durationType>
@@ -6103,11 +6110,10 @@
             <linkedMain/>
             <text><sym>metNoteQuarterUp</sym> = 60</text>
             </Tempo>
-          <StaffText>
+          <SystemText>
             <linkedMain/>
-            <placement>below</placement>
             <text>IV. Cacti</text>
-            </StaffText>
+            </SystemText>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -8634,11 +8640,11 @@
               <endHookType>1</endHookType>
               <beginText>ob</beginText>
               <linkedMain/>
-              <lineWidth>0.1488</lineWidth>
+              <lineWidth>0.14761</lineWidth>
               </TextLine>
             <next>
               <location>
-                <measures>4</measures>
+                <measures>3</measures>
                 </location>
               </next>
             </Spanner>
@@ -8760,6 +8766,13 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <Spanner type="TextLine">
+            <prev>
+              <location>
+                <measures>-3</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Rest>
             <linkedMain/>
             <durationType>measure</durationType>
@@ -8769,13 +8782,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="TextLine">
-            <prev>
-              <location>
-                <measures>-4</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Rest>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -32890,7 +32896,7 @@ but start and end on notes as written.</text>
           <Spanner type="TextLine">
             <TextLine>
               <endHookType>1</endHookType>
-              <beginText>Clarinet</beginText>
+              <beginText>cl</beginText>
               <linkedMain/>
               <lineWidth>0.1488</lineWidth>
               </TextLine>
@@ -33054,7 +33060,7 @@ but start and end on notes as written.</text>
           <Spanner type="TextLine">
             <TextLine>
               <endHookType>1</endHookType>
-              <beginText>Horn</beginText>
+              <beginText>hrn</beginText>
               <linkedMain/>
               <lineWidth>0.1488</lineWidth>
               </TextLine>
@@ -39752,9 +39758,20 @@ but start and end on notes as written.</text>
           <Spanner type="TextLine">
             <TextLine>
               <endHookType>1</endHookType>
-              <beginText>Clarinet</beginText>
+              <beginText>cl</beginText>
               <linkedMain/>
               <lineWidth>0.1488</lineWidth>
+              <Segment>
+                <subtype>1</subtype>
+                <offset x="-3.20705" y="-4.13781"/>
+                <off2 x="0" y="0"/>
+                <minDistance>0.193624</minDistance>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="-1"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </TextLine>
             <next>
               <location>
@@ -39783,9 +39800,9 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
-              <tpc2>11</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>16</tpc2>
               <play>0</play>
               </Note>
             </Chord>
@@ -44946,6 +44963,19 @@ but start and end on notes as written.</text>
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="TextLine">
+            <TextLine>
+              <endHookType>1</endHookType>
+              <beginText>fl</beginText>
+              <linkedMain/>
+              <lineWidth>0.14761</lineWidth>
+              </TextLine>
+            <next>
+              <location>
+                <measures>3</measures>
+                </location>
+              </next>
+            </Spanner>
           <Tuplet>
             <linkedMain/>
             <normalNotes>2</normalNotes>
@@ -45350,6 +45380,13 @@ but start and end on notes as written.</text>
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="TextLine">
+            <prev>
+              <location>
+                <measures>-3</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Tuplet>
             <linkedMain/>
             <normalNotes>2</normalNotes>
@@ -47963,10 +48000,6 @@ but start and end on notes as written.</text>
             <linkedMain/>
             <durationType>half</durationType>
             </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>quarter</durationType>
-            </Rest>
           <Spanner type="TextLine">
             <TextLine>
               <endHookType>1</endHookType>
@@ -47977,10 +48010,14 @@ but start and end on notes as written.</text>
             <next>
               <location>
                 <measures>3</measures>
-                <fractions>-3/4</fractions>
+                <fractions>-1/2</fractions>
                 </location>
               </next>
             </Spanner>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           <Chord>
             <linkedMain/>
             <durationType>32nd</durationType>
@@ -48174,7 +48211,7 @@ but start and end on notes as written.</text>
             <prev>
               <location>
                 <measures>-3</measures>
-                <fractions>3/4</fractions>
+                <fractions>1/2</fractions>
                 </location>
               </prev>
             </Spanner>
@@ -48365,6 +48402,20 @@ but start and end on notes as written.</text>
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="TextLine">
+            <TextLine>
+              <endHookType>1</endHookType>
+              <beginText>cl</beginText>
+              <linkedMain/>
+              <lineWidth>0.1488</lineWidth>
+              </TextLine>
+            <next>
+              <location>
+                <measures>3</measures>
+                <fractions>1/4</fractions>
+                </location>
+              </next>
+            </Spanner>
           <Rest>
             <linkedMain/>
             <durationType>measure</durationType>
@@ -48378,20 +48429,6 @@ but start and end on notes as written.</text>
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="TextLine">
-            <TextLine>
-              <endHookType>1</endHookType>
-              <beginText>cl</beginText>
-              <linkedMain/>
-              <lineWidth>0.1488</lineWidth>
-              </TextLine>
-            <next>
-              <location>
-                <measures>2</measures>
-                <fractions>1/4</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>16th</durationType>
@@ -48610,7 +48647,7 @@ but start and end on notes as written.</text>
           <Spanner type="TextLine">
             <prev>
               <location>
-                <measures>-2</measures>
+                <measures>-3</measures>
                 <fractions>-1/4</fractions>
                 </location>
               </prev>
@@ -48926,12 +48963,11 @@ but start and end on notes as written.</text>
                 </linked>
               <text><sym>metNoteQuarterUp</sym> = 55</text>
               </Tempo>
-            <StaffText>
+            <SystemText>
               <linked>
                 </linked>
-              <placement>below</placement>
-              <text><font size="11"></font>I. Wind through Rock</text>
-              </StaffText>
+              <text>I. Wind through Rock</text>
+              </SystemText>
             <Rest>
               <linked>
                 </linked>
@@ -48958,13 +48994,12 @@ but start and end on notes as written.</text>
                 </linked>
               <text><sym>metNoteQuarterUp</sym> = 55</text>
               </Tempo>
-            <StaffText>
+            <SystemText>
               <linked>
                 <indexDiff>-4</indexDiff>
                 </linked>
-              <placement>below</placement>
-              <text><font size="11"></font>I. Wind through Rock</text>
-              </StaffText>
+              <text>I. Wind through Rock</text>
+              </SystemText>
             <Rest>
               <durationType>measure</durationType>
               <duration>8/4</duration>
@@ -48986,10 +49021,16 @@ but start and end on notes as written.</text>
             <Spanner type="TextLine">
               <TextLine>
                 <endHookType>1</endHookType>
-                <beginText>Clarinet</beginText>
+                <beginText>cl</beginText>
                 <linked>
                   </linked>
                 <lineWidth>0.1488</lineWidth>
+                <Segment>
+                  <subtype>0</subtype>
+                  <offset x="-4.38859" y="-2.7405"/>
+                  <off2 x="4.01457" y="0"/>
+                  <minDistance>-0.591087</minDistance>
+                  </Segment>
                 </TextLine>
               <next>
                 <location>
@@ -49022,8 +49063,8 @@ but start and end on notes as written.</text>
               <Note>
                 <linked>
                   </linked>
-                <pitch>56</pitch>
-                <tpc>10</tpc>
+                <pitch>55</pitch>
+                <tpc>15</tpc>
                 <play>0</play>
                 </Note>
               </Chord>
@@ -49316,6 +49357,26 @@ but start and end on notes as written.</text>
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="TextLine">
+              <TextLine>
+                <endHookType>1</endHookType>
+                <beginText>cl</beginText>
+                <linked>
+                  </linked>
+                <lineWidth>0.1488</lineWidth>
+                <Segment>
+                  <subtype>0</subtype>
+                  <offset x="4.50695" y="-1.99182"/>
+                  <off2 x="-5.85729" y="0"/>
+                  <minDistance>0.362416</minDistance>
+                  </Segment>
+                </TextLine>
+              <next>
+                <location>
+                  <measures>3</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Rest>
               <linked>
                 </linked>
@@ -49326,20 +49387,6 @@ but start and end on notes as written.</text>
           </Measure>
         <Measure>
           <voice>
-            <Spanner type="TextLine">
-              <TextLine>
-                <endHookType>1</endHookType>
-                <beginText>Clarinet</beginText>
-                <linked>
-                  </linked>
-                <lineWidth>0.1488</lineWidth>
-                </TextLine>
-              <next>
-                <location>
-                  <measures>2</measures>
-                  </location>
-                </next>
-              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -49466,7 +49513,7 @@ but start and end on notes as written.</text>
             <Spanner type="TextLine">
               <prev>
                 <location>
-                  <measures>-2</measures>
+                  <measures>-3</measures>
                   </location>
                 </prev>
               </Spanner>
@@ -50249,18 +50296,17 @@ but start and end on notes as written.</text>
                 </linked>
               <text><sym>metNoteQuarterUp</sym> = 80</text>
               </Tempo>
-            <StaffText>
-              <linked>
-                </linked>
-              <placement>below</placement>
-              <text>II. Virga and Rainbow</text>
-              </StaffText>
             <Dynamic>
               <subtype>f</subtype>
               <velocity>96</velocity>
               <linked>
                 </linked>
               </Dynamic>
+            <SystemText>
+              <linked>
+                </linked>
+              <text>II. Virga and Rainbow</text>
+              </SystemText>
             <Spanner type="HairPin">
               <HairPin>
                 <subtype>1</subtype>
@@ -52427,14 +52473,13 @@ but start and end on notes as written.</text>
             <StaffText>
               <linked>
                 </linked>
-              <placement>below</placement>
-              <text>III. Canyon Refractions</text>
-              </StaffText>
-            <StaffText>
-              <linked>
-                </linked>
               <text><b>To Piccolo</b></text>
               </StaffText>
+            <SystemText>
+              <linked>
+                </linked>
+              <text>III. Canyon Refractions</text>
+              </SystemText>
             <Rest>
               <linked>
                 </linked>
@@ -52457,15 +52502,14 @@ but start and end on notes as written.</text>
               <linked>
                 <indexDiff>-4</indexDiff>
                 </linked>
-              <placement>below</placement>
-              <text>III. Canyon Refractions</text>
+              <text><b>To Piccolo</b></text>
               </StaffText>
-            <StaffText>
+            <SystemText>
               <linked>
                 <indexDiff>-4</indexDiff>
                 </linked>
-              <text><b>To Piccolo</b></text>
-              </StaffText>
+              <text>III. Canyon Refractions</text>
+              </SystemText>
             <Rest>
               <durationType>measure</durationType>
               <duration>72/4</duration>
@@ -55325,12 +55369,11 @@ but start and end on notes as written.</text>
                 </linked>
               <text><sym>metNoteQuarterUp</sym> = 60</text>
               </Tempo>
-            <StaffText>
+            <SystemText>
               <linked>
                 </linked>
-              <placement>below</placement>
               <text>IV. Cacti</text>
-              </StaffText>
+              </SystemText>
             <Spanner type="HairPin">
               <prev>
                 <location>
@@ -58156,11 +58199,11 @@ but start and end on notes as written.</text>
                 <beginText>ob</beginText>
                 <linked>
                   </linked>
-                <lineWidth>0.1488</lineWidth>
+                <lineWidth>0.14761</lineWidth>
                 </TextLine>
               <next>
                 <location>
-                  <measures>4</measures>
+                  <measures>3</measures>
                   </location>
                 </next>
               </Spanner>
@@ -58294,6 +58337,13 @@ but start and end on notes as written.</text>
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="TextLine">
+              <prev>
+                <location>
+                  <measures>-3</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Rest>
               <linked>
                 </linked>
@@ -58304,13 +58354,6 @@ but start and end on notes as written.</text>
           </Measure>
         <Measure>
           <voice>
-            <Spanner type="TextLine">
-              <prev>
-                <location>
-                  <measures>-4</measures>
-                  </location>
-                </prev>
-              </Spanner>
             <Rest>
               <linked>
                 </linked>
@@ -58956,6 +58999,15 @@ but start and end on notes as written.</text>
                 </linked>
               <text><sym>metNoteQuarterUp</sym> = 55</text>
               </Tempo>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                <indexDiff>5</indexDiff>
+                </linked>
+              <text>I. Wind through Rock</text>
+              </SystemText>
             <Rest>
               <linked>
                 <indexDiff>1</indexDiff>
@@ -59826,6 +59878,15 @@ but start and end on notes as written.</text>
                 </linked>
               <text><sym>metNoteQuarterUp</sym> = 80</text>
               </Tempo>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                <indexDiff>2</indexDiff>
+                </linked>
+              <text>II. Virga and Rainbow</text>
+              </SystemText>
             <Spanner type="TextLine">
               <prev>
                 <location>
@@ -60537,14 +60598,25 @@ but start and end on notes as written.</text>
               <linked>
                 </linked>
               </Dynamic>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                <indexDiff>2</indexDiff>
+                </linked>
+              <text>III. Canyon Refractions</text>
+              </SystemText>
             <Chord>
               <linked>
+                <indexDiff>2</indexDiff>
                 </linked>
               <dots>1</dots>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
               <Note>
                 <linked>
+                  <indexDiff>2</indexDiff>
                   </linked>
                 <pitch>79</pitch>
                 <tpc>15</tpc>
@@ -63693,6 +63765,15 @@ but start and end on notes as written.</text>
                 </linked>
               <text><sym>metNoteQuarterUp</sym> = 60</text>
               </Tempo>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>IV. Cacti</text>
+              </SystemText>
             <Rest>
               <linked>
                 <indexDiff>1</indexDiff>
@@ -63716,6 +63797,15 @@ but start and end on notes as written.</text>
                 </linked>
               <text><sym>metNoteQuarterUp</sym> = 60</text>
               </Tempo>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>IV. Cacti</text>
+              </SystemText>
             <Rest>
               <durationType>measure</durationType>
               <duration>51/4</duration>
@@ -66204,15 +66294,24 @@ but start and end on notes as written.</text>
                 <indexDiff>1</indexDiff>
                 </linked>
               </Dynamic>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                <indexDiff>6</indexDiff>
+                </linked>
+              <text>I. Wind through Rock</text>
+              </SystemText>
             <Chord>
               <linked>
-                <indexDiff>1</indexDiff>
+                <indexDiff>2</indexDiff>
                 </linked>
               <durationType>eighth</durationType>
               <Spanner type="Slur">
                 <Slur>
                   <linked>
-                    <indexDiff>1</indexDiff>
+                    <indexDiff>2</indexDiff>
                     </linked>
                   </Slur>
                 <next>
@@ -66224,7 +66323,7 @@ but start and end on notes as written.</text>
               <acciaccatura/>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
+                  <indexDiff>2</indexDiff>
                   </linked>
                 <Accidental>
                   <subtype>accidentalFlat</subtype>
@@ -66236,19 +66335,19 @@ but start and end on notes as written.</text>
               </Chord>
             <Chord>
               <linked>
-                <indexDiff>1</indexDiff>
+                <indexDiff>2</indexDiff>
                 </linked>
               <durationType>quarter</durationType>
               <Articulation>
                 <subtype>articTenutoBelow</subtype>
                 <linked>
-                  <indexDiff>1</indexDiff>
+                  <indexDiff>2</indexDiff>
                   </linked>
                 </Articulation>
               <StemDirection>up</StemDirection>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
+                  <indexDiff>2</indexDiff>
                   </linked>
                 <pitch>60</pitch>
                 <tpc>14</tpc>
@@ -67604,11 +67703,20 @@ but start and end on notes as written.</text>
                 <indexDiff>1</indexDiff>
                 </linked>
               </Dynamic>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                <indexDiff>3</indexDiff>
+                </linked>
+              <text>II. Virga and Rainbow</text>
+              </SystemText>
             <Spanner type="HairPin">
               <HairPin>
                 <subtype>1</subtype>
                 <linked>
-                  <indexDiff>1</indexDiff>
+                  <indexDiff>2</indexDiff>
                   </linked>
                 </HairPin>
               <next>
@@ -67619,7 +67727,7 @@ but start and end on notes as written.</text>
               </Spanner>
             <Tuplet>
               <linked>
-                <indexDiff>1</indexDiff>
+                <indexDiff>2</indexDiff>
                 </linked>
               <normalNotes>2</normalNotes>
               <actualNotes>3</actualNotes>
@@ -67634,13 +67742,13 @@ but start and end on notes as written.</text>
               </Beam>
             <Chord>
               <linked>
-                <indexDiff>1</indexDiff>
+                <indexDiff>2</indexDiff>
                 </linked>
               <BeamMode>begin</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
+                  <indexDiff>2</indexDiff>
                   </linked>
                 <pitch>51</pitch>
                 <tpc>11</tpc>
@@ -78025,8 +78133,18 @@ but start and end on notes as written.</text>
               <sigN>3</sigN>
               <sigD>4</sigD>
               </TimeSig>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                <indexDiff>2</indexDiff>
+                </linked>
+              <text>III. Canyon Refractions</text>
+              </SystemText>
             <Rest>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>measure</durationType>
               <duration>3/4</duration>
@@ -78038,11 +78156,20 @@ but start and end on notes as written.</text>
           <voice>
             <TimeSig>
               <linked>
-                <indexDiff>-2</indexDiff>
+                <indexDiff>-1</indexDiff>
                 </linked>
               <sigN>3</sigN>
               <sigD>4</sigD>
               </TimeSig>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                <indexDiff>2</indexDiff>
+                </linked>
+              <text>III. Canyon Refractions</text>
+              </SystemText>
             <Rest>
               <durationType>measure</durationType>
               <duration>75/4</duration>
@@ -82264,6 +82391,15 @@ but start and end on notes as written.</text>
                 </linked>
               <text><sym>metNoteQuarterUp</sym> = 60</text>
               </Tempo>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>IV. Cacti</text>
+              </SystemText>
             <Spanner type="HairPin">
               <prev>
                 <location>
@@ -82282,6 +82418,9 @@ but start and end on notes as written.</text>
           </Measure>
         <Measure len="45/4">
           <multiMeasureRest>15</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>page</subtype>
+            </LayoutBreak>
           <voice>
             <Tempo>
               <tempo>1</tempo>
@@ -82294,6 +82433,15 @@ but start and end on notes as written.</text>
                 </linked>
               <text><sym>metNoteQuarterUp</sym> = 60</text>
               </Tempo>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>IV. Cacti</text>
+              </SystemText>
             <Rest>
               <durationType>measure</durationType>
               <duration>45/4</duration>
@@ -82431,6 +82579,9 @@ but start and end on notes as written.</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>page</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -82484,9 +82635,6 @@ but start and end on notes as written.</text>
             </voice>
           </Measure>
         <Measure>
-          <LayoutBreak>
-            <subtype>page</subtype>
-            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -86543,9 +86691,18 @@ but start and end on notes as written.</text>
                 </linked>
               <text>Clicking</text>
               </StaffText>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-3</staves>
+                  </location>
+                <indexDiff>6</indexDiff>
+                </linked>
+              <text>I. Wind through Rock</text>
+              </SystemText>
             <Rest>
               <linked>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <durationType>measure</durationType>
               <duration>1/1</duration>
@@ -86557,7 +86714,6 @@ but start and end on notes as written.</text>
           <voice>
             <TimeSig>
               <linked>
-                <indexDiff>-1</indexDiff>
                 </linked>
               <sigN>4</sigN>
               <sigD>4</sigD>
@@ -86579,6 +86735,15 @@ but start and end on notes as written.</text>
                 </linked>
               <text>Clicking</text>
               </StaffText>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-3</staves>
+                  </location>
+                <indexDiff>6</indexDiff>
+                </linked>
+              <text>I. Wind through Rock</text>
+              </SystemText>
             <Rest>
               <durationType>measure</durationType>
               <duration>8/4</duration>
@@ -86680,7 +86845,7 @@ but start and end on notes as written.</text>
             <Spanner type="TextLine">
               <TextLine>
                 <endHookType>1</endHookType>
-                <beginText>Clarinet</beginText>
+                <beginText>cl</beginText>
                 <linked>
                   </linked>
                 <lineWidth>0.1488</lineWidth>
@@ -86872,7 +87037,7 @@ but start and end on notes as written.</text>
             <Spanner type="TextLine">
               <TextLine>
                 <endHookType>1</endHookType>
-                <beginText>Horn</beginText>
+                <beginText>hrn</beginText>
                 <linked>
                   </linked>
                 <lineWidth>0.1488</lineWidth>
@@ -87573,6 +87738,15 @@ but start and end on notes as written.</text>
                 </linked>
               <text><sym>metNoteQuarterUp</sym> = 80</text>
               </Tempo>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-3</staves>
+                  </location>
+                <indexDiff>2</indexDiff>
+                </linked>
+              <text>II. Virga and Rainbow</text>
+              </SystemText>
             <Rest>
               <linked>
                 <indexDiff>1</indexDiff>
@@ -88252,11 +88426,21 @@ but start and end on notes as written.</text>
               <linked>
                 </linked>
               </Clef>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-3</staves>
+                  </location>
+                <indexDiff>2</indexDiff>
+                </linked>
+              <text>III. Canyon Refractions</text>
+              </SystemText>
             <Spanner type="TextLine">
               <TextLine>
                 <endHookType>1</endHookType>
                 <beginText>ob</beginText>
                 <linked>
+                  <indexDiff>2</indexDiff>
                   </linked>
                 <lineWidth>0.1488</lineWidth>
                 </TextLine>
@@ -88268,12 +88452,14 @@ but start and end on notes as written.</text>
               </Spanner>
             <Chord>
               <linked>
+                <indexDiff>2</indexDiff>
                 </linked>
               <dots>1</dots>
               <durationType>half</durationType>
               <StemDirection>down</StemDirection>
               <Note>
                 <linked>
+                  <indexDiff>2</indexDiff>
                   </linked>
                 <pitch>79</pitch>
                 <tpc>15</tpc>
@@ -91456,6 +91642,15 @@ but start and end on notes as written.</text>
                 </linked>
               <text><sym>metNoteQuarterUp</sym> = 60</text>
               </Tempo>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-3</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>IV. Cacti</text>
+              </SystemText>
             <Rest>
               <linked>
                 <indexDiff>1</indexDiff>
@@ -91479,6 +91674,15 @@ but start and end on notes as written.</text>
                 </linked>
               <text><sym>metNoteQuarterUp</sym> = 60</text>
               </Tempo>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-3</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>IV. Cacti</text>
+              </SystemText>
             <Rest>
               <durationType>measure</durationType>
               <duration>45/4</duration>
@@ -94211,6 +94415,11 @@ but start and end on notes as written.</text>
                 <linked>
                   </linked>
                 <lineWidth>0.1488</lineWidth>
+                <Segment>
+                  <subtype>0</subtype>
+                  <offset x="-4.05101" y="-1"/>
+                  <off2 x="4.05101" y="0"/>
+                  </Segment>
                 </TextLine>
               <next>
                 <location>
@@ -94803,6 +95012,15 @@ but start and end on notes as written.</text>
                 </linked>
               <text><sym>metNoteQuarterUp</sym> = 55</text>
               </Tempo>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-4</staves>
+                  </location>
+                <indexDiff>5</indexDiff>
+                </linked>
+              <text>I. Wind through Rock</text>
+              </SystemText>
             <Rest>
               <linked>
                 <indexDiff>1</indexDiff>
@@ -94833,6 +95051,15 @@ but start and end on notes as written.</text>
                 </linked>
               <text><sym>metNoteQuarterUp</sym> = 55</text>
               </Tempo>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-4</staves>
+                  </location>
+                <indexDiff>5</indexDiff>
+                </linked>
+              <text>I. Wind through Rock</text>
+              </SystemText>
             <Rest>
               <durationType>measure</durationType>
               <duration>8/4</duration>
@@ -94854,10 +95081,15 @@ but start and end on notes as written.</text>
             <Spanner type="TextLine">
               <TextLine>
                 <endHookType>1</endHookType>
-                <beginText>Clarinet</beginText>
+                <beginText>cl</beginText>
                 <linked>
                   </linked>
                 <lineWidth>0.1488</lineWidth>
+                <Segment>
+                  <subtype>0</subtype>
+                  <offset x="-3.88222" y="-1"/>
+                  <off2 x="3.88222" y="0"/>
+                  </Segment>
                 </TextLine>
               <next>
                 <location>
@@ -94890,9 +95122,9 @@ but start and end on notes as written.</text>
               <Note>
                 <linked>
                   </linked>
-                <pitch>56</pitch>
-                <tpc>10</tpc>
-                <tpc2>11</tpc2>
+                <pitch>55</pitch>
+                <tpc>15</tpc>
+                <tpc2>16</tpc2>
                 <play>0</play>
                 </Note>
               </Chord>
@@ -96435,6 +96667,15 @@ but start and end on notes as written.</text>
                 </linked>
               <text><sym>metNoteQuarterUp</sym> = 80</text>
               </Tempo>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-4</staves>
+                  </location>
+                <indexDiff>2</indexDiff>
+                </linked>
+              <text>II. Virga and Rainbow</text>
+              </SystemText>
             <Spanner type="TextLine">
               <TextLine>
                 <endHookType>1</endHookType>
@@ -99310,8 +99551,18 @@ but start and end on notes as written.</text>
               <sigN>3</sigN>
               <sigD>4</sigD>
               </TimeSig>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-4</staves>
+                  </location>
+                <indexDiff>2</indexDiff>
+                </linked>
+              <text>III. Canyon Refractions</text>
+              </SystemText>
             <Rest>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>measure</durationType>
               <duration>3/4</duration>
@@ -99323,11 +99574,20 @@ but start and end on notes as written.</text>
           <voice>
             <TimeSig>
               <linked>
-                <indexDiff>-2</indexDiff>
+                <indexDiff>-1</indexDiff>
                 </linked>
               <sigN>3</sigN>
               <sigD>4</sigD>
               </TimeSig>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-4</staves>
+                  </location>
+                <indexDiff>2</indexDiff>
+                </linked>
+              <text>III. Canyon Refractions</text>
+              </SystemText>
             <Rest>
               <durationType>measure</durationType>
               <duration>30/4</duration>
@@ -100850,6 +101110,20 @@ but start and end on notes as written.</text>
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="TextLine">
+              <TextLine>
+                <endHookType>1</endHookType>
+                <beginText>fl</beginText>
+                <linked>
+                  </linked>
+                <lineWidth>0.14761</lineWidth>
+                </TextLine>
+              <next>
+                <location>
+                  <measures>3</measures>
+                  </location>
+                </next>
+              </Spanner>
             <Tuplet>
               <linked>
                 </linked>
@@ -101309,6 +101583,13 @@ but start and end on notes as written.</text>
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="TextLine">
+              <prev>
+                <location>
+                  <measures>-3</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Tuplet>
               <linked>
                 </linked>
@@ -101576,6 +101857,15 @@ but start and end on notes as written.</text>
                 </linked>
               <text><sym>metNoteQuarterUp</sym> = 60</text>
               </Tempo>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-4</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>IV. Cacti</text>
+              </SystemText>
             <Spanner type="HairPin">
               <HairPin>
                 <subtype>1</subtype>
@@ -104317,11 +104607,6 @@ but start and end on notes as written.</text>
                 </linked>
               <durationType>half</durationType>
               </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>quarter</durationType>
-              </Rest>
             <Spanner type="TextLine">
               <TextLine>
                 <endHookType>1</endHookType>
@@ -104329,14 +104614,25 @@ but start and end on notes as written.</text>
                 <linked>
                   </linked>
                 <lineWidth>0.1488</lineWidth>
+                <Segment>
+                  <subtype>0</subtype>
+                  <offset x="0.346775" y="-4.78984"/>
+                  <off2 x="-0.346775" y="0"/>
+                  <minDistance>0.7</minDistance>
+                  </Segment>
                 </TextLine>
               <next>
                 <location>
                   <measures>3</measures>
-                  <fractions>-3/4</fractions>
+                  <fractions>-1/2</fractions>
                   </location>
                 </next>
               </Spanner>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             <Chord>
               <linked>
                 </linked>
@@ -104553,7 +104849,7 @@ but start and end on notes as written.</text>
               <prev>
                 <location>
                   <measures>-3</measures>
-                  <fractions>3/4</fractions>
+                  <fractions>1/2</fractions>
                   </location>
                 </prev>
               </Spanner>
@@ -104794,6 +105090,27 @@ but start and end on notes as written.</text>
           </Measure>
         <Measure>
           <voice>
+            <Spanner type="TextLine">
+              <TextLine>
+                <endHookType>1</endHookType>
+                <beginText>cl</beginText>
+                <linked>
+                  </linked>
+                <lineWidth>0.1488</lineWidth>
+                <Segment>
+                  <subtype>0</subtype>
+                  <offset x="6.28815" y="-3.0794"/>
+                  <off2 x="-6.28815" y="0"/>
+                  <minDistance>0.7</minDistance>
+                  </Segment>
+                </TextLine>
+              <next>
+                <location>
+                  <measures>3</measures>
+                  <fractions>1/4</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Rest>
               <linked>
                 </linked>
@@ -104809,21 +105126,6 @@ but start and end on notes as written.</text>
           </Measure>
         <Measure>
           <voice>
-            <Spanner type="TextLine">
-              <TextLine>
-                <endHookType>1</endHookType>
-                <beginText>cl</beginText>
-                <linked>
-                  </linked>
-                <lineWidth>0.1488</lineWidth>
-                </TextLine>
-              <next>
-                <location>
-                  <measures>2</measures>
-                  <fractions>1/4</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -105069,7 +105371,7 @@ but start and end on notes as written.</text>
             <Spanner type="TextLine">
               <prev>
                 <location>
-                  <measures>-2</measures>
+                  <measures>-3</measures>
                   <fractions>-1/4</fractions>
                   </location>
                 </prev>
