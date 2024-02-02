@@ -10,12 +10,10 @@
       <pageWidth>8.5</pageWidth>
       <pageHeight>11</pageHeight>
       <pagePrintableWidth>7.3189</pagePrintableWidth>
-      <pageEvenLeftMargin>0.590551</pageEvenLeftMargin>
-      <pageOddLeftMargin>0.590551</pageOddLeftMargin>
-      <pageEvenTopMargin>0.590551</pageEvenTopMargin>
-      <pageEvenBottomMargin>0.590551</pageEvenBottomMargin>
-      <pageOddTopMargin>0.590551</pageOddTopMargin>
-      <pageOddBottomMargin>0.590551</pageOddBottomMargin>
+      <pageEvenTopMargin>0.393701</pageEvenTopMargin>
+      <pageEvenBottomMargin>0.393701</pageEvenBottomMargin>
+      <pageOddTopMargin>0.393701</pageOddTopMargin>
+      <pageOddBottomMargin>0.393701</pageOddBottomMargin>
       <chordSymbolAFontSize>10</chordSymbolAFontSize>
       <chordSymbolBFontSize>10</chordSymbolBFontSize>
       <nashvilleNumberFontSize>10</nashvilleNumberFontSize>
@@ -37,7 +35,7 @@
       <bendFontSize>10</bendFontSize>
       <headerFontSize>10</headerFontSize>
       <footerFontSize>10</footerFontSize>
-      <Spatium>1.74978</Spatium>
+      <Spatium>1.2</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -489,7 +487,7 @@
               <endHookType>1</endHookType>
               <beginText>cl</beginText>
               <linkedMain/>
-              <lineWidth>0.1488</lineWidth>
+              <lineWidth>0.102047</lineWidth>
               <Segment>
                 <subtype>1</subtype>
                 <offset x="-3.03826" y="-2.81297"/>
@@ -751,6 +749,7 @@
               <endHookType>1</endHookType>
               <beginText>Breathy and Airy</beginText>
               <linkedMain/>
+              <lineWidth>0.10287</lineWidth>
               </TextLine>
             <next>
               <location>
@@ -792,7 +791,7 @@
               <endHookType>1</endHookType>
               <beginText>cl</beginText>
               <linkedMain/>
-              <lineWidth>0.1488</lineWidth>
+              <lineWidth>0.102047</lineWidth>
               </TextLine>
             <next>
               <location>
@@ -1273,6 +1272,7 @@
               <endHookType>1</endHookType>
               <beginText>Breathy and Airy</beginText>
               <linkedMain/>
+              <lineWidth>0.10287</lineWidth>
               </TextLine>
             <next>
               <location>
@@ -3787,7 +3787,7 @@
               <endHookType>1</endHookType>
               <beginText>ob</beginText>
               <linkedMain/>
-              <lineWidth>0.1488</lineWidth>
+              <lineWidth>0.102047</lineWidth>
               </TextLine>
             <next>
               <location>
@@ -9243,6 +9243,7 @@
               <endHookType>1</endHookType>
               <beginText>Sporadically clicking or blowing w/o reed</beginText>
               <linkedMain/>
+              <lineWidth>0.0227552</lineWidth>
               </TextLine>
             <next>
               <location>
@@ -9352,7 +9353,7 @@
               <endHookType>1</endHookType>
               <beginText>Horn</beginText>
               <linkedMain/>
-              <lineWidth>0.1488</lineWidth>
+              <lineWidth>0.102047</lineWidth>
               </TextLine>
             <next>
               <location>
@@ -9953,7 +9954,7 @@
               <endHookType>1</endHookType>
               <beginText>hrn</beginText>
               <linkedMain/>
-              <lineWidth>0.1488</lineWidth>
+              <lineWidth>0.0072809</lineWidth>
               </TextLine>
             <next>
               <location>
@@ -19770,6 +19771,7 @@ but start and end on notes as written.</text>
               <endHookType>1</endHookType>
               <beginText>travel to seat on stage</beginText>
               <linkedMain/>
+              <lineWidth>0.10287</lineWidth>
               </TextLine>
             <next>
               <location>
@@ -36562,7 +36564,7 @@ but start and end on notes as written.</text>
               <endHookType>1</endHookType>
               <beginText>hrn</beginText>
               <linkedMain/>
-              <lineWidth>0.1488</lineWidth>
+              <lineWidth>0.102047</lineWidth>
               </TextLine>
             <next>
               <location>
@@ -37164,7 +37166,7 @@ but start and end on notes as written.</text>
               <endHookType>1</endHookType>
               <beginText>hrn</beginText>
               <linkedMain/>
-              <lineWidth>0.1488</lineWidth>
+              <lineWidth>0.0072809</lineWidth>
               </TextLine>
             <next>
               <location>
@@ -37734,7 +37736,7 @@ but start and end on notes as written.</text>
               <endHookType>1</endHookType>
               <beginText>ob</beginText>
               <linkedMain/>
-              <lineWidth>0.1488</lineWidth>
+              <lineWidth>0.102047</lineWidth>
               </TextLine>
             <next>
               <location>
@@ -46789,7 +46791,7 @@ but start and end on notes as written.</text>
               <endHookType>1</endHookType>
               <beginText>cl</beginText>
               <linkedMain/>
-              <lineWidth>0.1488</lineWidth>
+              <lineWidth>0.102047</lineWidth>
               <Segment>
                 <subtype>1</subtype>
                 <offset x="-3.20705" y="-4.13781"/>
@@ -50722,7 +50724,7 @@ but start and end on notes as written.</text>
               <endHookType>1</endHookType>
               <beginText>bsn</beginText>
               <linkedMain/>
-              <lineWidth>0.1488</lineWidth>
+              <lineWidth>0.102047</lineWidth>
               </TextLine>
             <next>
               <location>
@@ -51245,7 +51247,7 @@ but start and end on notes as written.</text>
               <endHookType>1</endHookType>
               <beginText>piccolo</beginText>
               <linkedMain/>
-              <lineWidth>0.1488</lineWidth>
+              <lineWidth>0.102047</lineWidth>
               </TextLine>
             <next>
               <location>
@@ -52955,7 +52957,7 @@ but start and end on notes as written.</text>
               <endHookType>1</endHookType>
               <beginText>fl</beginText>
               <linkedMain/>
-              <lineWidth>0.1488</lineWidth>
+              <lineWidth>0.102047</lineWidth>
               </TextLine>
             <next>
               <location>
@@ -55385,7 +55387,7 @@ but start and end on notes as written.</text>
               <endHookType>1</endHookType>
               <beginText>cl</beginText>
               <linkedMain/>
-              <lineWidth>0.1488</lineWidth>
+              <lineWidth>0.102047</lineWidth>
               </TextLine>
             <next>
               <location>
@@ -55796,7 +55798,8 @@ but start and end on notes as written.</text>
       <Division>480</Division>
       <Style>
         <pageWidth>8.5</pageWidth>
-        <pageHeight>11</pageHeight>
+        <pageHeight>11.811</pageHeight>
+        <pageEvenLeftMargin>0.822835</pageEvenLeftMargin>
         <chordSymbolAFontSize>10</chordSymbolAFontSize>
         <chordSymbolBFontSize>10</chordSymbolBFontSize>
         <nashvilleNumberFontSize>10</nashvilleNumberFontSize>
@@ -55819,7 +55822,7 @@ but start and end on notes as written.</text>
         <bendFontSize>10</bendFontSize>
         <headerFontSize>10</headerFontSize>
         <footerFontSize>10</footerFontSize>
-        <Spatium>1.74978</Spatium>
+        <Spatium>1.75</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
       <showUnprintable>1</showUnprintable>
@@ -59724,7 +59727,7 @@ but start and end on notes as written.</text>
                 <beginText>ob</beginText>
                 <linked>
                   </linked>
-                <lineWidth>0.1488</lineWidth>
+                <lineWidth>0.148819</lineWidth>
                 </TextLine>
               <next>
                 <location>
