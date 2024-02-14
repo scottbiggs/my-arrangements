@@ -8871,7 +8871,6 @@
           <BarLine>
             <span>0</span>
             <linkedMain/>
-            <visible>0</visible>
             </BarLine>
           </voice>
         </Measure>
@@ -15111,7 +15110,6 @@ but start and end on notes as written.</text>
             </Rest>
           <BarLine>
             <linkedMain/>
-            <visible>0</visible>
             </BarLine>
           </voice>
         </Measure>
@@ -15822,16 +15820,65 @@ but start and end on notes as written.</text>
             </TimeSig>
           <StaffText>
             <linkedMain/>
-            <text>flute</text>
+            <text>hrn</text>
             </StaffText>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              </Note>
+            </Chord>
+          <Rest>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              </Note>
+            </Chord>
+          <Rest>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              </Note>
+            </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>begin</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -15846,9 +15893,9 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -15863,25 +15910,9 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
-              </Note>
-            </Chord>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -15893,46 +15924,12 @@ but start and end on notes as written.</text>
             <linkedMain/>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
-              </Note>
-            </Chord>
-          <Rest>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
-              </Note>
-            </Chord>
-          <Rest>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -15947,15 +15944,11 @@ but start and end on notes as written.</text>
             <linkedMain/>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -15967,12 +15960,11 @@ but start and end on notes as written.</text>
             <linkedMain/>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -15984,25 +15976,204 @@ but start and end on notes as written.</text>
             <linkedMain/>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Rest>
             <linkedMain/>
             <durationType>eighth</durationType>
             </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>begin</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
+              </Note>
+            </Chord>
           <Rest>
             <linkedMain/>
-            <durationType>half</durationType>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
             </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
+              </Note>
+            </Chord>
           <Rest>
             <linkedMain/>
-            <durationType>half</durationType>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
+              </Note>
+            </Chord>
+          <Rest>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
+              </Note>
+            </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              </Note>
+            </Chord>
+          <Rest>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              </Note>
+            </Chord>
+          <Rest>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              </Note>
+            </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <tpc2>14</tpc2>
+              </Note>
+            </Chord>
+          <Rest>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <tpc2>14</tpc2>
+              </Note>
+            </Chord>
+          <Rest>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <tpc2>14</tpc2>
+              </Note>
+            </Chord>
+          <Rest>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <tpc2>14</tpc2>
+              </Note>
+            </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -16033,7 +16204,131 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>65</pitch>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              </Note>
+            </Chord>
+          <endTuplet/>
+          <Tuplet>
+            <linkedMain/>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              </Note>
+            </Chord>
+          <endTuplet/>
+          <Tuplet>
+            <linkedMain/>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              </Note>
+            </Chord>
+          <endTuplet/>
+          <Tuplet>
+            <linkedMain/>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              </Note>
+            </Chord>
+          <endTuplet/>
+          <Tuplet>
+            <linkedMain/>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>53</pitch>
               <tpc>13</tpc>
               <tpc2>15</tpc2>
               </Note>
@@ -16064,7 +16359,7 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>65</pitch>
+              <pitch>53</pitch>
               <tpc>13</tpc>
               <tpc2>15</tpc2>
               </Note>
@@ -16095,419 +16390,7 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
-              </Note>
-            </Chord>
-          <endTuplet/>
-          <Tuplet>
-            <linkedMain/>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
-              </Note>
-            </Chord>
-          <endTuplet/>
-          <Tuplet>
-            <linkedMain/>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
-              </Note>
-            </Chord>
-          <endTuplet/>
-          <Tuplet>
-            <linkedMain/>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
-              </Note>
-            </Chord>
-          <endTuplet/>
-          <Tuplet>
-            <linkedMain/>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
-              </Note>
-            </Chord>
-          <endTuplet/>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
-              </Note>
-            </Chord>
-          <Rest>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
-              </Note>
-            </Chord>
-          <Rest>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
-              </Note>
-            </Chord>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
-              <tpc2>20</tpc2>
-              </Note>
-            </Chord>
-          <Rest>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
-              <tpc2>20</tpc2>
-              </Note>
-            </Chord>
-          <Rest>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
-              <tpc2>20</tpc2>
-              </Note>
-            </Chord>
-          <Rest>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
-              <tpc2>20</tpc2>
-              </Note>
-            </Chord>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
-              </Note>
-            </Chord>
-          <Rest>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
-              </Note>
-            </Chord>
-          <Rest>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
-              </Note>
-            </Chord>
-          <Rest>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
-              </Note>
-            </Chord>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Tuplet>
-            <linkedMain/>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
-              </Note>
-            </Chord>
-          <endTuplet/>
-          <Tuplet>
-            <linkedMain/>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
-              </Note>
-            </Chord>
-          <endTuplet/>
-          <Tuplet>
-            <linkedMain/>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>65</pitch>
+              <pitch>53</pitch>
               <tpc>13</tpc>
               <tpc2>15</tpc2>
               </Note>
@@ -16539,12 +16422,12 @@ but start and end on notes as written.</text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <endTuplet/>
@@ -16570,12 +16453,12 @@ but start and end on notes as written.</text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <endTuplet/>
@@ -16603,9 +16486,9 @@ but start and end on notes as written.</text>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <endTuplet/>
@@ -16615,12 +16498,9 @@ but start and end on notes as written.</text>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
-              <tpc2>20</tpc2>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -16632,12 +16512,12 @@ but start and end on notes as written.</text>
             <linkedMain/>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
-              <tpc2>20</tpc2>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -16649,12 +16529,12 @@ but start and end on notes as written.</text>
             <linkedMain/>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
-              <tpc2>20</tpc2>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -16666,358 +16546,12 @@ but start and end on notes as written.</text>
             <linkedMain/>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
-              <tpc2>20</tpc2>
-              </Note>
-            </Chord>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
-              </Note>
-            </Chord>
-          <Rest>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
-              </Note>
-            </Chord>
-          <Rest>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
-              </Note>
-            </Chord>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Tuplet>
-            <linkedMain/>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
-              </Note>
-            </Chord>
-          <endTuplet/>
-          <Tuplet>
-            <linkedMain/>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
-              </Note>
-            </Chord>
-          <endTuplet/>
-          <Tuplet>
-            <linkedMain/>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
-              </Note>
-            </Chord>
-          <endTuplet/>
-          <Tuplet>
-            <linkedMain/>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
-              </Note>
-            </Chord>
-          <endTuplet/>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Tuplet>
-            <linkedMain/>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
-              </Note>
-            </Chord>
-          <endTuplet/>
-          <Tuplet>
-            <linkedMain/>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
-              </Note>
-            </Chord>
-          <endTuplet/>
-          <Tuplet>
-            <linkedMain/>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>begin</BeamMode>
-            <durationType>eighth</durationType>
-            <Note>
-              <linkedMain/>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
-              </Note>
-            </Chord>
-          <endTuplet/>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>begin</BeamMode>
-            <durationType>eighth</durationType>
-            <Note>
-              <linkedMain/>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
-              </Note>
-            </Chord>
-          <Rest>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
-              </Note>
-            </Chord>
-          <Rest>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
-              </Note>
-            </Chord>
-          <Rest>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <linkedMain/>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <linkedMain/>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -17035,7 +16569,7 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>65</pitch>
+              <pitch>53</pitch>
               <tpc>13</tpc>
               <tpc2>15</tpc2>
               </Note>
@@ -17052,7 +16586,7 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>65</pitch>
+              <pitch>53</pitch>
               <tpc>13</tpc>
               <tpc2>15</tpc2>
               </Note>
@@ -17069,7 +16603,7 @@ but start and end on notes as written.</text>
             <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>65</pitch>
+              <pitch>53</pitch>
               <tpc>13</tpc>
               <tpc2>15</tpc2>
               </Note>
@@ -17079,11 +16613,7 @@ but start and end on notes as written.</text>
             <durationType>eighth</durationType>
             </Rest>
           <Tuplet>
-            <linked>
-              <location>
-                <staves>-2</staves>
-                </location>
-              </linked>
+            <linkedMain/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -17104,24 +16634,17 @@ but start and end on notes as written.</text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <linked>
-              <location>
-                <staves>-2</staves>
-                </location>
-              </linked>
+            <linkedMain/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -17142,21 +16665,17 @@ but start and end on notes as written.</text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <linked>
-              <location>
-                <staves>-2</staves>
-                </location>
-              </linked>
+            <linkedMain/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -17177,21 +16696,17 @@ but start and end on notes as written.</text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <linked>
-              <location>
-                <staves>-2</staves>
-                </location>
-              </linked>
+            <linkedMain/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -17212,12 +16727,12 @@ but start and end on notes as written.</text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <endTuplet/>
@@ -17226,11 +16741,7 @@ but start and end on notes as written.</text>
       <Measure>
         <voice>
           <Tuplet>
-            <linked>
-              <location>
-                <staves>-2</staves>
-                </location>
-              </linked>
+            <linkedMain/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -17251,24 +16762,17 @@ but start and end on notes as written.</text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <linked>
-              <location>
-                <staves>-2</staves>
-                </location>
-              </linked>
+            <linkedMain/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -17289,21 +16793,17 @@ but start and end on notes as written.</text>
             <linkedMain/>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <linked>
-              <location>
-                <staves>-2</staves>
-                </location>
-              </linked>
+            <linkedMain/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -17326,9 +16826,9 @@ but start and end on notes as written.</text>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <endTuplet/>
@@ -17338,9 +16838,9 @@ but start and end on notes as written.</text>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -17352,12 +16852,12 @@ but start and end on notes as written.</text>
             <linkedMain/>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -17369,12 +16869,12 @@ but start and end on notes as written.</text>
             <linkedMain/>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -17386,18 +16886,536 @@ but start and end on notes as written.</text>
             <linkedMain/>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Rest>
             <linkedMain/>
             <durationType>eighth</durationType>
             </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              </Note>
+            </Chord>
+          <Rest>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              </Note>
+            </Chord>
+          <Rest>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              </Note>
+            </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Tuplet>
+            <linkedMain/>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
+              </Note>
+            </Chord>
+          <endTuplet/>
+          <Tuplet>
+            <linkedMain/>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
+              </Note>
+            </Chord>
+          <endTuplet/>
+          <Tuplet>
+            <linkedMain/>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
+              </Note>
+            </Chord>
+          <endTuplet/>
+          <Tuplet>
+            <linkedMain/>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
+              </Note>
+            </Chord>
+          <endTuplet/>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Tuplet>
+            <linkedMain/>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              </Note>
+            </Chord>
+          <endTuplet/>
+          <Tuplet>
+            <linkedMain/>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              </Note>
+            </Chord>
+          <endTuplet/>
+          <Tuplet>
+            <linkedMain/>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>begin</BeamMode>
+            <durationType>eighth</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              </Note>
+            </Chord>
+          <endTuplet/>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>begin</BeamMode>
+            <durationType>eighth</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              </Note>
+            </Chord>
+          <Rest>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              </Note>
+            </Chord>
+          <Rest>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              </Note>
+            </Chord>
+          <Rest>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              </Note>
+            </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              </Note>
+            </Chord>
+          <Rest>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              </Note>
+            </Chord>
+          <Rest>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              </Note>
+            </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Tuplet>
+            <linkedMain/>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
+              </Note>
+            </Chord>
+          <endTuplet/>
+          <Tuplet>
+            <linkedMain/>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
+              </Note>
+            </Chord>
+          <endTuplet/>
+          <Tuplet>
+            <linkedMain/>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
+              </Note>
+            </Chord>
+          <endTuplet/>
+          <Tuplet>
+            <linkedMain/>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>no</BeamMode>
+            <durationType>eighth</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
+              </Note>
+            </Chord>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -29209,38 +29227,234 @@ but start and end on notes as written.</text>
         </Measure>
       <Measure>
         <voice>
-          <Rest>
+          <Spanner type="TextLine">
+            <TextLine>
+              <endHookType>1</endHookType>
+              <beginText>ob</beginText>
+              <linkedMain/>
+              <lineWidth>0.215237</lineWidth>
+              </TextLine>
+            <next>
+              <location>
+                <measures>4</measures>
+                </location>
+              </next>
+            </Spanner>
+          <Chord>
             <linkedMain/>
-            <durationType>measure</durationType>
-            <duration>3/4</duration>
-            </Rest>
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <Spanner type="Tie">
+                <Tie>
+                  <linkedMain/>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              <small>1</small>
+              </Note>
+            </Chord>
+          <Beam>
+            <StemDirection>down</StemDirection>
+            </Beam>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>begin</BeamMode>
+            <durationType>eighth</durationType>
+            <Note>
+              <linkedMain/>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              <small>1</small>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
+              <small>1</small>
+              </Note>
+            </Chord>
+          <Beam>
+            <StemDirection>down</StemDirection>
+            </Beam>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>begin</BeamMode>
+            <durationType>eighth</durationType>
+            <Note>
+              <linkedMain/>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
+              <tpc2>20</tpc2>
+              <small>1</small>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            <Note>
+              <linkedMain/>
+              <Spanner type="Tie">
+                <Tie>
+                  <linkedMain/>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    <fractions>-5/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              <small>1</small>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Rest>
+          <Chord>
             <linkedMain/>
-            <durationType>measure</durationType>
-            <duration>3/4</duration>
-            </Rest>
+            <durationType>half</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    <fractions>5/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              <small>1</small>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
+                  <measures>1</measures>
+                  <fractions>-1/2</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
+              <small>1</small>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Rest>
+          <Chord>
             <linkedMain/>
-            <durationType>measure</durationType>
-            <duration>3/4</duration>
-            </Rest>
+            <durationType>half</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <measures>-1</measures>
+                  <fractions>1/2</fractions>
+                  </location>
+                </prev>
+              </Spanner>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
+              <small>1</small>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
+              <small>1</small>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Chord>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <linkedMain/>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              <tpc2>21</tpc2>
+              <small>1</small>
+              </Note>
+            </Chord>
           <Rest>
             <linkedMain/>
-            <durationType>measure</durationType>
-            <duration>3/4</duration>
+            <durationType>quarter</durationType>
             </Rest>
+          <Chord>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              <small>1</small>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
@@ -29250,6 +29464,13 @@ but start and end on notes as written.</text>
             <velocity>80</velocity>
             <linkedMain/>
             </Dynamic>
+          <Spanner type="TextLine">
+            <prev>
+              <location>
+                <measures>-4</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
@@ -35861,7 +36082,6 @@ but start and end on notes as written.</text>
             </Rest>
           <BarLine>
             <linkedMain/>
-            <visible>0</visible>
             </BarLine>
           </voice>
         </Measure>
@@ -42844,7 +43064,6 @@ but start and end on notes as written.</text>
             </Rest>
           <BarLine>
             <linkedMain/>
-            <visible>0</visible>
             </BarLine>
           </voice>
         </Measure>
@@ -43047,15 +43266,9 @@ but start and end on notes as written.</text>
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>mf</subtype>
-            <velocity>80</velocity>
-            <linkedMain/>
-            </Dynamic>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <Spanner type="Tie">
@@ -43072,6 +43285,11 @@ but start and end on notes as written.</text>
               <play>0</play>
               </Note>
             </Chord>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            <linkedMain/>
+            </Dynamic>
           <Spanner type="TextLine">
             <prev>
               <location>
@@ -43091,6 +43309,15 @@ but start and end on notes as written.</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          </voice>
+        <voice>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
           </voice>
         </Measure>
       <Measure>
@@ -55403,7 +55630,6 @@ but start and end on notes as written.</text>
             </Rest>
           <BarLine>
             <linkedMain/>
-            <visible>0</visible>
             </BarLine>
           </voice>
         </Measure>
@@ -65428,7 +65654,6 @@ but start and end on notes as written.</text>
               <span>0</span>
               <linked>
                 </linked>
-              <visible>0</visible>
               </BarLine>
             </voice>
           </Measure>
@@ -80909,7 +81134,6 @@ but start and end on notes as written.</text>
               <span>0</span>
               <linked>
                 </linked>
-              <visible>0</visible>
               </BarLine>
             </voice>
           </Measure>
@@ -81198,17 +81422,10 @@ but start and end on notes as written.</text>
           </Measure>
         <Measure>
           <voice>
-            <Dynamic>
-              <subtype>mf</subtype>
-              <velocity>80</velocity>
-              <linked>
-                </linked>
-              </Dynamic>
             <Chord>
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   </linked>
@@ -81226,6 +81443,12 @@ but start and end on notes as written.</text>
                 <play>0</play>
                 </Note>
               </Chord>
+            <Dynamic>
+              <subtype>mf</subtype>
+              <velocity>80</velocity>
+              <linked>
+                </linked>
+              </Dynamic>
             <Spanner type="TextLine">
               <prev>
                 <location>
@@ -81247,6 +81470,16 @@ but start and end on notes as written.</text>
                 <tpc>17</tpc>
                 </Note>
               </Chord>
+            </voice>
+          <voice>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
+            <location>
+              <fractions>1/4</fractions>
+              </location>
             </voice>
           </Measure>
         <Measure>
@@ -82096,6 +82329,9 @@ but start and end on notes as written.</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>page</subtype>
+            </LayoutBreak>
           <voice>
             <SystemText>
               <linked>
@@ -82255,18 +82491,76 @@ but start and end on notes as written.</text>
             <StaffText>
               <linked>
                 </linked>
-              <text>flute</text>
+              <text>hrn</text>
               </StaffText>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>mid</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
                   </linked>
-                <pitch>65</pitch>
-                <tpc>13</tpc>
-                <tpc2>15</tpc2>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>begin</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
                 </Note>
               </Chord>
             <Rest>
@@ -82284,9 +82578,9 @@ but start and end on notes as written.</text>
               <Note>
                 <linked>
                   </linked>
-                <pitch>65</pitch>
-                <tpc>13</tpc>
-                <tpc2>15</tpc2>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
                 </Note>
               </Chord>
             <Rest>
@@ -82304,28 +82598,9 @@ but start and end on notes as written.</text>
               <Note>
                 <linked>
                   </linked>
-                <pitch>65</pitch>
-                <tpc>13</tpc>
-                <tpc2>15</tpc2>
-                </Note>
-              </Chord>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>72</pitch>
-                <tpc>14</tpc>
-                <tpc2>16</tpc2>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
                 </Note>
               </Chord>
             <Rest>
@@ -82339,53 +82614,13 @@ but start and end on notes as written.</text>
                 </linked>
               <BeamMode>mid</BeamMode>
               <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
+              <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   </linked>
-                <pitch>72</pitch>
-                <tpc>14</tpc>
-                <tpc2>16</tpc2>
-                </Note>
-              </Chord>
-            <Rest>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>72</pitch>
-                <tpc>14</tpc>
-                <tpc2>16</tpc2>
-                </Note>
-              </Chord>
-            <Rest>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>72</pitch>
-                <tpc>14</tpc>
-                <tpc2>16</tpc2>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
                 </Note>
               </Chord>
             <Rest>
@@ -82402,16 +82637,12 @@ but start and end on notes as written.</text>
                 </linked>
               <BeamMode>mid</BeamMode>
               <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
               <Note>
                 <linked>
                   </linked>
-                <Accidental>
-                  <subtype>accidentalSharp</subtype>
-                  </Accidental>
-                <pitch>71</pitch>
-                <tpc>19</tpc>
-                <tpc2>21</tpc2>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
                 </Note>
               </Chord>
             <Rest>
@@ -82425,13 +82656,12 @@ but start and end on notes as written.</text>
                 </linked>
               <BeamMode>mid</BeamMode>
               <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
               <Note>
                 <linked>
                   </linked>
-                <pitch>71</pitch>
-                <tpc>19</tpc>
-                <tpc2>21</tpc2>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
                 </Note>
               </Chord>
             <Rest>
@@ -82445,13 +82675,12 @@ but start and end on notes as written.</text>
                 </linked>
               <BeamMode>mid</BeamMode>
               <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
               <Note>
                 <linked>
                   </linked>
-                <pitch>71</pitch>
-                <tpc>19</tpc>
-                <tpc2>21</tpc2>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
                 </Note>
               </Chord>
             <Rest>
@@ -82459,15 +82688,226 @@ but start and end on notes as written.</text>
                 </linked>
               <durationType>eighth</durationType>
               </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>begin</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
+                <tpc2>15</tpc2>
+                </Note>
+              </Chord>
             <Rest>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
               </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
+                <tpc2>15</tpc2>
+                </Note>
+              </Chord>
             <Rest>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
+                <tpc2>15</tpc2>
+                </Note>
+              </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
+                <tpc2>15</tpc2>
+                </Note>
+              </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>58</pitch>
+                <tpc>12</tpc>
+                <tpc2>14</tpc2>
+                </Note>
+              </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>58</pitch>
+                <tpc>12</tpc>
+                <tpc2>14</tpc2>
+                </Note>
+              </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>58</pitch>
+                <tpc>12</tpc>
+                <tpc2>14</tpc2>
+                </Note>
+              </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>58</pitch>
+                <tpc>12</tpc>
+                <tpc2>14</tpc2>
+                </Note>
+              </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
               </Rest>
             </voice>
           </Measure>
@@ -82503,7 +82943,151 @@ but start and end on notes as written.</text>
               <Note>
                 <linked>
                   </linked>
-                <pitch>65</pitch>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
+            <endTuplet/>
+            <Tuplet>
+              <linked>
+                </linked>
+              <normalNotes>2</normalNotes>
+              <actualNotes>3</actualNotes>
+              <baseNote>eighth</baseNote>
+              <Number>
+                <style>Tuplet</style>
+                <text>3</text>
+                </Number>
+              </Tuplet>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
+            <endTuplet/>
+            <Tuplet>
+              <linked>
+                </linked>
+              <normalNotes>2</normalNotes>
+              <actualNotes>3</actualNotes>
+              <baseNote>eighth</baseNote>
+              <Number>
+                <style>Tuplet</style>
+                <text>3</text>
+                </Number>
+              </Tuplet>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
+            <endTuplet/>
+            <Tuplet>
+              <linked>
+                </linked>
+              <normalNotes>2</normalNotes>
+              <actualNotes>3</actualNotes>
+              <baseNote>eighth</baseNote>
+              <Number>
+                <style>Tuplet</style>
+                <text>3</text>
+                </Number>
+              </Tuplet>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
+            <endTuplet/>
+            <Tuplet>
+              <linked>
+                </linked>
+              <normalNotes>2</normalNotes>
+              <actualNotes>3</actualNotes>
+              <baseNote>eighth</baseNote>
+              <Number>
+                <style>Tuplet</style>
+                <text>3</text>
+                </Number>
+              </Tuplet>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>53</pitch>
                 <tpc>13</tpc>
                 <tpc2>15</tpc2>
                 </Note>
@@ -82539,7 +83123,7 @@ but start and end on notes as written.</text>
               <Note>
                 <linked>
                   </linked>
-                <pitch>65</pitch>
+                <pitch>53</pitch>
                 <tpc>13</tpc>
                 <tpc2>15</tpc2>
                 </Note>
@@ -82575,487 +83159,7 @@ but start and end on notes as written.</text>
               <Note>
                 <linked>
                   </linked>
-                <pitch>65</pitch>
-                <tpc>13</tpc>
-                <tpc2>15</tpc2>
-                </Note>
-              </Chord>
-            <endTuplet/>
-            <Tuplet>
-              <linked>
-                </linked>
-              <normalNotes>2</normalNotes>
-              <actualNotes>3</actualNotes>
-              <baseNote>eighth</baseNote>
-              <Number>
-                <style>Tuplet</style>
-                <text>3</text>
-                </Number>
-              </Tuplet>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>up</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>65</pitch>
-                <tpc>13</tpc>
-                <tpc2>15</tpc2>
-                </Note>
-              </Chord>
-            <endTuplet/>
-            <Tuplet>
-              <linked>
-                </linked>
-              <normalNotes>2</normalNotes>
-              <actualNotes>3</actualNotes>
-              <baseNote>eighth</baseNote>
-              <Number>
-                <style>Tuplet</style>
-                <text>3</text>
-                </Number>
-              </Tuplet>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>up</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>65</pitch>
-                <tpc>13</tpc>
-                <tpc2>15</tpc2>
-                </Note>
-              </Chord>
-            <endTuplet/>
-            <Tuplet>
-              <linked>
-                </linked>
-              <normalNotes>2</normalNotes>
-              <actualNotes>3</actualNotes>
-              <baseNote>eighth</baseNote>
-              <Number>
-                <style>Tuplet</style>
-                <text>3</text>
-                </Number>
-              </Tuplet>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>up</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>65</pitch>
-                <tpc>13</tpc>
-                <tpc2>15</tpc2>
-                </Note>
-              </Chord>
-            <endTuplet/>
-            <Tuplet>
-              <linked>
-                </linked>
-              <normalNotes>2</normalNotes>
-              <actualNotes>3</actualNotes>
-              <baseNote>eighth</baseNote>
-              <Number>
-                <style>Tuplet</style>
-                <text>3</text>
-                </Number>
-              </Tuplet>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>up</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>65</pitch>
-                <tpc>13</tpc>
-                <tpc2>15</tpc2>
-                </Note>
-              </Chord>
-            <endTuplet/>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>72</pitch>
-                <tpc>14</tpc>
-                <tpc2>16</tpc2>
-                </Note>
-              </Chord>
-            <Rest>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>72</pitch>
-                <tpc>14</tpc>
-                <tpc2>16</tpc2>
-                </Note>
-              </Chord>
-            <Rest>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>72</pitch>
-                <tpc>14</tpc>
-                <tpc2>16</tpc2>
-                </Note>
-              </Chord>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <Accidental>
-                  <subtype>accidentalSharp</subtype>
-                  </Accidental>
-                <pitch>76</pitch>
-                <tpc>18</tpc>
-                <tpc2>20</tpc2>
-                </Note>
-              </Chord>
-            <Rest>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>76</pitch>
-                <tpc>18</tpc>
-                <tpc2>20</tpc2>
-                </Note>
-              </Chord>
-            <Rest>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>76</pitch>
-                <tpc>18</tpc>
-                <tpc2>20</tpc2>
-                </Note>
-              </Chord>
-            <Rest>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>76</pitch>
-                <tpc>18</tpc>
-                <tpc2>20</tpc2>
-                </Note>
-              </Chord>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>77</pitch>
-                <tpc>13</tpc>
-                <tpc2>15</tpc2>
-                </Note>
-              </Chord>
-            <Rest>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>77</pitch>
-                <tpc>13</tpc>
-                <tpc2>15</tpc2>
-                </Note>
-              </Chord>
-            <Rest>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>77</pitch>
-                <tpc>13</tpc>
-                <tpc2>15</tpc2>
-                </Note>
-              </Chord>
-            <Rest>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>77</pitch>
-                <tpc>13</tpc>
-                <tpc2>15</tpc2>
-                </Note>
-              </Chord>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Tuplet>
-              <linked>
-                </linked>
-              <normalNotes>2</normalNotes>
-              <actualNotes>3</actualNotes>
-              <baseNote>eighth</baseNote>
-              <Number>
-                <style>Tuplet</style>
-                <text>3</text>
-                </Number>
-              </Tuplet>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>up</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>65</pitch>
-                <tpc>13</tpc>
-                <tpc2>15</tpc2>
-                </Note>
-              </Chord>
-            <endTuplet/>
-            <Tuplet>
-              <linked>
-                </linked>
-              <normalNotes>2</normalNotes>
-              <actualNotes>3</actualNotes>
-              <baseNote>eighth</baseNote>
-              <Number>
-                <style>Tuplet</style>
-                <text>3</text>
-                </Number>
-              </Tuplet>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>up</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>65</pitch>
-                <tpc>13</tpc>
-                <tpc2>15</tpc2>
-                </Note>
-              </Chord>
-            <endTuplet/>
-            <Tuplet>
-              <linked>
-                </linked>
-              <normalNotes>2</normalNotes>
-              <actualNotes>3</actualNotes>
-              <baseNote>eighth</baseNote>
-              <Number>
-                <style>Tuplet</style>
-                <text>3</text>
-                </Number>
-              </Tuplet>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>up</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>65</pitch>
+                <pitch>53</pitch>
                 <tpc>13</tpc>
                 <tpc2>15</tpc2>
                 </Note>
@@ -83091,13 +83195,13 @@ but start and end on notes as written.</text>
                 </linked>
               <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
+              <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   </linked>
-                <pitch>72</pitch>
-                <tpc>14</tpc>
-                <tpc2>16</tpc2>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
                 </Note>
               </Chord>
             <endTuplet/>
@@ -83127,13 +83231,13 @@ but start and end on notes as written.</text>
                 </linked>
               <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
+              <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   </linked>
-                <pitch>72</pitch>
-                <tpc>14</tpc>
-                <tpc2>16</tpc2>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
                 </Note>
               </Chord>
             <endTuplet/>
@@ -83166,9 +83270,9 @@ but start and end on notes as written.</text>
               <Note>
                 <linked>
                   </linked>
-                <pitch>72</pitch>
-                <tpc>14</tpc>
-                <tpc2>16</tpc2>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
                 </Note>
               </Chord>
             <endTuplet/>
@@ -83180,12 +83284,9 @@ but start and end on notes as written.</text>
               <Note>
                 <linked>
                   </linked>
-                <Accidental>
-                  <subtype>accidentalSharp</subtype>
-                  </Accidental>
-                <pitch>76</pitch>
-                <tpc>18</tpc>
-                <tpc2>20</tpc2>
+                <pitch>58</pitch>
+                <tpc>12</tpc>
+                <tpc2>14</tpc2>
                 </Note>
               </Chord>
             <Rest>
@@ -83199,13 +83300,13 @@ but start and end on notes as written.</text>
                 </linked>
               <BeamMode>mid</BeamMode>
               <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
+              <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   </linked>
-                <pitch>76</pitch>
-                <tpc>18</tpc>
-                <tpc2>20</tpc2>
+                <pitch>58</pitch>
+                <tpc>12</tpc>
+                <tpc2>14</tpc2>
                 </Note>
               </Chord>
             <Rest>
@@ -83219,13 +83320,13 @@ but start and end on notes as written.</text>
                 </linked>
               <BeamMode>mid</BeamMode>
               <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
+              <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   </linked>
-                <pitch>76</pitch>
-                <tpc>18</tpc>
-                <tpc2>20</tpc2>
+                <pitch>58</pitch>
+                <tpc>12</tpc>
+                <tpc2>14</tpc2>
                 </Note>
               </Chord>
             <Rest>
@@ -83239,415 +83340,13 @@ but start and end on notes as written.</text>
                 </linked>
               <BeamMode>mid</BeamMode>
               <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
+              <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   </linked>
-                <pitch>76</pitch>
-                <tpc>18</tpc>
-                <tpc2>20</tpc2>
-                </Note>
-              </Chord>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>77</pitch>
-                <tpc>13</tpc>
-                <tpc2>15</tpc2>
-                </Note>
-              </Chord>
-            <Rest>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>77</pitch>
-                <tpc>13</tpc>
-                <tpc2>15</tpc2>
-                </Note>
-              </Chord>
-            <Rest>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>77</pitch>
-                <tpc>13</tpc>
-                <tpc2>15</tpc2>
-                </Note>
-              </Chord>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Tuplet>
-              <linked>
-                </linked>
-              <normalNotes>2</normalNotes>
-              <actualNotes>3</actualNotes>
-              <baseNote>eighth</baseNote>
-              <Number>
-                <style>Tuplet</style>
-                <text>3</text>
-                </Number>
-              </Tuplet>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <Accidental>
-                  <subtype>accidentalSharp</subtype>
-                  </Accidental>
-                <pitch>71</pitch>
-                <tpc>19</tpc>
-                <tpc2>21</tpc2>
-                </Note>
-              </Chord>
-            <endTuplet/>
-            <Tuplet>
-              <linked>
-                </linked>
-              <normalNotes>2</normalNotes>
-              <actualNotes>3</actualNotes>
-              <baseNote>eighth</baseNote>
-              <Number>
-                <style>Tuplet</style>
-                <text>3</text>
-                </Number>
-              </Tuplet>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>71</pitch>
-                <tpc>19</tpc>
-                <tpc2>21</tpc2>
-                </Note>
-              </Chord>
-            <endTuplet/>
-            <Tuplet>
-              <linked>
-                </linked>
-              <normalNotes>2</normalNotes>
-              <actualNotes>3</actualNotes>
-              <baseNote>eighth</baseNote>
-              <Number>
-                <style>Tuplet</style>
-                <text>3</text>
-                </Number>
-              </Tuplet>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>71</pitch>
-                <tpc>19</tpc>
-                <tpc2>21</tpc2>
-                </Note>
-              </Chord>
-            <endTuplet/>
-            <Tuplet>
-              <linked>
-                </linked>
-              <normalNotes>2</normalNotes>
-              <actualNotes>3</actualNotes>
-              <baseNote>eighth</baseNote>
-              <Number>
-                <style>Tuplet</style>
-                <text>3</text>
-                </Number>
-              </Tuplet>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>71</pitch>
-                <tpc>19</tpc>
-                <tpc2>21</tpc2>
-                </Note>
-              </Chord>
-            <endTuplet/>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Tuplet>
-              <linked>
-                </linked>
-              <normalNotes>2</normalNotes>
-              <actualNotes>3</actualNotes>
-              <baseNote>eighth</baseNote>
-              <Number>
-                <style>Tuplet</style>
-                <text>3</text>
-                </Number>
-              </Tuplet>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <Accidental>
-                  <subtype>accidentalSharp</subtype>
-                  </Accidental>
-                <pitch>71</pitch>
-                <tpc>19</tpc>
-                <tpc2>21</tpc2>
-                </Note>
-              </Chord>
-            <endTuplet/>
-            <Tuplet>
-              <linked>
-                </linked>
-              <normalNotes>2</normalNotes>
-              <actualNotes>3</actualNotes>
-              <baseNote>eighth</baseNote>
-              <Number>
-                <style>Tuplet</style>
-                <text>3</text>
-                </Number>
-              </Tuplet>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>no</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>71</pitch>
-                <tpc>19</tpc>
-                <tpc2>21</tpc2>
-                </Note>
-              </Chord>
-            <endTuplet/>
-            <Tuplet>
-              <linked>
-                </linked>
-              <normalNotes>2</normalNotes>
-              <actualNotes>3</actualNotes>
-              <baseNote>eighth</baseNote>
-              <Number>
-                <style>Tuplet</style>
-                <text>3</text>
-                </Number>
-              </Tuplet>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>begin</BeamMode>
-              <durationType>eighth</durationType>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>71</pitch>
-                <tpc>19</tpc>
-                <tpc2>21</tpc2>
-                </Note>
-              </Chord>
-            <endTuplet/>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>begin</BeamMode>
-              <durationType>eighth</durationType>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>71</pitch>
-                <tpc>19</tpc>
-                <tpc2>21</tpc2>
-                </Note>
-              </Chord>
-            <Rest>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>71</pitch>
-                <tpc>19</tpc>
-                <tpc2>21</tpc2>
-                </Note>
-              </Chord>
-            <Rest>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>71</pitch>
-                <tpc>19</tpc>
-                <tpc2>21</tpc2>
-                </Note>
-              </Chord>
-            <Rest>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Chord>
-              <linked>
-                </linked>
-              <BeamMode>mid</BeamMode>
-              <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>71</pitch>
-                <tpc>19</tpc>
-                <tpc2>21</tpc2>
+                <pitch>58</pitch>
+                <tpc>12</tpc>
+                <tpc2>14</tpc2>
                 </Note>
               </Chord>
             <Rest>
@@ -83668,7 +83367,7 @@ but start and end on notes as written.</text>
               <Note>
                 <linked>
                   </linked>
-                <pitch>65</pitch>
+                <pitch>53</pitch>
                 <tpc>13</tpc>
                 <tpc2>15</tpc2>
                 </Note>
@@ -83688,7 +83387,7 @@ but start and end on notes as written.</text>
               <Note>
                 <linked>
                   </linked>
-                <pitch>65</pitch>
+                <pitch>53</pitch>
                 <tpc>13</tpc>
                 <tpc2>15</tpc2>
                 </Note>
@@ -83708,7 +83407,7 @@ but start and end on notes as written.</text>
               <Note>
                 <linked>
                   </linked>
-                <pitch>65</pitch>
+                <pitch>53</pitch>
                 <tpc>13</tpc>
                 <tpc2>15</tpc2>
                 </Note>
@@ -83719,6 +83418,8 @@ but start and end on notes as written.</text>
               <durationType>eighth</durationType>
               </Rest>
             <Tuplet>
+              <linked>
+                </linked>
               <normalNotes>2</normalNotes>
               <actualNotes>3</actualNotes>
               <baseNote>eighth</baseNote>
@@ -83742,20 +83443,19 @@ but start and end on notes as written.</text>
                 </linked>
               <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
+              <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   </linked>
-                <Accidental>
-                  <subtype>accidentalSharp</subtype>
-                  </Accidental>
-                <pitch>71</pitch>
-                <tpc>19</tpc>
-                <tpc2>21</tpc2>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
                 </Note>
               </Chord>
             <endTuplet/>
             <Tuplet>
+              <linked>
+                </linked>
               <normalNotes>2</normalNotes>
               <actualNotes>3</actualNotes>
               <baseNote>eighth</baseNote>
@@ -83779,17 +83479,19 @@ but start and end on notes as written.</text>
                 </linked>
               <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
+              <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   </linked>
-                <pitch>71</pitch>
-                <tpc>19</tpc>
-                <tpc2>21</tpc2>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
                 </Note>
               </Chord>
             <endTuplet/>
             <Tuplet>
+              <linked>
+                </linked>
               <normalNotes>2</normalNotes>
               <actualNotes>3</actualNotes>
               <baseNote>eighth</baseNote>
@@ -83813,17 +83515,19 @@ but start and end on notes as written.</text>
                 </linked>
               <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
+              <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   </linked>
-                <pitch>71</pitch>
-                <tpc>19</tpc>
-                <tpc2>21</tpc2>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
                 </Note>
               </Chord>
             <endTuplet/>
             <Tuplet>
+              <linked>
+                </linked>
               <normalNotes>2</normalNotes>
               <actualNotes>3</actualNotes>
               <baseNote>eighth</baseNote>
@@ -83847,13 +83551,13 @@ but start and end on notes as written.</text>
                 </linked>
               <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
+              <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   </linked>
-                <pitch>71</pitch>
-                <tpc>19</tpc>
-                <tpc2>21</tpc2>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
                 </Note>
               </Chord>
             <endTuplet/>
@@ -83862,6 +83566,8 @@ but start and end on notes as written.</text>
         <Measure>
           <voice>
             <Tuplet>
+              <linked>
+                </linked>
               <normalNotes>2</normalNotes>
               <actualNotes>3</actualNotes>
               <baseNote>eighth</baseNote>
@@ -83885,20 +83591,19 @@ but start and end on notes as written.</text>
                 </linked>
               <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
+              <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   </linked>
-                <Accidental>
-                  <subtype>accidentalSharp</subtype>
-                  </Accidental>
-                <pitch>71</pitch>
-                <tpc>19</tpc>
-                <tpc2>21</tpc2>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
                 </Note>
               </Chord>
             <endTuplet/>
             <Tuplet>
+              <linked>
+                </linked>
               <normalNotes>2</normalNotes>
               <actualNotes>3</actualNotes>
               <baseNote>eighth</baseNote>
@@ -83922,17 +83627,19 @@ but start and end on notes as written.</text>
                 </linked>
               <BeamMode>no</BeamMode>
               <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
+              <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   </linked>
-                <pitch>71</pitch>
-                <tpc>19</tpc>
-                <tpc2>21</tpc2>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
                 </Note>
               </Chord>
             <endTuplet/>
             <Tuplet>
+              <linked>
+                </linked>
               <normalNotes>2</normalNotes>
               <actualNotes>3</actualNotes>
               <baseNote>eighth</baseNote>
@@ -83959,9 +83666,9 @@ but start and end on notes as written.</text>
               <Note>
                 <linked>
                   </linked>
-                <pitch>71</pitch>
-                <tpc>19</tpc>
-                <tpc2>21</tpc2>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
                 </Note>
               </Chord>
             <endTuplet/>
@@ -83973,9 +83680,9 @@ but start and end on notes as written.</text>
               <Note>
                 <linked>
                   </linked>
-                <pitch>71</pitch>
-                <tpc>19</tpc>
-                <tpc2>21</tpc2>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
                 </Note>
               </Chord>
             <Rest>
@@ -83989,13 +83696,13 @@ but start and end on notes as written.</text>
                 </linked>
               <BeamMode>mid</BeamMode>
               <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
+              <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   </linked>
-                <pitch>71</pitch>
-                <tpc>19</tpc>
-                <tpc2>21</tpc2>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
                 </Note>
               </Chord>
             <Rest>
@@ -84009,13 +83716,13 @@ but start and end on notes as written.</text>
                 </linked>
               <BeamMode>mid</BeamMode>
               <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
+              <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   </linked>
-                <pitch>71</pitch>
-                <tpc>19</tpc>
-                <tpc2>21</tpc2>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
                 </Note>
               </Chord>
             <Rest>
@@ -84029,13 +83736,13 @@ but start and end on notes as written.</text>
                 </linked>
               <BeamMode>mid</BeamMode>
               <durationType>eighth</durationType>
-              <StemDirection>down</StemDirection>
+              <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   </linked>
-                <pitch>71</pitch>
-                <tpc>19</tpc>
-                <tpc2>21</tpc2>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
                 </Note>
               </Chord>
             <Rest>
@@ -84043,6 +83750,609 @@ but start and end on notes as written.</text>
                 </linked>
               <durationType>eighth</durationType>
               </Rest>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Tuplet>
+              <linked>
+                </linked>
+              <normalNotes>2</normalNotes>
+              <actualNotes>3</actualNotes>
+              <baseNote>eighth</baseNote>
+              <Number>
+                <style>Tuplet</style>
+                <text>3</text>
+                </Number>
+              </Tuplet>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
+                <tpc2>15</tpc2>
+                </Note>
+              </Chord>
+            <endTuplet/>
+            <Tuplet>
+              <linked>
+                </linked>
+              <normalNotes>2</normalNotes>
+              <actualNotes>3</actualNotes>
+              <baseNote>eighth</baseNote>
+              <Number>
+                <style>Tuplet</style>
+                <text>3</text>
+                </Number>
+              </Tuplet>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
+                <tpc2>15</tpc2>
+                </Note>
+              </Chord>
+            <endTuplet/>
+            <Tuplet>
+              <linked>
+                </linked>
+              <normalNotes>2</normalNotes>
+              <actualNotes>3</actualNotes>
+              <baseNote>eighth</baseNote>
+              <Number>
+                <style>Tuplet</style>
+                <text>3</text>
+                </Number>
+              </Tuplet>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
+                <tpc2>15</tpc2>
+                </Note>
+              </Chord>
+            <endTuplet/>
+            <Tuplet>
+              <linked>
+                </linked>
+              <normalNotes>2</normalNotes>
+              <actualNotes>3</actualNotes>
+              <baseNote>eighth</baseNote>
+              <Number>
+                <style>Tuplet</style>
+                <text>3</text>
+                </Number>
+              </Tuplet>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
+                <tpc2>15</tpc2>
+                </Note>
+              </Chord>
+            <endTuplet/>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Tuplet>
+              <linked>
+                </linked>
+              <normalNotes>2</normalNotes>
+              <actualNotes>3</actualNotes>
+              <baseNote>eighth</baseNote>
+              <Number>
+                <style>Tuplet</style>
+                <text>3</text>
+                </Number>
+              </Tuplet>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
+            <endTuplet/>
+            <Tuplet>
+              <linked>
+                </linked>
+              <normalNotes>2</normalNotes>
+              <actualNotes>3</actualNotes>
+              <baseNote>eighth</baseNote>
+              <Number>
+                <style>Tuplet</style>
+                <text>3</text>
+                </Number>
+              </Tuplet>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
+            <endTuplet/>
+            <Tuplet>
+              <linked>
+                </linked>
+              <normalNotes>2</normalNotes>
+              <actualNotes>3</actualNotes>
+              <baseNote>eighth</baseNote>
+              <Number>
+                <style>Tuplet</style>
+                <text>3</text>
+                </Number>
+              </Tuplet>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>begin</BeamMode>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
+            <endTuplet/>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>begin</BeamMode>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Tuplet>
+              <linked>
+                </linked>
+              <normalNotes>2</normalNotes>
+              <actualNotes>3</actualNotes>
+              <baseNote>eighth</baseNote>
+              <Number>
+                <style>Tuplet</style>
+                <text>3</text>
+                </Number>
+              </Tuplet>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
+                <tpc2>15</tpc2>
+                </Note>
+              </Chord>
+            <endTuplet/>
+            <Tuplet>
+              <linked>
+                </linked>
+              <normalNotes>2</normalNotes>
+              <actualNotes>3</actualNotes>
+              <baseNote>eighth</baseNote>
+              <Number>
+                <style>Tuplet</style>
+                <text>3</text>
+                </Number>
+              </Tuplet>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
+                <tpc2>15</tpc2>
+                </Note>
+              </Chord>
+            <endTuplet/>
+            <Tuplet>
+              <linked>
+                </linked>
+              <normalNotes>2</normalNotes>
+              <actualNotes>3</actualNotes>
+              <baseNote>eighth</baseNote>
+              <Number>
+                <style>Tuplet</style>
+                <text>3</text>
+                </Number>
+              </Tuplet>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
+                <tpc2>15</tpc2>
+                </Note>
+              </Chord>
+            <endTuplet/>
+            <Tuplet>
+              <linked>
+                </linked>
+              <normalNotes>2</normalNotes>
+              <actualNotes>3</actualNotes>
+              <baseNote>eighth</baseNote>
+              <Number>
+                <style>Tuplet</style>
+                <text>3</text>
+                </Number>
+              </Tuplet>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>no</BeamMode>
+              <durationType>eighth</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
+                <tpc2>15</tpc2>
+                </Note>
+              </Chord>
+            <endTuplet/>
             </voice>
           </Measure>
         <Measure>
@@ -84066,8 +84376,8 @@ but start and end on notes as written.</text>
               </Rest>
             </voice>
           </Measure>
-        <Measure len="75/4">
-          <multiMeasureRest>25</multiMeasureRest>
+        <Measure len="63/4">
+          <multiMeasureRest>21</multiMeasureRest>
           <voice>
             <TimeSig>
               <linked>
@@ -97470,8 +97780,8 @@ but start and end on notes as written.</text>
               </Rest>
             </voice>
           </Measure>
-        <Measure len="75/4">
-          <multiMeasureRest>25</multiMeasureRest>
+        <Measure len="63/4">
+          <multiMeasureRest>21</multiMeasureRest>
           <voice>
             <TimeSig>
               <linked>
@@ -97688,42 +97998,255 @@ but start and end on notes as written.</text>
           </Measure>
         <Measure>
           <voice>
-            <Rest>
+            <Spanner type="TextLine">
+              <TextLine>
+                <endHookType>1</endHookType>
+                <beginText>ob</beginText>
+                <linked>
+                  </linked>
+                <lineWidth>0.14761</lineWidth>
+                </TextLine>
+              <next>
+                <location>
+                  <measures>4</measures>
+                  </location>
+                </next>
+              </Spanner>
+            <Chord>
               <linked>
                 </linked>
-              <durationType>measure</durationType>
-              <duration>3/4</duration>
-              </Rest>
+              <small>1</small>
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <Spanner type="Tie">
+                  <Tie>
+                    <linked>
+                      </linked>
+                    </Tie>
+                  <next>
+                    <location>
+                      <fractions>1/4</fractions>
+                      </location>
+                    </next>
+                  </Spanner>
+                <pitch>69</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>begin</BeamMode>
+              <small>1</small>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <Spanner type="Tie">
+                  <prev>
+                    <location>
+                      <fractions>-1/4</fractions>
+                      </location>
+                    </prev>
+                  </Spanner>
+                <pitch>69</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <small>1</small>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>77</pitch>
+                <tpc>13</tpc>
+                <tpc2>15</tpc2>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>begin</BeamMode>
+              <small>1</small>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <Accidental>
+                  <subtype>accidentalSharp</subtype>
+                  </Accidental>
+                <pitch>76</pitch>
+                <tpc>18</tpc>
+                <tpc2>20</tpc2>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <BeamMode>mid</BeamMode>
+              <small>1</small>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <Spanner type="Tie">
+                  <Tie>
+                    <linked>
+                      </linked>
+                    </Tie>
+                  <next>
+                    <location>
+                      <measures>1</measures>
+                      <fractions>-5/8</fractions>
+                      </location>
+                    </next>
+                  </Spanner>
+                <pitch>69</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
             </voice>
           </Measure>
         <Measure>
           <voice>
-            <Rest>
+            <Chord>
               <linked>
                 </linked>
-              <durationType>measure</durationType>
-              <duration>3/4</duration>
-              </Rest>
+              <small>1</small>
+              <durationType>half</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <Spanner type="Tie">
+                  <prev>
+                    <location>
+                      <measures>-1</measures>
+                      <fractions>5/8</fractions>
+                      </location>
+                    </prev>
+                  </Spanner>
+                <pitch>69</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <small>1</small>
+              <durationType>quarter</durationType>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    <fractions>-1/2</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>74</pitch>
+                <tpc>16</tpc>
+                <tpc2>18</tpc2>
+                </Note>
+              </Chord>
             </voice>
           </Measure>
         <Measure>
           <voice>
-            <Rest>
+            <Chord>
               <linked>
                 </linked>
-              <durationType>measure</durationType>
-              <duration>3/4</duration>
-              </Rest>
+              <small>1</small>
+              <durationType>half</durationType>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    <fractions>1/2</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>72</pitch>
+                <tpc>14</tpc>
+                <tpc2>16</tpc2>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <small>1</small>
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>72</pitch>
+                <tpc>14</tpc>
+                <tpc2>16</tpc2>
+                </Note>
+              </Chord>
             </voice>
           </Measure>
         <Measure>
           <voice>
+            <Chord>
+              <linked>
+                </linked>
+              <small>1</small>
+              <durationType>quarter</durationType>
+              <StemDirection>down</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <Accidental>
+                  <subtype>accidentalSharp</subtype>
+                  </Accidental>
+                <pitch>71</pitch>
+                <tpc>19</tpc>
+                <tpc2>21</tpc2>
+                </Note>
+              </Chord>
             <Rest>
               <linked>
                 </linked>
-              <durationType>measure</durationType>
-              <duration>3/4</duration>
+              <durationType>quarter</durationType>
               </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <small>1</small>
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>69</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
             </voice>
           </Measure>
         <Measure>
@@ -97734,6 +98257,13 @@ but start and end on notes as written.</text>
               <linked>
                 </linked>
               </Dynamic>
+            <Spanner type="TextLine">
+              <prev>
+                <location>
+                  <measures>-4</measures>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -105258,7 +105788,6 @@ but start and end on notes as written.</text>
             <BarLine>
               <linked>
                 </linked>
-              <visible>0</visible>
               </BarLine>
             </voice>
           </Measure>
@@ -119971,7 +120500,6 @@ but start and end on notes as written.</text>
             <BarLine>
               <linked>
                 </linked>
-              <visible>0</visible>
               </BarLine>
             </voice>
           </Measure>
