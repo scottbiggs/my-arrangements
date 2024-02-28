@@ -1837,6 +1837,13 @@
             <linkedMain/>
             </Dynamic>
           <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
               <linkedMain/>
@@ -1846,13 +1853,6 @@
                 <measures>1</measures>
                 </location>
               </next>
-            </Spanner>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
             </Spanner>
           <Chord>
             <linkedMain/>
@@ -1876,13 +1876,6 @@
             <linkedMain/>
             </Dynamic>
           <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
               <linkedMain/>
@@ -1892,6 +1885,13 @@
                 <measures>1</measures>
                 </location>
               </next>
+            </Spanner>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
             </Spanner>
           <Chord>
             <linkedMain/>
@@ -8449,11 +8449,10 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
-          <StaffText>
+          <SystemText>
             <linkedMain/>
-            <placement>below</placement>
             <text>V. Sun Bone Sand</text>
-            </StaffText>
+            </SystemText>
           <Rest>
             <linkedMain/>
             <durationType>measure</durationType>
@@ -13715,148 +13714,316 @@ but start and end on notes as written.</text>
         </Measure>
       <Measure>
         <voice>
-          <Rest>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
             <linkedMain/>
-            <durationType>measure</durationType>
-            <duration>1/1</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <linkedMain/>
-            <durationType>measure</durationType>
-            <duration>1/1</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <linkedMain/>
-            <durationType>measure</durationType>
-            <duration>1/1</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <linkedMain/>
-            <durationType>measure</durationType>
-            <duration>1/1</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <linkedMain/>
-            <durationType>measure</durationType>
-            <duration>1/1</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <linkedMain/>
-            <durationType>measure</durationType>
-            <duration>1/1</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <linkedMain/>
-            <durationType>half</durationType>
-            </Rest>
-          <Dynamic>
-            <subtype>mf</subtype>
-            <velocity>80</velocity>
-            <linkedMain/>
-            </Dynamic>
+            </Clef>
           <Spanner type="TextLine">
             <TextLine>
               <endHookType>1</endHookType>
-              <beginText>hrn</beginText>
+              <beginText>bsn</beginText>
               <linkedMain/>
-              <lineWidth>0.1488</lineWidth>
+              <lineWidth>0.215237</lineWidth>
               </TextLine>
             <next>
               <location>
-                <measures>3</measures>
+                <measures>9</measures>
+                <fractions>3/4</fractions>
                 </location>
               </next>
             </Spanner>
           <Chord>
             <linkedMain/>
+            <small>1</small>
             <durationType>half</durationType>
-            <StemDirection>down</StemDirection>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/2</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <small>1</small>
+            <durationType>half</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/2</fractions>
+                  </location>
+                </prev>
+              </Spanner>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <Accidental>
-                <role>1</role>
-                <subtype>accidentalNatural</subtype>
+                <subtype>accidentalFlat</subtype>
                 </Accidental>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <small>1</small>
-              <play>0</play>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Rest>
-            <linkedMain/>
-            <durationType>half</durationType>
-            </Rest>
           <Chord>
             <linkedMain/>
+            <small>1</small>
             <durationType>half</durationType>
-            <StemDirection>down</StemDirection>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/2</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <small>1</small>
+            <durationType>half</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/2</fractions>
+                  </location>
+                </prev>
+              </Spanner>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <Accidental>
                 <subtype>accidentalFlat</subtype>
                 </Accidental>
-              <pitch>66</pitch>
-              <tpc>8</tpc>
-              <small>1</small>
-              <play>0</play>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Rest>
+          <Chord>
             <linkedMain/>
-            <durationType>half</durationType>
-            </Rest>
+            <small>1</small>
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
           <Rest>
             <linkedMain/>
             <durationType>quarter</durationType>
             </Rest>
           <Chord>
             <linkedMain/>
+            <small>1</small>
             <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <Accidental>
                 <subtype>accidentalFlat</subtype>
                 </Accidental>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <small>1</small>
-              <play>0</play>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <linkedMain/>
+            <small>1</small>
+            <durationType>half</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/2</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <small>1</small>
+            <durationType>half</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/2</fractions>
+                  </location>
+                </prev>
+              </Spanner>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <linkedMain/>
+            <small>1</small>
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <small>1</small>
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <linkedMain/>
+            <small>1</small>
+            <durationType>half</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/2</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <small>1</small>
+            <durationType>half</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/2</fractions>
+                  </location>
+                </prev>
+              </Spanner>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <linkedMain/>
+            <small>1</small>
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <small>1</small>
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -13867,34 +14034,138 @@ but start and end on notes as written.</text>
             </Rest>
           <Chord>
             <linkedMain/>
+            <small>1</small>
             <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <small>1</small>
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <Accidental>
                 <subtype>accidentalFlat</subtype>
                 </Accidental>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
-              <small>1</small>
-              <play>0</play>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <linkedMain/>
+            <small>1</small>
+            <durationType>half</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/2</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <small>1</small>
+            <durationType>half</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/2</fractions>
+                  </location>
+                </prev>
+              </Spanner>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <linkedMain/>
+            <small>1</small>
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Chord>
+            <linkedMain/>
+            <small>1</small>
+            <durationType>quarter</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <linkedMain/>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Spanner type="TextLine">
             <prev>
               <location>
-                <measures>-3</measures>
+                <measures>-9</measures>
+                <fractions>-3/4</fractions>
                 </location>
               </prev>
             </Spanner>
           <Rest>
             <linkedMain/>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Clef>
+            <concertClefType>G</concertClefType>
+            <transposingClefType>G</transposingClefType>
+            <linkedMain/>
+            </Clef>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            <linkedMain/>
+            </Dynamic>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -22398,6 +22669,13 @@ but start and end on notes as written.</text>
             <linkedMain/>
             </Dynamic>
           <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
               <linkedMain/>
@@ -22407,13 +22685,6 @@ but start and end on notes as written.</text>
                 <measures>1</measures>
                 </location>
               </next>
-            </Spanner>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
             </Spanner>
           <Tuplet>
             <linkedMain/>
@@ -22799,13 +23070,6 @@ but start and end on notes as written.</text>
             <linkedMain/>
             </Dynamic>
           <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
               <linkedMain/>
@@ -22815,6 +23079,13 @@ but start and end on notes as written.</text>
                 <measures>1</measures>
                 </location>
               </next>
+            </Spanner>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
             </Spanner>
           <Tuplet>
             <linkedMain/>
@@ -43315,9 +43586,6 @@ but start and end on notes as written.</text>
             <linkedMain/>
             <durationType>quarter</durationType>
             </Rest>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
           </voice>
         </Measure>
       <Measure>
@@ -49000,6 +49268,13 @@ but start and end on notes as written.</text>
             <offset x="-0.337584" y="4.6943"/>
             </Dynamic>
           <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
               <linkedMain/>
@@ -49009,13 +49284,6 @@ but start and end on notes as written.</text>
                 <measures>1</measures>
                 </location>
               </next>
-            </Spanner>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
             </Spanner>
           <Chord>
             <linkedMain/>
@@ -49037,13 +49305,6 @@ but start and end on notes as written.</text>
             <linkedMain/>
             </Dynamic>
           <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
               <linkedMain/>
@@ -49053,6 +49314,13 @@ but start and end on notes as written.</text>
                 <measures>1</measures>
                 </location>
               </next>
+            </Spanner>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
             </Spanner>
           <Chord>
             <linkedMain/>
@@ -65170,12 +65438,11 @@ but start and end on notes as written.</text>
           </Measure>
         <Measure>
           <voice>
-            <StaffText>
+            <SystemText>
               <linked>
                 </linked>
-              <placement>below</placement>
               <text>V. Sun Bone Sand</text>
-              </StaffText>
+              </SystemText>
             <Rest>
               <linked>
                 </linked>
@@ -65187,13 +65454,12 @@ but start and end on notes as written.</text>
         <Measure len="76/4">
           <multiMeasureRest>19</multiMeasureRest>
           <voice>
-            <StaffText>
+            <SystemText>
               <linked>
                 <indexDiff>-2</indexDiff>
                 </linked>
-              <placement>below</placement>
               <text>V. Sun Bone Sand</text>
-              </StaffText>
+              </SystemText>
             <Rest>
               <durationType>measure</durationType>
               <duration>76/4</duration>
@@ -68493,6 +68759,9 @@ but start and end on notes as written.</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -69020,6 +69289,9 @@ but start and end on notes as written.</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -69598,6 +69870,9 @@ but start and end on notes as written.</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -70093,6 +70368,9 @@ but start and end on notes as written.</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -70513,6 +70791,9 @@ but start and end on notes as written.</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -70972,6 +71253,9 @@ but start and end on notes as written.</text>
           </Measure>
         <Measure len="51/4">
           <multiMeasureRest>17</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Tempo>
               <tempo>1</tempo>
@@ -71150,6 +71434,9 @@ but start and end on notes as written.</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -71187,8 +71474,8 @@ but start and end on notes as written.</text>
               </Rest>
             </voice>
           </Measure>
-        <Measure len="140/4">
-          <multiMeasureRest>35</multiMeasureRest>
+        <Measure len="116/4">
+          <multiMeasureRest>29</multiMeasureRest>
           <voice>
             <TimeSig>
               <linked>
@@ -71496,88 +71783,24 @@ but start and end on notes as written.</text>
           </Measure>
         <Measure>
           <voice>
-            <Rest>
+            <Clef>
+              <concertClefType>F</concertClefType>
+              <transposingClefType>F</transposingClefType>
               <linked>
                 </linked>
-              <durationType>measure</durationType>
-              <duration>1/1</duration>
-              </Rest>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>measure</durationType>
-              <duration>1/1</duration>
-              </Rest>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>measure</durationType>
-              <duration>1/1</duration>
-              </Rest>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>measure</durationType>
-              <duration>1/1</duration>
-              </Rest>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>measure</durationType>
-              <duration>1/1</duration>
-              </Rest>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>measure</durationType>
-              <duration>1/1</duration>
-              </Rest>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>half</durationType>
-              </Rest>
-            <Dynamic>
-              <subtype>mf</subtype>
-              <velocity>80</velocity>
-              <linked>
-                </linked>
-              </Dynamic>
+              </Clef>
             <Spanner type="TextLine">
               <TextLine>
                 <endHookType>1</endHookType>
-                <beginText>hrn</beginText>
+                <beginText>bsn</beginText>
                 <linked>
                   </linked>
-                <lineWidth>0.1488</lineWidth>
+                <lineWidth>0.14761</lineWidth>
                 </TextLine>
               <next>
                 <location>
-                  <measures>3</measures>
+                  <measures>9</measures>
+                  <fractions>3/4</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -71585,16 +71808,47 @@ but start and end on notes as written.</text>
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <StemDirection>down</StemDirection>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    <fractions>1/2</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
+                <small>1</small>
+                <play>0</play>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>half</durationType>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <fractions>-1/2</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   </linked>
                 <Accidental>
-                  <role>1</role>
-                  <subtype>accidentalNatural</subtype>
+                  <subtype>accidentalFlat</subtype>
                   </Accidental>
-                <pitch>65</pitch>
-                <tpc>13</tpc>
+                <pitch>49</pitch>
+                <tpc>9</tpc>
                 <small>1</small>
                 <play>0</play>
                 </Note>
@@ -71603,24 +71857,51 @@ but start and end on notes as written.</text>
           </Measure>
         <Measure>
           <voice>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>half</durationType>
-              </Rest>
             <Chord>
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <StemDirection>down</StemDirection>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    <fractions>1/2</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
+                <small>1</small>
+                <play>0</play>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>half</durationType>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <fractions>-1/2</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   </linked>
                 <Accidental>
                   <subtype>accidentalFlat</subtype>
                   </Accidental>
-                <pitch>66</pitch>
-                <tpc>8</tpc>
+                <pitch>49</pitch>
+                <tpc>9</tpc>
                 <small>1</small>
                 <play>0</play>
                 </Note>
@@ -71629,11 +71910,20 @@ but start and end on notes as written.</text>
           </Measure>
         <Measure>
           <voice>
-            <Rest>
+            <Chord>
               <linked>
                 </linked>
-              <durationType>half</durationType>
-              </Rest>
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
+                <small>1</small>
+                <play>0</play>
+                </Note>
+              </Chord>
             <Rest>
               <linked>
                 </linked>
@@ -71643,19 +71933,223 @@ but start and end on notes as written.</text>
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <StemDirection>down</StemDirection>
+              <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   </linked>
                 <Accidental>
                   <subtype>accidentalFlat</subtype>
                   </Accidental>
-                <pitch>70</pitch>
-                <tpc>12</tpc>
+                <pitch>49</pitch>
+                <tpc>9</tpc>
                 <small>1</small>
                 <play>0</play>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>half</durationType>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    <fractions>1/2</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
+                <small>1</small>
+                <play>0</play>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>half</durationType>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <fractions>-1/2</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
+                <pitch>49</pitch>
+                <tpc>9</tpc>
+                <small>1</small>
+                <play>0</play>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
+                <small>1</small>
+                <play>0</play>
+                </Note>
+              </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
+                <pitch>49</pitch>
+                <tpc>9</tpc>
+                <small>1</small>
+                <play>0</play>
+                </Note>
+              </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
+            </voice>
+          </Measure>
+        <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
+          <voice>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>half</durationType>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    <fractions>1/2</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
+                <small>1</small>
+                <play>0</play>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>half</durationType>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <fractions>-1/2</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
+                <pitch>49</pitch>
+                <tpc>9</tpc>
+                <small>1</small>
+                <play>0</play>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
+                <small>1</small>
+                <play>0</play>
+                </Note>
+              </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
+                <pitch>49</pitch>
+                <tpc>9</tpc>
+                <small>1</small>
+                <play>0</play>
+                </Note>
+              </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             </voice>
           </Measure>
         <Measure>
@@ -71669,15 +72163,127 @@ but start and end on notes as written.</text>
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <StemDirection>down</StemDirection>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
+                <small>1</small>
+                <play>0</play>
+                </Note>
+              </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
               <Note>
                 <linked>
                   </linked>
                 <Accidental>
                   <subtype>accidentalFlat</subtype>
                   </Accidental>
-                <pitch>68</pitch>
-                <tpc>10</tpc>
+                <pitch>49</pitch>
+                <tpc>9</tpc>
+                <small>1</small>
+                <play>0</play>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>half</durationType>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    <fractions>1/2</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
+                <small>1</small>
+                <play>0</play>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>half</durationType>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <fractions>-1/2</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
+                <pitch>49</pitch>
+                <tpc>9</tpc>
+                <small>1</small>
+                <play>0</play>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
+                <small>1</small>
+                <play>0</play>
+                </Note>
+              </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              <StemDirection>up</StemDirection>
+              <Note>
+                <linked>
+                  </linked>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
+                <pitch>49</pitch>
+                <tpc>9</tpc>
                 <small>1</small>
                 <play>0</play>
                 </Note>
@@ -71685,19 +72291,32 @@ but start and end on notes as written.</text>
             <Spanner type="TextLine">
               <prev>
                 <location>
-                  <measures>-3</measures>
+                  <measures>-9</measures>
+                  <fractions>-3/4</fractions>
                   </location>
                 </prev>
               </Spanner>
             <Rest>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <durationType>quarter</durationType>
               </Rest>
             </voice>
           </Measure>
         <Measure>
           <voice>
+            <Clef>
+              <concertClefType>G</concertClefType>
+              <transposingClefType>G</transposingClefType>
+              <linked>
+                </linked>
+              </Clef>
+            <Dynamic>
+              <subtype>mf</subtype>
+              <velocity>80</velocity>
+              <linked>
+                </linked>
+              </Dynamic>
             <Chord>
               <linked>
                 </linked>
@@ -71737,6 +72356,9 @@ but start and end on notes as written.</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -71754,8 +72376,18 @@ but start and end on notes as written.</text>
           </Measure>
         <Measure>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>V. Sun Bone Sand</text>
+              </SystemText>
             <Rest>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>measure</durationType>
               <duration>1/1</duration>
@@ -72133,6 +72765,9 @@ but start and end on notes as written.</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -72645,6 +73280,9 @@ but start and end on notes as written.</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -72977,6 +73615,9 @@ but start and end on notes as written.</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -80516,8 +81157,18 @@ but start and end on notes as written.</text>
           </Measure>
         <Measure>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-4</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>V. Sun Bone Sand</text>
+              </SystemText>
             <Rest>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>measure</durationType>
               <duration>1/1</duration>
@@ -81477,9 +82128,6 @@ but start and end on notes as written.</text>
                 </linked>
               <durationType>quarter</durationType>
               </Rest>
-            <location>
-              <fractions>1/4</fractions>
-              </location>
             </voice>
           </Measure>
         <Measure>
@@ -85687,8 +86335,18 @@ but start and end on notes as written.</text>
           </Measure>
         <Measure>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>V. Sun Bone Sand</text>
+              </SystemText>
             <Rest>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>measure</durationType>
               <duration>4/4</duration>
@@ -110210,8 +110868,18 @@ but start and end on notes as written.</text>
           </Measure>
         <Measure>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>V. Sun Bone Sand</text>
+              </SystemText>
             <Rest>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>measure</durationType>
               <duration>4/4</duration>
@@ -110221,6 +110889,15 @@ but start and end on notes as written.</text>
         <Measure len="52/4">
           <multiMeasureRest>13</multiMeasureRest>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>V. Sun Bone Sand</text>
+              </SystemText>
             <Rest>
               <durationType>measure</durationType>
               <duration>52/4</duration>
