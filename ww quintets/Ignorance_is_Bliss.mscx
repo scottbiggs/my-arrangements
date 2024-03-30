@@ -1230,6 +1230,7 @@
       <Measure>
         <voice>
           <RehearsalMark>
+            <offset x="0.2" y="-2.1"/>
             <text>D</text>
             </RehearsalMark>
           <Rest>
@@ -6555,6 +6556,9 @@
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <text>I'll</text>
+              </Lyrics>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
@@ -6563,6 +6567,9 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Lyrics>
+              <text>say</text>
+              </Lyrics>
             <Spanner type="Slur">
               <Slur>
                 </Slur>
@@ -6571,6 +6578,24 @@
                   <fractions>1/16</fractions>
                   </location>
                 </next>
+              </Spanner>
+            <Note>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              <tpc2>21</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Lyrics>
+              <text>it</text>
+              </Lyrics>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/16</fractions>
+                  </location>
+                </prev>
               </Spanner>
             <Note>
               <Accidental>
@@ -6582,22 +6607,11 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/16</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              <tpc2>19</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>a</text>
+              </Lyrics>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
               </Articulation>
@@ -6617,6 +6631,10 @@
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>gain!</text>
+              </Lyrics>
             <Articulation>
               <subtype>articAccentAbove</subtype>
               </Articulation>
@@ -6712,9 +6730,9 @@
               <text>have</text>
               </Lyrics>
             <Note>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             <ChordLine>
               <subtype>4</subtype>
@@ -6728,9 +6746,12 @@
               <text>n't</text>
               </Lyrics>
             <Note>
-              <pitch>73</pitch>
-              <tpc>21</tpc>
-              <tpc2>23</tpc2>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
