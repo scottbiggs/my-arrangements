@@ -12079,12 +12079,9 @@
             <durationType>32nd</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>56</pitch>
-              <tpc>22</tpc>
-              <tpc2>24</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -12547,12 +12544,9 @@
               </Spanner>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>75</pitch>
-              <tpc>23</tpc>
-              <tpc2>25</tpc2>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -30162,12 +30156,9 @@
               <Note>
                 <linked>
                   </linked>
-                <Accidental>
-                  <subtype>accidentalSharp</subtype>
-                  </Accidental>
-                <pitch>56</pitch>
-                <tpc>22</tpc>
-                <tpc2>24</tpc2>
+                <pitch>55</pitch>
+                <tpc>15</tpc>
+                <tpc2>17</tpc2>
                 </Note>
               </Chord>
             <Chord>
@@ -30721,12 +30712,9 @@
               <Note>
                 <linked>
                   </linked>
-                <Accidental>
-                  <subtype>accidentalSharp</subtype>
-                  </Accidental>
-                <pitch>75</pitch>
-                <tpc>23</tpc>
-                <tpc2>25</tpc2>
+                <pitch>74</pitch>
+                <tpc>16</tpc>
+                <tpc2>18</tpc2>
                 </Note>
               </Chord>
             </voice>
