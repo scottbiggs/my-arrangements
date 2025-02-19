@@ -588,6 +588,11 @@
         </Measure>
       <Measure>
         <voice>
+          <TimeSig>
+            <linkedMain/>
+            <sigN>5</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Chord>
             <linkedMain/>
             <durationType>16th</durationType>
@@ -631,9 +636,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Segment>
-            <leadingSpace>1</leadingSpace>
-            </Segment>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -671,13 +673,9 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            <linkedMain/>
-            </Fermata>
           <Chord>
             <linkedMain/>
-            <durationType>quarter</durationType>
+            <durationType>half</durationType>
             <Spanner type="Slur">
               <prev>
                 <location>
@@ -695,11 +693,6 @@
         </Measure>
       <Measure>
         <voice>
-          <TimeSig>
-            <linkedMain/>
-            <sigN>5</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
           <Fermata>
             <subtype>fermataAbove</subtype>
             <linkedMain/>
@@ -741,8 +734,11 @@
             </Chord>
           <Rest>
             <linkedMain/>
-            <dots>1</dots>
             <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>16th</durationType>
             </Rest>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -3917,6 +3913,11 @@
         </Measure>
       <Measure>
         <voice>
+          <TimeSig>
+            <linkedMain/>
+            <sigN>5</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Chord>
             <linkedMain/>
             <durationType>16th</durationType>
@@ -3997,13 +3998,9 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            <linkedMain/>
-            </Fermata>
           <Chord>
             <linkedMain/>
-            <durationType>quarter</durationType>
+            <durationType>half</durationType>
             <Spanner type="Slur">
               <prev>
                 <location>
@@ -4021,11 +4018,6 @@
         </Measure>
       <Measure>
         <voice>
-          <TimeSig>
-            <linkedMain/>
-            <sigN>5</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
           <Fermata>
             <subtype>fermataAbove</subtype>
             <linkedMain/>
@@ -4067,8 +4059,11 @@
             </Chord>
           <Rest>
             <linkedMain/>
-            <dots>1</dots>
             <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>16th</durationType>
             </Rest>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -6831,15 +6826,43 @@
         </Measure>
       <Measure>
         <voice>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
+          <TimeSig>
             <linkedMain/>
-            </Fermata>
+            <sigN>5</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Chord>
             <linkedMain/>
             <durationType>whole</durationType>
             <Note>
               <linkedMain/>
+              <Spanner type="Tie">
+                <Tie>
+                  <linkedMain/>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/1</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <tpc2>15</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            <Note>
+              <linkedMain/>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/1</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <pitch>64</pitch>
               <tpc>18</tpc>
               <tpc2>15</tpc2>
@@ -6849,11 +6872,6 @@
         </Measure>
       <Measure>
         <voice>
-          <TimeSig>
-            <linkedMain/>
-            <sigN>5</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
           <Fermata>
             <subtype>fermataAbove</subtype>
             <linkedMain/>
@@ -6870,15 +6888,6 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                <linkedMain/>
-                </Slur>
-              <next>
-                <location>
-                  </location>
-                </next>
-              </Spanner>
             <acciaccatura/>
             <Note>
               <linkedMain/>
@@ -6890,13 +6899,6 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <grace>0</grace>
-                  </location>
-                </prev>
-              </Spanner>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
               <linkedMain/>
@@ -8969,20 +8971,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Rest>
-            <linkedMain/>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
           <TimeSig>
             <linkedMain/>
             <sigN>5</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Rest>
+            <linkedMain/>
+            <durationType>measure</durationType>
+            <duration>5/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Fermata>
             <subtype>fermataAbove</subtype>
             <linkedMain/>
@@ -9005,11 +9007,7 @@
             </Rest>
           <Rest>
             <linkedMain/>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>quarter</durationType>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -10783,15 +10781,42 @@
         </Measure>
       <Measure>
         <voice>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
+          <TimeSig>
             <linkedMain/>
-            </Fermata>
+            <sigN>5</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Chord>
             <linkedMain/>
             <durationType>whole</durationType>
             <Note>
               <linkedMain/>
+              <Spanner type="Tie">
+                <Tie>
+                  <linkedMain/>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/1</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            <Note>
+              <linkedMain/>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/1</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
@@ -10800,11 +10825,6 @@
         </Measure>
       <Measure>
         <voice>
-          <TimeSig>
-            <linkedMain/>
-            <sigN>5</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
           <Fermata>
             <subtype>fermataAbove</subtype>
             <linkedMain/>
@@ -10846,8 +10866,11 @@
             </Chord>
           <Rest>
             <linkedMain/>
-            <dots>1</dots>
             <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>16th</durationType>
             </Rest>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -10859,11 +10882,7 @@
             </Rest>
           <Rest>
             <linkedMain/>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>quarter</durationType>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -12761,6 +12780,12 @@
           </Measure>
         <Measure>
           <voice>
+            <TimeSig>
+              <linked>
+                </linked>
+              <sigN>5</sigN>
+              <sigD>4</sigD>
+              </TimeSig>
             <Chord>
               <linked>
                 </linked>
@@ -12781,6 +12806,8 @@
                 <linked>
                   </linked>
                 </Articulation>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -12793,6 +12820,8 @@
                 </linked>
               <dots>1</dots>
               <durationType>eighth</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -12811,13 +12840,12 @@
                 <tpc>15</tpc>
                 </Note>
               </Chord>
-            <Segment>
-              <leadingSpace>1</leadingSpace>
-              </Segment>
             <Chord>
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -12836,6 +12864,8 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -12850,6 +12880,8 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -12857,15 +12889,10 @@
                 <tpc>18</tpc>
                 </Note>
               </Chord>
-            <Fermata>
-              <subtype>fermataAbove</subtype>
-              <linked>
-                </linked>
-              </Fermata>
             <Chord>
               <linked>
                 </linked>
-              <durationType>quarter</durationType>
+              <durationType>half</durationType>
               <Spanner type="Slur">
                 <prev>
                   <location>
@@ -12873,6 +12900,8 @@
                     </location>
                   </prev>
                 </Spanner>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -12884,12 +12913,6 @@
           </Measure>
         <Measure>
           <voice>
-            <TimeSig>
-              <linked>
-                </linked>
-              <sigN>5</sigN>
-              <sigD>4</sigD>
-              </TimeSig>
             <Fermata>
               <subtype>fermataAbove</subtype>
               <linked>
@@ -12899,6 +12922,8 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -12921,6 +12946,8 @@
               <linked>
                 </linked>
               <durationType>16th</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -12938,8 +12965,12 @@
             <Rest>
               <linked>
                 </linked>
-              <dots>1</dots>
               <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>16th</durationType>
               </Rest>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -12961,6 +12992,8 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -12972,9 +13005,15 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
+                <Accidental>
+                  <role>1</role>
+                  <subtype>accidentalSharp</subtype>
+                  </Accidental>
                 <pitch>66</pitch>
                 <tpc>20</tpc>
                 </Note>
@@ -16793,6 +16832,12 @@
           </Measure>
         <Measure>
           <voice>
+            <TimeSig>
+              <linked>
+                </linked>
+              <sigN>5</sigN>
+              <sigD>4</sigD>
+              </TimeSig>
             <Chord>
               <linked>
                 </linked>
@@ -16813,6 +16858,8 @@
                 <linked>
                   </linked>
                 </Articulation>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -16825,6 +16872,8 @@
                 </linked>
               <dots>1</dots>
               <durationType>eighth</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -16843,13 +16892,12 @@
                 <tpc>15</tpc>
                 </Note>
               </Chord>
-            <Segment>
-              <leadingSpace>1</leadingSpace>
-              </Segment>
             <Chord>
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -16868,6 +16916,8 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -16882,6 +16932,8 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -16889,15 +16941,10 @@
                 <tpc>18</tpc>
                 </Note>
               </Chord>
-            <Fermata>
-              <subtype>fermataAbove</subtype>
-              <linked>
-                </linked>
-              </Fermata>
             <Chord>
               <linked>
                 </linked>
-              <durationType>quarter</durationType>
+              <durationType>half</durationType>
               <Spanner type="Slur">
                 <prev>
                   <location>
@@ -16905,6 +16952,8 @@
                     </location>
                   </prev>
                 </Spanner>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -16916,12 +16965,6 @@
           </Measure>
         <Measure>
           <voice>
-            <TimeSig>
-              <linked>
-                </linked>
-              <sigN>5</sigN>
-              <sigD>4</sigD>
-              </TimeSig>
             <Fermata>
               <subtype>fermataAbove</subtype>
               <linked>
@@ -16931,6 +16974,8 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -16953,6 +16998,8 @@
               <linked>
                 </linked>
               <durationType>16th</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -16970,8 +17017,12 @@
             <Rest>
               <linked>
                 </linked>
-              <dots>1</dots>
               <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>16th</durationType>
               </Rest>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -16993,6 +17044,8 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -17004,6 +17057,8 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -20445,11 +20500,12 @@
           </Measure>
         <Measure>
           <voice>
-            <Fermata>
-              <subtype>fermataAbove</subtype>
+            <TimeSig>
               <linked>
                 </linked>
-              </Fermata>
+              <sigN>5</sigN>
+              <sigD>4</sigD>
+              </TimeSig>
             <Chord>
               <linked>
                 </linked>
@@ -20457,6 +20513,36 @@
               <Note>
                 <linked>
                   </linked>
+                <Spanner type="Tie">
+                  <Tie>
+                    <linked>
+                      </linked>
+                    </Tie>
+                  <next>
+                    <location>
+                      <fractions>1/1</fractions>
+                      </location>
+                    </next>
+                  </Spanner>
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                <tpc2>15</tpc2>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <Spanner type="Tie">
+                  <prev>
+                    <location>
+                      <fractions>-1/1</fractions>
+                      </location>
+                    </prev>
+                  </Spanner>
                 <pitch>64</pitch>
                 <tpc>18</tpc>
                 <tpc2>15</tpc2>
@@ -20466,12 +20552,6 @@
           </Measure>
         <Measure>
           <voice>
-            <TimeSig>
-              <linked>
-                </linked>
-              <sigN>5</sigN>
-              <sigD>4</sigD>
-              </TimeSig>
             <Fermata>
               <subtype>fermataAbove</subtype>
               <linked>
@@ -20492,17 +20572,9 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Spanner type="Slur">
-                <Slur>
-                  <linked>
-                    </linked>
-                  </Slur>
-                <next>
-                  <location>
-                    </location>
-                  </next>
-                </Spanner>
               <acciaccatura/>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -20515,13 +20587,6 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Spanner type="Slur">
-                <prev>
-                  <location>
-                    <grace>0</grace>
-                    </location>
-                  </prev>
-                </Spanner>
               <Articulation>
                 <subtype>articStaccatoAbove</subtype>
                 <linked>
@@ -20532,6 +20597,8 @@
                 <linked>
                   </linked>
                 </Articulation>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -20554,6 +20621,8 @@
                 <linked>
                   </linked>
                 </Articulation>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -20582,6 +20651,8 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -23203,25 +23274,6 @@
               </Rest>
             </voice>
           </Measure>
-        <Measure len="8/4">
-          <multiMeasureRest>2</multiMeasureRest>
-          <voice>
-            <Rest>
-              <durationType>measure</durationType>
-              <duration>8/4</duration>
-              </Rest>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>measure</durationType>
-              <duration>4/4</duration>
-              </Rest>
-            </voice>
-          </Measure>
         <Measure>
           <voice>
             <TimeSig>
@@ -23230,6 +23282,16 @@
               <sigN>5</sigN>
               <sigD>4</sigD>
               </TimeSig>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>measure</durationType>
+              <duration>5/4</duration>
+              </Rest>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
               <linked>
@@ -23258,12 +23320,7 @@
             <Rest>
               <linked>
                 </linked>
-              <durationType>quarter</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>quarter</durationType>
+              <durationType>half</durationType>
               </Rest>
             </voice>
           </Measure>
@@ -25601,11 +25658,12 @@
           </Measure>
         <Measure>
           <voice>
-            <Fermata>
-              <subtype>fermataAbove</subtype>
+            <TimeSig>
               <linked>
                 </linked>
-              </Fermata>
+              <sigN>5</sigN>
+              <sigD>4</sigD>
+              </TimeSig>
             <Chord>
               <linked>
                 </linked>
@@ -25613,6 +25671,35 @@
               <Note>
                 <linked>
                   </linked>
+                <Spanner type="Tie">
+                  <Tie>
+                    <linked>
+                      </linked>
+                    </Tie>
+                  <next>
+                    <location>
+                      <fractions>1/1</fractions>
+                      </location>
+                    </next>
+                  </Spanner>
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <Spanner type="Tie">
+                  <prev>
+                    <location>
+                      <fractions>-1/1</fractions>
+                      </location>
+                    </prev>
+                  </Spanner>
                 <pitch>64</pitch>
                 <tpc>18</tpc>
                 </Note>
@@ -25621,12 +25708,6 @@
           </Measure>
         <Measure>
           <voice>
-            <TimeSig>
-              <linked>
-                </linked>
-              <sigN>5</sigN>
-              <sigD>4</sigD>
-              </TimeSig>
             <Fermata>
               <subtype>fermataAbove</subtype>
               <linked>
@@ -25647,6 +25728,8 @@
                     </location>
                   </next>
                 </Spanner>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -25665,6 +25748,8 @@
                     </location>
                   </prev>
                 </Spanner>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -25675,8 +25760,12 @@
             <Rest>
               <linked>
                 </linked>
-              <dots>1</dots>
               <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>16th</durationType>
               </Rest>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -25691,12 +25780,7 @@
             <Rest>
               <linked>
                 </linked>
-              <durationType>quarter</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>quarter</durationType>
+              <durationType>half</durationType>
               </Rest>
             </voice>
           </Measure>
