@@ -123,7 +123,6 @@
           <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
-          <mute>1</mute>
           <midiPort>0</midiPort>
           <midiChannel>0</midiChannel>
           </Channel>
@@ -178,7 +177,6 @@
           <controller ctrl="32" value="17"/>
           <program value="68"/>
           <synti>Fluid</synti>
-          <mute>1</mute>
           <midiPort>0</midiPort>
           <midiChannel>1</midiChannel>
           </Channel>
@@ -244,6 +242,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="71"/>
           <synti>Fluid</synti>
@@ -316,6 +315,7 @@
           <controller ctrl="32" value="17"/>
           <program value="71"/>
           <synti>Fluid</synti>
+          <mute>1</mute>
           <midiPort>0</midiPort>
           <midiChannel>2</midiChannel>
           </Channel>
@@ -385,7 +385,6 @@
           <controller ctrl="32" value="17"/>
           <program value="60"/>
           <synti>Fluid</synti>
-          <mute>1</mute>
           <midiPort>0</midiPort>
           <midiChannel>4</midiChannel>
           </Channel>
@@ -394,7 +393,6 @@
           <controller ctrl="32" value="17"/>
           <program value="59"/>
           <synti>Fluid</synti>
-          <mute>1</mute>
           <midiPort>0</midiPort>
           <midiChannel>5</midiChannel>
           </Channel>
@@ -450,7 +448,6 @@
           <controller ctrl="32" value="17"/>
           <program value="70"/>
           <synti>Fluid</synti>
-          <mute>1</mute>
           <midiPort>0</midiPort>
           <midiChannel>3</midiChannel>
           </Channel>
@@ -27132,8 +27129,6 @@
                     </location>
                   </next>
                 </Spanner>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -29767,8 +29762,6 @@
                 <linked>
                   </linked>
                 </Articulation>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -31938,6 +31931,7 @@
             <gateTime>100</gateTime>
             </Articulation>
           <Channel>
+            <controller ctrl="0" value="0"/>
             <controller ctrl="32" value="17"/>
             <program value="71"/>
             <synti>Fluid</synti>
