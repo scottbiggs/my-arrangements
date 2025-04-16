@@ -1721,6 +1721,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -2089,6 +2090,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -2186,7 +2188,11 @@
             </Chord>
           <Rest>
             <linkedMain/>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>16th</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -5088,6 +5094,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -5447,6 +5454,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -7028,6 +7036,15 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <linkedMain/>
+                </Slur>
+              <next>
+                <location>
+                  </location>
+                </next>
+              </Spanner>
             <acciaccatura/>
             <Note>
               <linkedMain/>
@@ -7039,6 +7056,13 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <grace>0</grace>
+                  </location>
+                </prev>
+              </Spanner>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
               <linkedMain/>
@@ -7465,6 +7489,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -7475,6 +7500,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -7585,6 +7611,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -7737,6 +7764,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -7847,6 +7875,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -9955,6 +9984,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -10065,6 +10095,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -10217,6 +10248,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -10327,6 +10359,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -12414,7 +12447,11 @@
             </Chord>
           <Rest>
             <linkedMain/>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>16th</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -12617,7 +12654,11 @@
             </Chord>
           <Rest>
             <linkedMain/>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>16th</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -14315,6 +14356,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -14331,7 +14373,11 @@
             </Chord>
           <Rest>
             <linkedMain/>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>16th</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -14525,7 +14571,11 @@
             </Chord>
           <Rest>
             <linkedMain/>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>16th</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -17338,6 +17388,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>mid</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -17779,6 +17830,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>mid</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -17890,7 +17942,12 @@
             <Rest>
               <linked>
                 </linked>
-              <durationType>eighth</durationType>
+              <durationType>16th</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>16th</durationType>
               </Rest>
             </voice>
           </Measure>
@@ -21414,6 +21471,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>mid</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -21845,6 +21903,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>mid</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -24461,6 +24520,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>mid</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -24597,6 +24657,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>mid</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -24787,6 +24848,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>mid</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -24923,6 +24985,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>mid</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -27617,7 +27680,12 @@
             <Rest>
               <linked>
                 </linked>
-              <durationType>eighth</durationType>
+              <durationType>16th</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>16th</durationType>
               </Rest>
             </voice>
           </Measure>
@@ -27856,7 +27924,12 @@
             <Rest>
               <linked>
                 </linked>
-              <durationType>eighth</durationType>
+              <durationType>16th</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>16th</durationType>
               </Rest>
             </voice>
           </Measure>
@@ -30116,6 +30189,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>begin</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -30134,7 +30208,12 @@
             <Rest>
               <linked>
                 </linked>
-              <durationType>eighth</durationType>
+              <durationType>16th</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>16th</durationType>
               </Rest>
             </voice>
           </Measure>
@@ -30367,7 +30446,12 @@
             <Rest>
               <linked>
                 </linked>
-              <durationType>eighth</durationType>
+              <durationType>16th</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>16th</durationType>
               </Rest>
             </voice>
           </Measure>
@@ -32119,6 +32203,16 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    </location>
+                  </next>
+                </Spanner>
               <acciaccatura/>
               <Note>
                 <linked>
@@ -32132,6 +32226,13 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <grace>0</grace>
+                    </location>
+                  </prev>
+                </Spanner>
               <Articulation>
                 <subtype>articStaccatoAbove</subtype>
                 <linked>
@@ -32665,6 +32766,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>mid</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -32677,6 +32779,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>mid</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -32807,6 +32910,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>mid</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -32996,6 +33100,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>mid</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -33126,6 +33231,7 @@
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>mid</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
