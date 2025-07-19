@@ -854,6 +854,10 @@
             <root>18</root>
             <name>m11</name>
             </Harmony>
+          <Harmony>
+            <root>18</root>
+            <name>7sus4</name>
+            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
@@ -923,6 +927,11 @@
             <name>m</name>
             <base>17</base>
             </Harmony>
+          <Harmony>
+            <root>12</root>
+            <base>17</base>
+            <baseCase>1</baseCase>
+            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
@@ -940,6 +949,9 @@
             <root>15</root>
             <name>m</name>
             <base>12</base>
+            </Harmony>
+          <Harmony>
+            <root>12</root>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -2089,6 +2101,9 @@
         </Measure>
       <Measure>
         <voice>
+          <KeySig>
+            <accidental>0</accidental>
+            </KeySig>
           <RehearsalMark>
             <text>C</text>
             </RehearsalMark>
@@ -2382,8 +2397,8 @@
       <Measure>
         <Marker>
           <style>Repeat Text Right</style>
-          <text>To Coda</text>
-          <label>coda</label>
+          <text>Fine</text>
+          <label>fine</label>
           </Marker>
         <voice>
           <TimeSig>
@@ -2395,7 +2410,7 @@
             <duration>4/4</duration>
             </Rest>
           <BarLine>
-            <subtype>double</subtype>
+            <subtype>end</subtype>
             </BarLine>
           </voice>
         </Measure>
@@ -2579,8 +2594,13 @@
             <root>17</root>
             </Harmony>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <durationType>half</durationType>
+            </Rest>
+          <Harmony>
+            <name>?</name>
+            </Harmony>
+          <Rest>
+            <durationType>half</durationType>
             </Rest>
           <BarLine>
             <subtype>double</subtype>
@@ -3092,19 +3112,6 @@
             </BarLine>
           </voice>
         </Measure>
-      <Measure>
-        <Marker>
-          <style>Repeat Text Left</style>
-          <text><sym>coda</sym></text>
-          <label>codab</label>
-          </Marker>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
       </Staff>
     <Staff id="2">
       <Measure>
@@ -3117,8 +3124,8 @@
             <sigD>4</sigD>
             </TimeSig>
           <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>33</velocity>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
             </Dynamic>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4067,7 +4074,7 @@
             <duration>4/4</duration>
             </Rest>
           <BarLine>
-            <subtype>double</subtype>
+            <subtype>end</subtype>
             <span>1</span>
             </BarLine>
           </voice>
@@ -5649,14 +5656,6 @@
             </BarLine>
           </voice>
         </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
       </Staff>
     <Staff id="3">
       <Measure>
@@ -6779,7 +6778,7 @@
             <duration>4/4</duration>
             </Rest>
           <BarLine>
-            <subtype>double</subtype>
+            <subtype>end</subtype>
             <span>1</span>
             </BarLine>
           </voice>
@@ -8310,14 +8309,6 @@
             </BarLine>
           </voice>
         </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
       </Staff>
     <Staff id="4">
       <Measure>
@@ -9766,7 +9757,7 @@
             <duration>4/4</duration>
             </Rest>
           <BarLine>
-            <subtype>double</subtype>
+            <subtype>end</subtype>
             </BarLine>
           </voice>
         </Measure>
@@ -11202,14 +11193,6 @@
             </BarLine>
           </voice>
         </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
       </Staff>
     <Staff id="5">
       <Measure>
@@ -12214,7 +12197,7 @@
             <duration>4/4</duration>
             </Rest>
           <BarLine>
-            <subtype>double</subtype>
+            <subtype>end</subtype>
             </BarLine>
           </voice>
         </Measure>
@@ -13743,14 +13726,6 @@
           <BarLine>
             <subtype>double</subtype>
             </BarLine>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
           </voice>
         </Measure>
       </Staff>
@@ -15455,7 +15430,7 @@
             <duration>4/4</duration>
             </Rest>
           <BarLine>
-            <subtype>double</subtype>
+            <subtype>end</subtype>
             </BarLine>
           </voice>
         </Measure>
@@ -16062,14 +16037,6 @@
             </BarLine>
           </voice>
         </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
       </Staff>
     <Staff id="7">
       <Measure>
@@ -16086,6 +16053,14 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>14</root>
+            <name>m</name>
+            </Harmony>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -16138,6 +16113,11 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>14</root>
+            <name>m</name>
+            <base>12</base>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -16201,6 +16181,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>13</root>
+            <name>9</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -16269,6 +16253,12 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>13</root>
+            <name>9</name>
+            <base>17</base>
+            <baseCase>1</baseCase>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -16290,6 +16280,13 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>14</root>
+            <rootCase>1</rootCase>
+            <name>m</name>
+            <base>12</base>
+            <baseCase>1</baseCase>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -16308,19 +16305,21 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <Note>
               <pitch>46</pitch>
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>16th</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            <rootCase>1</rootCase>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -16373,6 +16372,13 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>15</root>
+            <rootCase>1</rootCase>
+            <name>m</name>
+            <base>17</base>
+            <baseCase>1</baseCase>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -16394,6 +16400,13 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>15</root>
+            <rootCase>1</rootCase>
+            <name>m</name>
+            <base>12</base>
+            <baseCase>1</baseCase>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -16563,6 +16576,11 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            <rootCase>1</rootCase>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -16615,6 +16633,13 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>15</root>
+            <rootCase>1</rootCase>
+            <name>m</name>
+            <base>17</base>
+            <baseCase>1</baseCase>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -16643,6 +16668,12 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>15</root>
+            <rootCase>1</rootCase>
+            <name>m</name>
+            <base>12</base>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -16818,23 +16849,138 @@
       <Measure>
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
             <durationType>half</durationType>
+            </Rest>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>quarter</durationType>
             </Rest>
           <Rest>
             <durationType>16th</durationType>
@@ -16975,6 +17121,9 @@
         </Measure>
       <Measure>
         <voice>
+          <KeySig>
+            <accidental>0</accidental>
+            </KeySig>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -17262,203 +17411,8 @@
             <duration>4/4</duration>
             </Rest>
           <BarLine>
-            <subtype>double</subtype>
+            <subtype>end</subtype>
             </BarLine>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -17542,6 +17496,193 @@
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
       </Staff>
