@@ -13961,15 +13961,15 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            <linkedMain/>
-            </Fermata>
           <StaffText>
             <linkedMain/>
             <offset x="-0.15441" y="-2.42954"/>
             <text>fl</text>
             </StaffText>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            <linkedMain/>
+            </Fermata>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -21326,7 +21326,7 @@
             </Text>
           <Text>
             <style>Instrument Name (Part)</style>
-            <text>flute2</text>
+            <text>flute</text>
             </Text>
           <Text>
             <linked>
@@ -24849,17 +24849,17 @@
                 <tpc>21</tpc>
                 </Note>
               </Chord>
-            <Fermata>
-              <subtype>fermataAbove</subtype>
-              <linked>
-                </linked>
-              </Fermata>
             <StaffText>
               <linked>
                 </linked>
               <offset x="-1.85312" y="-1.37524"/>
               <text>fl</text>
               </StaffText>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Chord>
               <linked>
                 </linked>
@@ -38008,17 +38008,17 @@
                 <tpc>21</tpc>
                 </Note>
               </Chord>
-            <Fermata>
-              <subtype>fermataAbove</subtype>
-              <linked>
-                </linked>
-              </Fermata>
             <StaffText>
               <linked>
                 </linked>
               <offset x="-1.85312" y="-1.37524"/>
               <text>fl</text>
               </StaffText>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Chord>
               <linked>
                 </linked>
@@ -51226,17 +51226,17 @@
                 <tpc>21</tpc>
                 </Note>
               </Chord>
-            <Fermata>
-              <subtype>fermataAbove</subtype>
-              <linked>
-                </linked>
-              </Fermata>
             <StaffText>
               <linked>
                 </linked>
               <offset x="-1.85312" y="-1.37524"/>
               <text>fl</text>
               </StaffText>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Chord>
               <linked>
                 </linked>
@@ -62524,17 +62524,17 @@
                 <tpc>21</tpc>
                 </Note>
               </Chord>
-            <Fermata>
-              <subtype>fermataAbove</subtype>
-              <linked>
-                </linked>
-              </Fermata>
             <StaffText>
               <linked>
                 </linked>
               <offset x="-1.85312" y="-1.37524"/>
               <text>fl</text>
               </StaffText>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Chord>
               <linked>
                 </linked>
@@ -74028,17 +74028,17 @@
                 <tpc>21</tpc>
                 </Note>
               </Chord>
-            <Fermata>
-              <subtype>fermataAbove</subtype>
-              <linked>
-                </linked>
-              </Fermata>
             <StaffText>
               <linked>
                 </linked>
               <offset x="-1.85312" y="-1.37524"/>
               <text>fl</text>
               </StaffText>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Chord>
               <linked>
                 </linked>
